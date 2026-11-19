@@ -1,0 +1,18 @@
+{
+ "model": "qwen3.5-0.8b",
+ "src": "swthink/results/base_enthink_s1.jsonl",
+ "budget": 8192,
+ "answer_tokens": 1024,
+ "gpu_mem": 0.55,
+ "out": "swthink/results/base_enthink_s1_bf8192.jsonl",
+ "n_rows": 200,
+ "n_forced": 121,
+ "gen_seconds": 195.5,
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5,
+  "seed": 0
+ }
+}

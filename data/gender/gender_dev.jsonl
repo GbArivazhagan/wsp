@@ -1,0 +1,948 @@
+{"noun": "adress", "gender": "Com", "freq": 6, "template": "T1", "good": "Det här är en adress.", "bad": "Det här är ett adress."}
+{"noun": "adress", "gender": "Com", "freq": 6, "template": "T2", "good": "Hon pratade länge om en ny adress igår.", "bad": "Hon pratade länge om ett nytt adress igår."}
+{"noun": "adress", "gender": "Com", "freq": 6, "template": "T3", "good": "Där borta står en stor adress.", "bad": "Där borta står ett stort adress."}
+{"noun": "adresskort", "gender": "Neut", "freq": 7, "template": "T1", "good": "Det här är ett adresskort.", "bad": "Det här är en adresskort."}
+{"noun": "adresskort", "gender": "Neut", "freq": 7, "template": "T2", "good": "Hon pratade länge om ett nytt adresskort igår.", "bad": "Hon pratade länge om en ny adresskort igår."}
+{"noun": "adresskort", "gender": "Neut", "freq": 7, "template": "T3", "good": "Där borta står ett stort adresskort.", "bad": "Där borta står en stor adresskort."}
+{"noun": "alkohol", "gender": "Com", "freq": 11, "template": "T1", "good": "Det här är en alkohol.", "bad": "Det här är ett alkohol."}
+{"noun": "alkohol", "gender": "Com", "freq": 11, "template": "T2", "good": "Hon pratade länge om en ny alkohol igår.", "bad": "Hon pratade länge om ett nytt alkohol igår."}
+{"noun": "alkohol", "gender": "Com", "freq": 11, "template": "T3", "good": "Där borta står en stor alkohol.", "bad": "Där borta står ett stort alkohol."}
+{"noun": "analys", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en analys.", "bad": "Det här är ett analys."}
+{"noun": "analys", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny analys igår.", "bad": "Hon pratade länge om ett nytt analys igår."}
+{"noun": "analys", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor analys.", "bad": "Där borta står ett stort analys."}
+{"noun": "anklagelseskrift", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en anklagelseskrift.", "bad": "Det här är ett anklagelseskrift."}
+{"noun": "anklagelseskrift", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny anklagelseskrift igår.", "bad": "Hon pratade länge om ett nytt anklagelseskrift igår."}
+{"noun": "anklagelseskrift", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor anklagelseskrift.", "bad": "Där borta står ett stort anklagelseskrift."}
+{"noun": "anläggning", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en anläggning.", "bad": "Det här är ett anläggning."}
+{"noun": "anläggning", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny anläggning igår.", "bad": "Hon pratade länge om ett nytt anläggning igår."}
+{"noun": "anläggning", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor anläggning.", "bad": "Där borta står ett stort anläggning."}
+{"noun": "anslutning", "gender": "Com", "freq": 7, "template": "T1", "good": "Det här är en anslutning.", "bad": "Det här är ett anslutning."}
+{"noun": "anslutning", "gender": "Com", "freq": 7, "template": "T2", "good": "Hon pratade länge om en ny anslutning igår.", "bad": "Hon pratade länge om ett nytt anslutning igår."}
+{"noun": "anslutning", "gender": "Com", "freq": 7, "template": "T3", "good": "Där borta står en stor anslutning.", "bad": "Där borta står ett stort anslutning."}
+{"noun": "anteckning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en anteckning.", "bad": "Det här är ett anteckning."}
+{"noun": "anteckning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny anteckning igår.", "bad": "Hon pratade länge om ett nytt anteckning igår."}
+{"noun": "anteckning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor anteckning.", "bad": "Där borta står ett stort anteckning."}
+{"noun": "användningsområde", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett användningsområde.", "bad": "Det här är en användningsområde."}
+{"noun": "användningsområde", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt användningsområde igår.", "bad": "Hon pratade länge om en ny användningsområde igår."}
+{"noun": "användningsområde", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort användningsområde.", "bad": "Där borta står en stor användningsområde."}
+{"noun": "arbetsbörda", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en arbetsbörda.", "bad": "Det här är ett arbetsbörda."}
+{"noun": "arbetsbörda", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny arbetsbörda igår.", "bad": "Hon pratade länge om ett nytt arbetsbörda igår."}
+{"noun": "arbetsbörda", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor arbetsbörda.", "bad": "Där borta står ett stort arbetsbörda."}
+{"noun": "arbetshygien", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en arbetshygien.", "bad": "Det här är ett arbetshygien."}
+{"noun": "arbetshygien", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny arbetshygien igår.", "bad": "Hon pratade länge om ett nytt arbetshygien igår."}
+{"noun": "arbetshygien", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor arbetshygien.", "bad": "Där borta står ett stort arbetshygien."}
+{"noun": "arbetsmaterial", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett arbetsmaterial.", "bad": "Det här är en arbetsmaterial."}
+{"noun": "arbetsmaterial", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt arbetsmaterial igår.", "bad": "Hon pratade länge om en ny arbetsmaterial igår."}
+{"noun": "arbetsmaterial", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort arbetsmaterial.", "bad": "Där borta står en stor arbetsmaterial."}
+{"noun": "arbetstillstånd", "gender": "Neut", "freq": 4, "template": "T1", "good": "Det här är ett arbetstillstånd.", "bad": "Det här är en arbetstillstånd."}
+{"noun": "arbetstillstånd", "gender": "Neut", "freq": 4, "template": "T2", "good": "Hon pratade länge om ett nytt arbetstillstånd igår.", "bad": "Hon pratade länge om en ny arbetstillstånd igår."}
+{"noun": "arbetstillstånd", "gender": "Neut", "freq": 4, "template": "T3", "good": "Där borta står ett stort arbetstillstånd.", "bad": "Där borta står en stor arbetstillstånd."}
+{"noun": "art", "gender": "Com", "freq": 31, "template": "T1", "good": "Det här är en art.", "bad": "Det här är ett art."}
+{"noun": "art", "gender": "Com", "freq": 31, "template": "T2", "good": "Hon pratade länge om en ny art igår.", "bad": "Hon pratade länge om ett nytt art igår."}
+{"noun": "art", "gender": "Com", "freq": 31, "template": "T3", "good": "Där borta står en stor art.", "bad": "Där borta står ett stort art."}
+{"noun": "avfallshantering", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en avfallshantering.", "bad": "Det här är ett avfallshantering."}
+{"noun": "avfallshantering", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny avfallshantering igår.", "bad": "Hon pratade länge om ett nytt avfallshantering igår."}
+{"noun": "avfallshantering", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor avfallshantering.", "bad": "Där borta står ett stort avfallshantering."}
+{"noun": "avlopp", "gender": "Neut", "freq": 5, "template": "T1", "good": "Det här är ett avlopp.", "bad": "Det här är en avlopp."}
+{"noun": "avlopp", "gender": "Neut", "freq": 5, "template": "T2", "good": "Hon pratade länge om ett nytt avlopp igår.", "bad": "Hon pratade länge om en ny avlopp igår."}
+{"noun": "avlopp", "gender": "Neut", "freq": 5, "template": "T3", "good": "Där borta står ett stort avlopp.", "bad": "Där borta står en stor avlopp."}
+{"noun": "avspänning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en avspänning.", "bad": "Det här är ett avspänning."}
+{"noun": "avspänning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny avspänning igår.", "bad": "Hon pratade länge om ett nytt avspänning igår."}
+{"noun": "avspänning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor avspänning.", "bad": "Där borta står ett stort avspänning."}
+{"noun": "avsättning", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en avsättning.", "bad": "Det här är ett avsättning."}
+{"noun": "avsättning", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny avsättning igår.", "bad": "Hon pratade länge om ett nytt avsättning igår."}
+{"noun": "avsättning", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor avsättning.", "bad": "Där borta står ett stort avsättning."}
+{"noun": "axiom", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett axiom.", "bad": "Det här är en axiom."}
+{"noun": "axiom", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt axiom igår.", "bad": "Hon pratade länge om en ny axiom igår."}
+{"noun": "axiom", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort axiom.", "bad": "Där borta står en stor axiom."}
+{"noun": "barnavårdsnämnd", "gender": "Com", "freq": 16, "template": "T1", "good": "Det här är en barnavårdsnämnd.", "bad": "Det här är ett barnavårdsnämnd."}
+{"noun": "barnavårdsnämnd", "gender": "Com", "freq": 16, "template": "T2", "good": "Hon pratade länge om en ny barnavårdsnämnd igår.", "bad": "Hon pratade länge om ett nytt barnavårdsnämnd igår."}
+{"noun": "barnavårdsnämnd", "gender": "Com", "freq": 16, "template": "T3", "good": "Där borta står en stor barnavårdsnämnd.", "bad": "Där borta står ett stort barnavårdsnämnd."}
+{"noun": "barnsköterska", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en barnsköterska.", "bad": "Det här är ett barnsköterska."}
+{"noun": "barnsköterska", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny barnsköterska igår.", "bad": "Hon pratade länge om ett nytt barnsköterska igår."}
+{"noun": "barnsköterska", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor barnsköterska.", "bad": "Där borta står ett stort barnsköterska."}
+{"noun": "barnvagn", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en barnvagn.", "bad": "Det här är ett barnvagn."}
+{"noun": "barnvagn", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny barnvagn igår.", "bad": "Hon pratade länge om ett nytt barnvagn igår."}
+{"noun": "barnvagn", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor barnvagn.", "bad": "Där borta står ett stort barnvagn."}
+{"noun": "befolkningsexplosion", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en befolkningsexplosion.", "bad": "Det här är ett befolkningsexplosion."}
+{"noun": "befolkningsexplosion", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny befolkningsexplosion igår.", "bad": "Hon pratade länge om ett nytt befolkningsexplosion igår."}
+{"noun": "befolkningsexplosion", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor befolkningsexplosion.", "bad": "Där borta står ett stort befolkningsexplosion."}
+{"noun": "befolkningstillväxt", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en befolkningstillväxt.", "bad": "Det här är ett befolkningstillväxt."}
+{"noun": "befolkningstillväxt", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny befolkningstillväxt igår.", "bad": "Hon pratade länge om ett nytt befolkningstillväxt igår."}
+{"noun": "befolkningstillväxt", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor befolkningstillväxt.", "bad": "Där borta står ett stort befolkningstillväxt."}
+{"noun": "beroendeställning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en beroendeställning.", "bad": "Det här är ett beroendeställning."}
+{"noun": "beroendeställning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny beroendeställning igår.", "bad": "Hon pratade länge om ett nytt beroendeställning igår."}
+{"noun": "beroendeställning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor beroendeställning.", "bad": "Där borta står ett stort beroendeställning."}
+{"noun": "berättigande", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett berättigande.", "bad": "Det här är en berättigande."}
+{"noun": "berättigande", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt berättigande igår.", "bad": "Hon pratade länge om en ny berättigande igår."}
+{"noun": "berättigande", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort berättigande.", "bad": "Där borta står en stor berättigande."}
+{"noun": "betning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en betning.", "bad": "Det här är ett betning."}
+{"noun": "betning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny betning igår.", "bad": "Hon pratade länge om ett nytt betning igår."}
+{"noun": "betning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor betning.", "bad": "Där borta står ett stort betning."}
+{"noun": "bildmaterial", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett bildmaterial.", "bad": "Det här är en bildmaterial."}
+{"noun": "bildmaterial", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt bildmaterial igår.", "bad": "Hon pratade länge om en ny bildmaterial igår."}
+{"noun": "bildmaterial", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort bildmaterial.", "bad": "Där borta står en stor bildmaterial."}
+{"noun": "bit", "gender": "Com", "freq": 8, "template": "T1", "good": "Det här är en bit.", "bad": "Det här är ett bit."}
+{"noun": "bit", "gender": "Com", "freq": 8, "template": "T2", "good": "Hon pratade länge om en ny bit igår.", "bad": "Hon pratade länge om ett nytt bit igår."}
+{"noun": "bit", "gender": "Com", "freq": 8, "template": "T3", "good": "Där borta står en stor bit.", "bad": "Där borta står ett stort bit."}
+{"noun": "biträde", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett biträde.", "bad": "Det här är en biträde."}
+{"noun": "biträde", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt biträde igår.", "bad": "Hon pratade länge om en ny biträde igår."}
+{"noun": "biträde", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort biträde.", "bad": "Där borta står en stor biträde."}
+{"noun": "blandning", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en blandning.", "bad": "Det här är ett blandning."}
+{"noun": "blandning", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny blandning igår.", "bad": "Hon pratade länge om ett nytt blandning igår."}
+{"noun": "blandning", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor blandning.", "bad": "Där borta står ett stort blandning."}
+{"noun": "bombardemang", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett bombardemang.", "bad": "Det här är en bombardemang."}
+{"noun": "bombardemang", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt bombardemang igår.", "bad": "Hon pratade länge om en ny bombardemang igår."}
+{"noun": "bombardemang", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort bombardemang.", "bad": "Där borta står en stor bombardemang."}
+{"noun": "bord", "gender": "Neut", "freq": 5, "template": "T1", "good": "Det här är ett bord.", "bad": "Det här är en bord."}
+{"noun": "bord", "gender": "Neut", "freq": 5, "template": "T2", "good": "Hon pratade länge om ett nytt bord igår.", "bad": "Hon pratade länge om en ny bord igår."}
+{"noun": "bord", "gender": "Neut", "freq": 5, "template": "T3", "good": "Där borta står ett stort bord.", "bad": "Där borta står en stor bord."}
+{"noun": "boskap", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en boskap.", "bad": "Det här är ett boskap."}
+{"noun": "boskap", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny boskap igår.", "bad": "Hon pratade länge om ett nytt boskap igår."}
+{"noun": "boskap", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor boskap.", "bad": "Där borta står ett stort boskap."}
+{"noun": "bostadsförmedling", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en bostadsförmedling.", "bad": "Det här är ett bostadsförmedling."}
+{"noun": "bostadsförmedling", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny bostadsförmedling igår.", "bad": "Hon pratade länge om ett nytt bostadsförmedling igår."}
+{"noun": "bostadsförmedling", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor bostadsförmedling.", "bad": "Där borta står ett stort bostadsförmedling."}
+{"noun": "bostadskonsumtion", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en bostadskonsumtion.", "bad": "Det här är ett bostadskonsumtion."}
+{"noun": "bostadskonsumtion", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny bostadskonsumtion igår.", "bad": "Hon pratade länge om ett nytt bostadskonsumtion igår."}
+{"noun": "bostadskonsumtion", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor bostadskonsumtion.", "bad": "Där borta står ett stort bostadskonsumtion."}
+{"noun": "brunkolsdistrikt", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett brunkolsdistrikt.", "bad": "Det här är en brunkolsdistrikt."}
+{"noun": "brunkolsdistrikt", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt brunkolsdistrikt igår.", "bad": "Hon pratade länge om en ny brunkolsdistrikt igår."}
+{"noun": "brunkolsdistrikt", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort brunkolsdistrikt.", "bad": "Där borta står en stor brunkolsdistrikt."}
+{"noun": "budget", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en budget.", "bad": "Det här är ett budget."}
+{"noun": "budget", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny budget igår.", "bad": "Hon pratade länge om ett nytt budget igår."}
+{"noun": "budget", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor budget.", "bad": "Där borta står ett stort budget."}
+{"noun": "bärgning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en bärgning.", "bad": "Det här är ett bärgning."}
+{"noun": "bärgning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny bärgning igår.", "bad": "Hon pratade länge om ett nytt bärgning igår."}
+{"noun": "bärgning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor bärgning.", "bad": "Där borta står ett stort bärgning."}
+{"noun": "bästis", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en bästis.", "bad": "Det här är ett bästis."}
+{"noun": "bästis", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny bästis igår.", "bad": "Hon pratade länge om ett nytt bästis igår."}
+{"noun": "bästis", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor bästis.", "bad": "Där borta står ett stort bästis."}
+{"noun": "dagbok", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en dagbok.", "bad": "Det här är ett dagbok."}
+{"noun": "dagbok", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny dagbok igår.", "bad": "Hon pratade länge om ett nytt dagbok igår."}
+{"noun": "dagbok", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor dagbok.", "bad": "Där borta står ett stort dagbok."}
+{"noun": "debatt", "gender": "Com", "freq": 15, "template": "T1", "good": "Det här är en debatt.", "bad": "Det här är ett debatt."}
+{"noun": "debatt", "gender": "Com", "freq": 15, "template": "T2", "good": "Hon pratade länge om en ny debatt igår.", "bad": "Hon pratade länge om ett nytt debatt igår."}
+{"noun": "debatt", "gender": "Com", "freq": 15, "template": "T3", "good": "Där borta står en stor debatt.", "bad": "Där borta står ett stort debatt."}
+{"noun": "detektor", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en detektor.", "bad": "Det här är ett detektor."}
+{"noun": "detektor", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny detektor igår.", "bad": "Hon pratade länge om ett nytt detektor igår."}
+{"noun": "detektor", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor detektor.", "bad": "Där borta står ett stort detektor."}
+{"noun": "diagram", "gender": "Neut", "freq": 8, "template": "T1", "good": "Det här är ett diagram.", "bad": "Det här är en diagram."}
+{"noun": "diagram", "gender": "Neut", "freq": 8, "template": "T2", "good": "Hon pratade länge om ett nytt diagram igår.", "bad": "Hon pratade länge om en ny diagram igår."}
+{"noun": "diagram", "gender": "Neut", "freq": 8, "template": "T3", "good": "Där borta står ett stort diagram.", "bad": "Där borta står en stor diagram."}
+{"noun": "dimridå", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en dimridå.", "bad": "Det här är ett dimridå."}
+{"noun": "dimridå", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny dimridå igår.", "bad": "Hon pratade länge om ett nytt dimridå igår."}
+{"noun": "dimridå", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor dimridå.", "bad": "Där borta står ett stort dimridå."}
+{"noun": "direktör", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en direktör.", "bad": "Det här är ett direktör."}
+{"noun": "direktör", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny direktör igår.", "bad": "Hon pratade länge om ett nytt direktör igår."}
+{"noun": "direktör", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor direktör.", "bad": "Där borta står ett stort direktör."}
+{"noun": "dubbelmoral", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en dubbelmoral.", "bad": "Det här är ett dubbelmoral."}
+{"noun": "dubbelmoral", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny dubbelmoral igår.", "bad": "Hon pratade länge om ett nytt dubbelmoral igår."}
+{"noun": "dubbelmoral", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor dubbelmoral.", "bad": "Där borta står ett stort dubbelmoral."}
+{"noun": "dygnsrytm", "gender": "Com", "freq": 9, "template": "T1", "good": "Det här är en dygnsrytm.", "bad": "Det här är ett dygnsrytm."}
+{"noun": "dygnsrytm", "gender": "Com", "freq": 9, "template": "T2", "good": "Hon pratade länge om en ny dygnsrytm igår.", "bad": "Hon pratade länge om ett nytt dygnsrytm igår."}
+{"noun": "dygnsrytm", "gender": "Com", "freq": 9, "template": "T3", "good": "Där borta står en stor dygnsrytm.", "bad": "Där borta står ett stort dygnsrytm."}
+{"noun": "effektivitet", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en effektivitet.", "bad": "Det här är ett effektivitet."}
+{"noun": "effektivitet", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny effektivitet igår.", "bad": "Hon pratade länge om ett nytt effektivitet igår."}
+{"noun": "effektivitet", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor effektivitet.", "bad": "Där borta står ett stort effektivitet."}
+{"noun": "efternamn", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett efternamn.", "bad": "Det här är en efternamn."}
+{"noun": "efternamn", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt efternamn igår.", "bad": "Hon pratade länge om en ny efternamn igår."}
+{"noun": "efternamn", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort efternamn.", "bad": "Där borta står en stor efternamn."}
+{"noun": "elevdebatt", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en elevdebatt.", "bad": "Det här är ett elevdebatt."}
+{"noun": "elevdebatt", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny elevdebatt igår.", "bad": "Hon pratade länge om ett nytt elevdebatt igår."}
+{"noun": "elevdebatt", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor elevdebatt.", "bad": "Där borta står ett stort elevdebatt."}
+{"noun": "energisynpunkt", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en energisynpunkt.", "bad": "Det här är ett energisynpunkt."}
+{"noun": "energisynpunkt", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny energisynpunkt igår.", "bad": "Hon pratade länge om ett nytt energisynpunkt igår."}
+{"noun": "energisynpunkt", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor energisynpunkt.", "bad": "Där borta står ett stort energisynpunkt."}
+{"noun": "energitillskott", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett energitillskott.", "bad": "Det här är en energitillskott."}
+{"noun": "energitillskott", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt energitillskott igår.", "bad": "Hon pratade länge om en ny energitillskott igår."}
+{"noun": "energitillskott", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort energitillskott.", "bad": "Där borta står en stor energitillskott."}
+{"noun": "enkammarriksdag", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en enkammarriksdag.", "bad": "Det här är ett enkammarriksdag."}
+{"noun": "enkammarriksdag", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny enkammarriksdag igår.", "bad": "Hon pratade länge om ett nytt enkammarriksdag igår."}
+{"noun": "enkammarriksdag", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor enkammarriksdag.", "bad": "Där borta står ett stort enkammarriksdag."}
+{"noun": "familjesociolog", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en familjesociolog.", "bad": "Det här är ett familjesociolog."}
+{"noun": "familjesociolog", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny familjesociolog igår.", "bad": "Hon pratade länge om ett nytt familjesociolog igår."}
+{"noun": "familjesociolog", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor familjesociolog.", "bad": "Där borta står ett stort familjesociolog."}
+{"noun": "familjetillägg", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett familjetillägg.", "bad": "Det här är en familjetillägg."}
+{"noun": "familjetillägg", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt familjetillägg igår.", "bad": "Hon pratade länge om en ny familjetillägg igår."}
+{"noun": "familjetillägg", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort familjetillägg.", "bad": "Där borta står en stor familjetillägg."}
+{"noun": "fel", "gender": "Neut", "freq": 4, "template": "T1", "good": "Det här är ett fel.", "bad": "Det här är en fel."}
+{"noun": "fel", "gender": "Neut", "freq": 4, "template": "T2", "good": "Hon pratade länge om ett nytt fel igår.", "bad": "Hon pratade länge om en ny fel igår."}
+{"noun": "fel", "gender": "Neut", "freq": 4, "template": "T3", "good": "Där borta står ett stort fel.", "bad": "Där borta står en stor fel."}
+{"noun": "felsteg", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett felsteg.", "bad": "Det här är en felsteg."}
+{"noun": "felsteg", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt felsteg igår.", "bad": "Hon pratade länge om en ny felsteg igår."}
+{"noun": "felsteg", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort felsteg.", "bad": "Där borta står en stor felsteg."}
+{"noun": "fiber", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en fiber.", "bad": "Det här är ett fiber."}
+{"noun": "fiber", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny fiber igår.", "bad": "Hon pratade länge om ett nytt fiber igår."}
+{"noun": "fiber", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor fiber.", "bad": "Där borta står ett stort fiber."}
+{"noun": "fiende", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en fiende.", "bad": "Det här är ett fiende."}
+{"noun": "fiende", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny fiende igår.", "bad": "Hon pratade länge om ett nytt fiende igår."}
+{"noun": "fiende", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor fiende.", "bad": "Där borta står ett stort fiende."}
+{"noun": "flaska", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en flaska.", "bad": "Det här är ett flaska."}
+{"noun": "flaska", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny flaska igår.", "bad": "Hon pratade länge om ett nytt flaska igår."}
+{"noun": "flaska", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor flaska.", "bad": "Där borta står ett stort flaska."}
+{"noun": "flyttningsersättning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en flyttningsersättning.", "bad": "Det här är ett flyttningsersättning."}
+{"noun": "flyttningsersättning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny flyttningsersättning igår.", "bad": "Hon pratade länge om ett nytt flyttningsersättning igår."}
+{"noun": "flyttningsersättning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor flyttningsersättning.", "bad": "Där borta står ett stort flyttningsersättning."}
+{"noun": "folkpensionär", "gender": "Com", "freq": 7, "template": "T1", "good": "Det här är en folkpensionär.", "bad": "Det här är ett folkpensionär."}
+{"noun": "folkpensionär", "gender": "Com", "freq": 7, "template": "T2", "good": "Hon pratade länge om en ny folkpensionär igår.", "bad": "Hon pratade länge om ett nytt folkpensionär igår."}
+{"noun": "folkpensionär", "gender": "Com", "freq": 7, "template": "T3", "good": "Där borta står en stor folkpensionär.", "bad": "Där borta står ett stort folkpensionär."}
+{"noun": "fordonstrafik", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en fordonstrafik.", "bad": "Det här är ett fordonstrafik."}
+{"noun": "fordonstrafik", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny fordonstrafik igår.", "bad": "Hon pratade länge om ett nytt fordonstrafik igår."}
+{"noun": "fordonstrafik", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor fordonstrafik.", "bad": "Där borta står ett stort fordonstrafik."}
+{"noun": "form", "gender": "Com", "freq": 67, "template": "T1", "good": "Det här är en form.", "bad": "Det här är ett form."}
+{"noun": "form", "gender": "Com", "freq": 67, "template": "T2", "good": "Hon pratade länge om en ny form igår.", "bad": "Hon pratade länge om ett nytt form igår."}
+{"noun": "form", "gender": "Com", "freq": 67, "template": "T3", "good": "Där borta står en stor form.", "bad": "Där borta står ett stort form."}
+{"noun": "forskning", "gender": "Com", "freq": 13, "template": "T1", "good": "Det här är en forskning.", "bad": "Det här är ett forskning."}
+{"noun": "forskning", "gender": "Com", "freq": 13, "template": "T2", "good": "Hon pratade länge om en ny forskning igår.", "bad": "Hon pratade länge om ett nytt forskning igår."}
+{"noun": "forskning", "gender": "Com", "freq": 13, "template": "T3", "good": "Där borta står en stor forskning.", "bad": "Där borta står ett stort forskning."}
+{"noun": "fosterbarn", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett fosterbarn.", "bad": "Det här är en fosterbarn."}
+{"noun": "fosterbarn", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt fosterbarn igår.", "bad": "Hon pratade länge om en ny fosterbarn igår."}
+{"noun": "fosterbarn", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort fosterbarn.", "bad": "Där borta står en stor fosterbarn."}
+{"noun": "frekvens", "gender": "Com", "freq": 6, "template": "T1", "good": "Det här är en frekvens.", "bad": "Det här är ett frekvens."}
+{"noun": "frekvens", "gender": "Com", "freq": 6, "template": "T2", "good": "Hon pratade länge om en ny frekvens igår.", "bad": "Hon pratade länge om ett nytt frekvens igår."}
+{"noun": "frekvens", "gender": "Com", "freq": 6, "template": "T3", "good": "Där borta står en stor frekvens.", "bad": "Där borta står ett stort frekvens."}
+{"noun": "fritidsnämnd", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en fritidsnämnd.", "bad": "Det här är ett fritidsnämnd."}
+{"noun": "fritidsnämnd", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny fritidsnämnd igår.", "bad": "Hon pratade länge om ett nytt fritidsnämnd igår."}
+{"noun": "fritidsnämnd", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor fritidsnämnd.", "bad": "Där borta står ett stort fritidsnämnd."}
+{"noun": "färgseende", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett färgseende.", "bad": "Det här är en färgseende."}
+{"noun": "färgseende", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt färgseende igår.", "bad": "Hon pratade länge om en ny färgseende igår."}
+{"noun": "färgseende", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort färgseende.", "bad": "Där borta står en stor färgseende."}
+{"noun": "födelseöverskott", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett födelseöverskott.", "bad": "Det här är en födelseöverskott."}
+{"noun": "födelseöverskott", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt födelseöverskott igår.", "bad": "Hon pratade länge om en ny födelseöverskott igår."}
+{"noun": "födelseöverskott", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort födelseöverskott.", "bad": "Där borta står en stor födelseöverskott."}
+{"noun": "fördel", "gender": "Com", "freq": 13, "template": "T1", "good": "Det här är en fördel.", "bad": "Det här är ett fördel."}
+{"noun": "fördel", "gender": "Com", "freq": 13, "template": "T2", "good": "Hon pratade länge om en ny fördel igår.", "bad": "Hon pratade länge om ett nytt fördel igår."}
+{"noun": "fördel", "gender": "Com", "freq": 13, "template": "T3", "good": "Där borta står en stor fördel.", "bad": "Där borta står ett stort fördel."}
+{"noun": "fördelning", "gender": "Com", "freq": 22, "template": "T1", "good": "Det här är en fördelning.", "bad": "Det här är ett fördelning."}
+{"noun": "fördelning", "gender": "Com", "freq": 22, "template": "T2", "good": "Hon pratade länge om en ny fördelning igår.", "bad": "Hon pratade länge om ett nytt fördelning igår."}
+{"noun": "fördelning", "gender": "Com", "freq": 22, "template": "T3", "good": "Där borta står en stor fördelning.", "bad": "Där borta står ett stort fördelning."}
+{"noun": "förening", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en förening.", "bad": "Det här är ett förening."}
+{"noun": "förening", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny förening igår.", "bad": "Hon pratade länge om ett nytt förening igår."}
+{"noun": "förening", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor förening.", "bad": "Där borta står ett stort förening."}
+{"noun": "företagsform", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en företagsform.", "bad": "Det här är ett företagsform."}
+{"noun": "företagsform", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny företagsform igår.", "bad": "Hon pratade länge om ett nytt företagsform igår."}
+{"noun": "företagsform", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor företagsform.", "bad": "Där borta står ett stort företagsform."}
+{"noun": "författning", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en författning.", "bad": "Det här är ett författning."}
+{"noun": "författning", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny författning igår.", "bad": "Hon pratade länge om ett nytt författning igår."}
+{"noun": "författning", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor författning.", "bad": "Där borta står ett stort författning."}
+{"noun": "förslag", "gender": "Neut", "freq": 16, "template": "T1", "good": "Det här är ett förslag.", "bad": "Det här är en förslag."}
+{"noun": "förslag", "gender": "Neut", "freq": 16, "template": "T2", "good": "Hon pratade länge om ett nytt förslag igår.", "bad": "Hon pratade länge om en ny förslag igår."}
+{"noun": "förslag", "gender": "Neut", "freq": 16, "template": "T3", "good": "Där borta står ett stort förslag.", "bad": "Där borta står en stor förslag."}
+{"noun": "förstatligande", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett förstatligande.", "bad": "Det här är en förstatligande."}
+{"noun": "förstatligande", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt förstatligande igår.", "bad": "Hon pratade länge om en ny förstatligande igår."}
+{"noun": "förstatligande", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort förstatligande.", "bad": "Där borta står en stor förstatligande."}
+{"noun": "förståelse", "gender": "Com", "freq": 7, "template": "T1", "good": "Det här är en förståelse.", "bad": "Det här är ett förståelse."}
+{"noun": "förståelse", "gender": "Com", "freq": 7, "template": "T2", "good": "Hon pratade länge om en ny förståelse igår.", "bad": "Hon pratade länge om ett nytt förståelse igår."}
+{"noun": "förståelse", "gender": "Com", "freq": 7, "template": "T3", "good": "Där borta står en stor förståelse.", "bad": "Där borta står ett stort förståelse."}
+{"noun": "försök", "gender": "Neut", "freq": 27, "template": "T1", "good": "Det här är ett försök.", "bad": "Det här är en försök."}
+{"noun": "försök", "gender": "Neut", "freq": 27, "template": "T2", "good": "Hon pratade länge om ett nytt försök igår.", "bad": "Hon pratade länge om en ny försök igår."}
+{"noun": "försök", "gender": "Neut", "freq": 27, "template": "T3", "good": "Där borta står ett stort försök.", "bad": "Där borta står en stor försök."}
+{"noun": "försörjare", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en försörjare.", "bad": "Det här är ett försörjare."}
+{"noun": "försörjare", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny försörjare igår.", "bad": "Hon pratade länge om ett nytt försörjare igår."}
+{"noun": "försörjare", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor försörjare.", "bad": "Där borta står ett stort försörjare."}
+{"noun": "försörjningsbalans", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en försörjningsbalans.", "bad": "Det här är ett försörjningsbalans."}
+{"noun": "försörjningsbalans", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny försörjningsbalans igår.", "bad": "Hon pratade länge om ett nytt försörjningsbalans igår."}
+{"noun": "försörjningsbalans", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor försörjningsbalans.", "bad": "Där borta står ett stort försörjningsbalans."}
+{"noun": "förvärvsinkomst", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en förvärvsinkomst.", "bad": "Det här är ett förvärvsinkomst."}
+{"noun": "förvärvsinkomst", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny förvärvsinkomst igår.", "bad": "Hon pratade länge om ett nytt förvärvsinkomst igår."}
+{"noun": "förvärvsinkomst", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor förvärvsinkomst.", "bad": "Där borta står ett stort förvärvsinkomst."}
+{"noun": "gata", "gender": "Com", "freq": 12, "template": "T1", "good": "Det här är en gata.", "bad": "Det här är ett gata."}
+{"noun": "gata", "gender": "Com", "freq": 12, "template": "T2", "good": "Hon pratade länge om en ny gata igår.", "bad": "Hon pratade länge om ett nytt gata igår."}
+{"noun": "gata", "gender": "Com", "freq": 12, "template": "T3", "good": "Där borta står en stor gata.", "bad": "Där borta står ett stort gata."}
+{"noun": "gatuförteckning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en gatuförteckning.", "bad": "Det här är ett gatuförteckning."}
+{"noun": "gatuförteckning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny gatuförteckning igår.", "bad": "Hon pratade länge om ett nytt gatuförteckning igår."}
+{"noun": "gatuförteckning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor gatuförteckning.", "bad": "Där borta står ett stort gatuförteckning."}
+{"noun": "genomsnittstal", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett genomsnittstal.", "bad": "Det här är en genomsnittstal."}
+{"noun": "genomsnittstal", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt genomsnittstal igår.", "bad": "Hon pratade länge om en ny genomsnittstal igår."}
+{"noun": "genomsnittstal", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort genomsnittstal.", "bad": "Där borta står en stor genomsnittstal."}
+{"noun": "giftermål", "gender": "Neut", "freq": 6, "template": "T1", "good": "Det här är ett giftermål.", "bad": "Det här är en giftermål."}
+{"noun": "giftermål", "gender": "Neut", "freq": 6, "template": "T2", "good": "Hon pratade länge om ett nytt giftermål igår.", "bad": "Hon pratade länge om en ny giftermål igår."}
+{"noun": "giftermål", "gender": "Neut", "freq": 6, "template": "T3", "good": "Där borta står ett stort giftermål.", "bad": "Där borta står en stor giftermål."}
+{"noun": "giftorätt", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en giftorätt.", "bad": "Det här är ett giftorätt."}
+{"noun": "giftorätt", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny giftorätt igår.", "bad": "Hon pratade länge om ett nytt giftorätt igår."}
+{"noun": "giftorätt", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor giftorätt.", "bad": "Där borta står ett stort giftorätt."}
+{"noun": "gruppförsök", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett gruppförsök.", "bad": "Det här är en gruppförsök."}
+{"noun": "gruppförsök", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt gruppförsök igår.", "bad": "Hon pratade länge om en ny gruppförsök igår."}
+{"noun": "gruppförsök", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort gruppförsök.", "bad": "Där borta står en stor gruppförsök."}
+{"noun": "gräns", "gender": "Com", "freq": 10, "template": "T1", "good": "Det här är en gräns.", "bad": "Det här är ett gräns."}
+{"noun": "gräns", "gender": "Com", "freq": 10, "template": "T2", "good": "Hon pratade länge om en ny gräns igår.", "bad": "Hon pratade länge om ett nytt gräns igår."}
+{"noun": "gräns", "gender": "Com", "freq": 10, "template": "T3", "good": "Där borta står en stor gräns.", "bad": "Där borta står ett stort gräns."}
+{"noun": "grönska", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en grönska.", "bad": "Det här är ett grönska."}
+{"noun": "grönska", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny grönska igår.", "bad": "Hon pratade länge om ett nytt grönska igår."}
+{"noun": "grönska", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor grönska.", "bad": "Där borta står ett stort grönska."}
+{"noun": "gymnasist", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en gymnasist.", "bad": "Det här är ett gymnasist."}
+{"noun": "gymnasist", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny gymnasist igår.", "bad": "Hon pratade länge om ett nytt gymnasist igår."}
+{"noun": "gymnasist", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor gymnasist.", "bad": "Där borta står ett stort gymnasist."}
+{"noun": "gynekolog", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en gynekolog.", "bad": "Det här är ett gynekolog."}
+{"noun": "gynekolog", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny gynekolog igår.", "bad": "Hon pratade länge om ett nytt gynekolog igår."}
+{"noun": "gynekolog", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor gynekolog.", "bad": "Där borta står ett stort gynekolog."}
+{"noun": "handel", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en handel.", "bad": "Det här är ett handel."}
+{"noun": "handel", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny handel igår.", "bad": "Hon pratade länge om ett nytt handel igår."}
+{"noun": "handel", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor handel.", "bad": "Där borta står ett stort handel."}
+{"noun": "hane", "gender": "Com", "freq": 8, "template": "T1", "good": "Det här är en hane.", "bad": "Det här är ett hane."}
+{"noun": "hane", "gender": "Com", "freq": 8, "template": "T2", "good": "Hon pratade länge om en ny hane igår.", "bad": "Hon pratade länge om ett nytt hane igår."}
+{"noun": "hane", "gender": "Com", "freq": 8, "template": "T3", "good": "Där borta står en stor hane.", "bad": "Där borta står ett stort hane."}
+{"noun": "heltidstjänst", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en heltidstjänst.", "bad": "Det här är ett heltidstjänst."}
+{"noun": "heltidstjänst", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny heltidstjänst igår.", "bad": "Hon pratade länge om ett nytt heltidstjänst igår."}
+{"noun": "heltidstjänst", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor heltidstjänst.", "bad": "Där borta står ett stort heltidstjänst."}
+{"noun": "hemmafru", "gender": "Com", "freq": 21, "template": "T1", "good": "Det här är en hemmafru.", "bad": "Det här är ett hemmafru."}
+{"noun": "hemmafru", "gender": "Com", "freq": 21, "template": "T2", "good": "Hon pratade länge om en ny hemmafru igår.", "bad": "Hon pratade länge om ett nytt hemmafru igår."}
+{"noun": "hemmafru", "gender": "Com", "freq": 21, "template": "T3", "good": "Där borta står en stor hemmafru.", "bad": "Där borta står ett stort hemmafru."}
+{"noun": "himmel", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en himmel.", "bad": "Det här är ett himmel."}
+{"noun": "himmel", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny himmel igår.", "bad": "Hon pratade länge om ett nytt himmel igår."}
+{"noun": "himmel", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor himmel.", "bad": "Där borta står ett stort himmel."}
+{"noun": "hjulställ", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett hjulställ.", "bad": "Det här är en hjulställ."}
+{"noun": "hjulställ", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt hjulställ igår.", "bad": "Hon pratade länge om en ny hjulställ igår."}
+{"noun": "hjulställ", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort hjulställ.", "bad": "Där borta står en stor hjulställ."}
+{"noun": "hjärnscintigrafi", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en hjärnscintigrafi.", "bad": "Det här är ett hjärnscintigrafi."}
+{"noun": "hjärnscintigrafi", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny hjärnscintigrafi igår.", "bad": "Hon pratade länge om ett nytt hjärnscintigrafi igår."}
+{"noun": "hjärnscintigrafi", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor hjärnscintigrafi.", "bad": "Där borta står ett stort hjärnscintigrafi."}
+{"noun": "hjärnvätska", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en hjärnvätska.", "bad": "Det här är ett hjärnvätska."}
+{"noun": "hjärnvätska", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny hjärnvätska igår.", "bad": "Hon pratade länge om ett nytt hjärnvätska igår."}
+{"noun": "hjärnvätska", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor hjärnvätska.", "bad": "Där borta står ett stort hjärnvätska."}
+{"noun": "hot", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett hot.", "bad": "Det här är en hot."}
+{"noun": "hot", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt hot igår.", "bad": "Hon pratade länge om en ny hot igår."}
+{"noun": "hot", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort hot.", "bad": "Där borta står en stor hot."}
+{"noun": "husmor", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en husmor.", "bad": "Det här är ett husmor."}
+{"noun": "husmor", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny husmor igår.", "bad": "Hon pratade länge om ett nytt husmor igår."}
+{"noun": "husmor", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor husmor.", "bad": "Där borta står ett stort husmor."}
+{"noun": "hyresbidrag", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett hyresbidrag.", "bad": "Det här är en hyresbidrag."}
+{"noun": "hyresbidrag", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt hyresbidrag igår.", "bad": "Hon pratade länge om en ny hyresbidrag igår."}
+{"noun": "hyresbidrag", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort hyresbidrag.", "bad": "Där borta står en stor hyresbidrag."}
+{"noun": "hyreskasern", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en hyreskasern.", "bad": "Det här är ett hyreskasern."}
+{"noun": "hyreskasern", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny hyreskasern igår.", "bad": "Hon pratade länge om ett nytt hyreskasern igår."}
+{"noun": "hyreskasern", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor hyreskasern.", "bad": "Där borta står ett stort hyreskasern."}
+{"noun": "hyressplittring", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en hyressplittring.", "bad": "Det här är ett hyressplittring."}
+{"noun": "hyressplittring", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny hyressplittring igår.", "bad": "Hon pratade länge om ett nytt hyressplittring igår."}
+{"noun": "hyressplittring", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor hyressplittring.", "bad": "Där borta står ett stort hyressplittring."}
+{"noun": "hyresvärd", "gender": "Com", "freq": 6, "template": "T1", "good": "Det här är en hyresvärd.", "bad": "Det här är ett hyresvärd."}
+{"noun": "hyresvärd", "gender": "Com", "freq": 6, "template": "T2", "good": "Hon pratade länge om en ny hyresvärd igår.", "bad": "Hon pratade länge om ett nytt hyresvärd igår."}
+{"noun": "hyresvärd", "gender": "Com", "freq": 6, "template": "T3", "good": "Där borta står en stor hyresvärd.", "bad": "Där borta står ett stort hyresvärd."}
+{"noun": "hästfordon", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett hästfordon.", "bad": "Det här är en hästfordon."}
+{"noun": "hästfordon", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt hästfordon igår.", "bad": "Hon pratade länge om en ny hästfordon igår."}
+{"noun": "hästfordon", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort hästfordon.", "bad": "Där borta står en stor hästfordon."}
+{"noun": "hävd", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en hävd.", "bad": "Det här är ett hävd."}
+{"noun": "hävd", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny hävd igår.", "bad": "Hon pratade länge om ett nytt hävd igår."}
+{"noun": "hävd", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor hävd.", "bad": "Där borta står ett stort hävd."}
+{"noun": "incest", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en incest.", "bad": "Det här är ett incest."}
+{"noun": "incest", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny incest igår.", "bad": "Hon pratade länge om ett nytt incest igår."}
+{"noun": "incest", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor incest.", "bad": "Där borta står ett stort incest."}
+{"noun": "industriminister", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en industriminister.", "bad": "Det här är ett industriminister."}
+{"noun": "industriminister", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny industriminister igår.", "bad": "Hon pratade länge om ett nytt industriminister igår."}
+{"noun": "industriminister", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor industriminister.", "bad": "Där borta står ett stort industriminister."}
+{"noun": "industristad", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en industristad.", "bad": "Det här är ett industristad."}
+{"noun": "industristad", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny industristad igår.", "bad": "Hon pratade länge om ett nytt industristad igår."}
+{"noun": "industristad", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor industristad.", "bad": "Där borta står ett stort industristad."}
+{"noun": "inflytande", "gender": "Neut", "freq": 7, "template": "T1", "good": "Det här är ett inflytande.", "bad": "Det här är en inflytande."}
+{"noun": "inflytande", "gender": "Neut", "freq": 7, "template": "T2", "good": "Hon pratade länge om ett nytt inflytande igår.", "bad": "Hon pratade länge om en ny inflytande igår."}
+{"noun": "inflytande", "gender": "Neut", "freq": 7, "template": "T3", "good": "Där borta står ett stort inflytande.", "bad": "Där borta står en stor inflytande."}
+{"noun": "ingripande", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett ingripande.", "bad": "Det här är en ingripande."}
+{"noun": "ingripande", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt ingripande igår.", "bad": "Hon pratade länge om en ny ingripande igår."}
+{"noun": "ingripande", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort ingripande.", "bad": "Där borta står en stor ingripande."}
+{"noun": "inlägg", "gender": "Neut", "freq": 4, "template": "T1", "good": "Det här är ett inlägg.", "bad": "Det här är en inlägg."}
+{"noun": "inlägg", "gender": "Neut", "freq": 4, "template": "T2", "good": "Hon pratade länge om ett nytt inlägg igår.", "bad": "Hon pratade länge om en ny inlägg igår."}
+{"noun": "inlägg", "gender": "Neut", "freq": 4, "template": "T3", "good": "Där borta står ett stort inlägg.", "bad": "Där borta står en stor inlägg."}
+{"noun": "inlärning", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en inlärning.", "bad": "Det här är ett inlärning."}
+{"noun": "inlärning", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny inlärning igår.", "bad": "Hon pratade länge om ett nytt inlärning igår."}
+{"noun": "inlärning", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor inlärning.", "bad": "Där borta står ett stort inlärning."}
+{"noun": "instans", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en instans.", "bad": "Det här är ett instans."}
+{"noun": "instans", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny instans igår.", "bad": "Hon pratade länge om ett nytt instans igår."}
+{"noun": "instans", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor instans.", "bad": "Där borta står ett stort instans."}
+{"noun": "internatförläggning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en internatförläggning.", "bad": "Det här är ett internatförläggning."}
+{"noun": "internatförläggning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny internatförläggning igår.", "bad": "Hon pratade länge om ett nytt internatförläggning igår."}
+{"noun": "internatförläggning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor internatförläggning.", "bad": "Där borta står ett stort internatförläggning."}
+{"noun": "invånare", "gender": "Com", "freq": 21, "template": "T1", "good": "Det här är en invånare.", "bad": "Det här är ett invånare."}
+{"noun": "invånare", "gender": "Com", "freq": 21, "template": "T2", "good": "Hon pratade länge om en ny invånare igår.", "bad": "Hon pratade länge om ett nytt invånare igår."}
+{"noun": "invånare", "gender": "Com", "freq": 21, "template": "T3", "good": "Där borta står en stor invånare.", "bad": "Där borta står ett stort invånare."}
+{"noun": "jagform", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en jagform.", "bad": "Det här är ett jagform."}
+{"noun": "jagform", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny jagform igår.", "bad": "Hon pratade länge om ett nytt jagform igår."}
+{"noun": "jagform", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor jagform.", "bad": "Där borta står ett stort jagform."}
+{"noun": "jordbrukskollektiv", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett jordbrukskollektiv.", "bad": "Det här är en jordbrukskollektiv."}
+{"noun": "jordbrukskollektiv", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt jordbrukskollektiv igår.", "bad": "Hon pratade länge om en ny jordbrukskollektiv igår."}
+{"noun": "jordbrukskollektiv", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort jordbrukskollektiv.", "bad": "Där borta står en stor jordbrukskollektiv."}
+{"noun": "jämlikhetskrav", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett jämlikhetskrav.", "bad": "Det här är en jämlikhetskrav."}
+{"noun": "jämlikhetskrav", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt jämlikhetskrav igår.", "bad": "Hon pratade länge om en ny jämlikhetskrav igår."}
+{"noun": "jämlikhetskrav", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort jämlikhetskrav.", "bad": "Där borta står en stor jämlikhetskrav."}
+{"noun": "kallvattenskran", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en kallvattenskran.", "bad": "Det här är ett kallvattenskran."}
+{"noun": "kallvattenskran", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny kallvattenskran igår.", "bad": "Hon pratade länge om ett nytt kallvattenskran igår."}
+{"noun": "kallvattenskran", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor kallvattenskran.", "bad": "Där borta står ett stort kallvattenskran."}
+{"noun": "kapitalmarknad", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en kapitalmarknad.", "bad": "Det här är ett kapitalmarknad."}
+{"noun": "kapitalmarknad", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny kapitalmarknad igår.", "bad": "Hon pratade länge om ett nytt kapitalmarknad igår."}
+{"noun": "kapitalmarknad", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor kapitalmarknad.", "bad": "Där borta står ett stort kapitalmarknad."}
+{"noun": "karriär", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en karriär.", "bad": "Det här är ett karriär."}
+{"noun": "karriär", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny karriär igår.", "bad": "Hon pratade länge om ett nytt karriär igår."}
+{"noun": "karriär", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor karriär.", "bad": "Där borta står ett stort karriär."}
+{"noun": "kartellnämnd", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en kartellnämnd.", "bad": "Det här är ett kartellnämnd."}
+{"noun": "kartellnämnd", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny kartellnämnd igår.", "bad": "Hon pratade länge om ett nytt kartellnämnd igår."}
+{"noun": "kartellnämnd", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor kartellnämnd.", "bad": "Där borta står ett stort kartellnämnd."}
+{"noun": "kemi", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en kemi.", "bad": "Det här är ett kemi."}
+{"noun": "kemi", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny kemi igår.", "bad": "Hon pratade länge om ett nytt kemi igår."}
+{"noun": "kemi", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor kemi.", "bad": "Där borta står ett stort kemi."}
+{"noun": "kola", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en kola.", "bad": "Det här är ett kola."}
+{"noun": "kola", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny kola igår.", "bad": "Hon pratade länge om ett nytt kola igår."}
+{"noun": "kola", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor kola.", "bad": "Där borta står ett stort kola."}
+{"noun": "kollektivavtal", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett kollektivavtal.", "bad": "Det här är en kollektivavtal."}
+{"noun": "kollektivavtal", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt kollektivavtal igår.", "bad": "Hon pratade länge om en ny kollektivavtal igår."}
+{"noun": "kollektivavtal", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort kollektivavtal.", "bad": "Där borta står en stor kollektivavtal."}
+{"noun": "konflikt", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en konflikt.", "bad": "Det här är ett konflikt."}
+{"noun": "konflikt", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny konflikt igår.", "bad": "Hon pratade länge om ett nytt konflikt igår."}
+{"noun": "konflikt", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor konflikt.", "bad": "Där borta står ett stort konflikt."}
+{"noun": "konkurrensskola", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en konkurrensskola.", "bad": "Det här är ett konkurrensskola."}
+{"noun": "konkurrensskola", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny konkurrensskola igår.", "bad": "Hon pratade länge om ett nytt konkurrensskola igår."}
+{"noun": "konkurrensskola", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor konkurrensskola.", "bad": "Där borta står ett stort konkurrensskola."}
+{"noun": "konst", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en konst.", "bad": "Det här är ett konst."}
+{"noun": "konst", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny konst igår.", "bad": "Hon pratade länge om ett nytt konst igår."}
+{"noun": "konst", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor konst.", "bad": "Där borta står ett stort konst."}
+{"noun": "kopp", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en kopp.", "bad": "Det här är ett kopp."}
+{"noun": "kopp", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny kopp igår.", "bad": "Hon pratade länge om ett nytt kopp igår."}
+{"noun": "kopp", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor kopp.", "bad": "Där borta står ett stort kopp."}
+{"noun": "kraftstation", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en kraftstation.", "bad": "Det här är ett kraftstation."}
+{"noun": "kraftstation", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny kraftstation igår.", "bad": "Hon pratade länge om ett nytt kraftstation igår."}
+{"noun": "kraftstation", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor kraftstation.", "bad": "Där borta står ett stort kraftstation."}
+{"noun": "krona", "gender": "Com", "freq": 54, "template": "T1", "good": "Det här är en krona.", "bad": "Det här är ett krona."}
+{"noun": "krona", "gender": "Com", "freq": 54, "template": "T2", "good": "Hon pratade länge om en ny krona igår.", "bad": "Hon pratade länge om ett nytt krona igår."}
+{"noun": "krona", "gender": "Com", "freq": 54, "template": "T3", "good": "Där borta står en stor krona.", "bad": "Där borta står ett stort krona."}
+{"noun": "kropp", "gender": "Com", "freq": 8, "template": "T1", "good": "Det här är en kropp.", "bad": "Det här är ett kropp."}
+{"noun": "kropp", "gender": "Com", "freq": 8, "template": "T2", "good": "Hon pratade länge om en ny kropp igår.", "bad": "Hon pratade länge om ett nytt kropp igår."}
+{"noun": "kropp", "gender": "Com", "freq": 8, "template": "T3", "good": "Där borta står en stor kropp.", "bad": "Där borta står ett stort kropp."}
+{"noun": "kunskapsinnehav", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett kunskapsinnehav.", "bad": "Det här är en kunskapsinnehav."}
+{"noun": "kunskapsinnehav", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt kunskapsinnehav igår.", "bad": "Hon pratade länge om en ny kunskapsinnehav igår."}
+{"noun": "kunskapsinnehav", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort kunskapsinnehav.", "bad": "Där borta står en stor kunskapsinnehav."}
+{"noun": "kursivering", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en kursivering.", "bad": "Det här är ett kursivering."}
+{"noun": "kursivering", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny kursivering igår.", "bad": "Hon pratade länge om ett nytt kursivering igår."}
+{"noun": "kursivering", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor kursivering.", "bad": "Där borta står ett stort kursivering."}
+{"noun": "kylning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en kylning.", "bad": "Det här är ett kylning."}
+{"noun": "kylning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny kylning igår.", "bad": "Hon pratade länge om ett nytt kylning igår."}
+{"noun": "kylning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor kylning.", "bad": "Där borta står ett stort kylning."}
+{"noun": "källa", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en källa.", "bad": "Det här är ett källa."}
+{"noun": "källa", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny källa igår.", "bad": "Hon pratade länge om ett nytt källa igår."}
+{"noun": "källa", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor källa.", "bad": "Där borta står ett stort källa."}
+{"noun": "könsrollsprägling", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en könsrollsprägling.", "bad": "Det här är ett könsrollsprägling."}
+{"noun": "könsrollsprägling", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny könsrollsprägling igår.", "bad": "Hon pratade länge om ett nytt könsrollsprägling igår."}
+{"noun": "könsrollsprägling", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor könsrollsprägling.", "bad": "Där borta står ett stort könsrollsprägling."}
+{"noun": "leksak", "gender": "Com", "freq": 27, "template": "T1", "good": "Det här är en leksak.", "bad": "Det här är ett leksak."}
+{"noun": "leksak", "gender": "Com", "freq": 27, "template": "T2", "good": "Hon pratade länge om en ny leksak igår.", "bad": "Hon pratade länge om ett nytt leksak igår."}
+{"noun": "leksak", "gender": "Com", "freq": 27, "template": "T3", "good": "Där borta står en stor leksak.", "bad": "Där borta står ett stort leksak."}
+{"noun": "leksakssammanhang", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett leksakssammanhang.", "bad": "Det här är en leksakssammanhang."}
+{"noun": "leksakssammanhang", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt leksakssammanhang igår.", "bad": "Hon pratade länge om en ny leksakssammanhang igår."}
+{"noun": "leksakssammanhang", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort leksakssammanhang.", "bad": "Där borta står en stor leksakssammanhang."}
+{"noun": "lera", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en lera.", "bad": "Det här är ett lera."}
+{"noun": "lera", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny lera igår.", "bad": "Hon pratade länge om ett nytt lera igår."}
+{"noun": "lera", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor lera.", "bad": "Där borta står ett stort lera."}
+{"noun": "linje", "gender": "Com", "freq": 14, "template": "T1", "good": "Det här är en linje.", "bad": "Det här är ett linje."}
+{"noun": "linje", "gender": "Com", "freq": 14, "template": "T2", "good": "Hon pratade länge om en ny linje igår.", "bad": "Hon pratade länge om ett nytt linje igår."}
+{"noun": "linje", "gender": "Com", "freq": 14, "template": "T3", "good": "Där borta står en stor linje.", "bad": "Där borta står ett stort linje."}
+{"noun": "livsmedelsproduktion", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en livsmedelsproduktion.", "bad": "Det här är ett livsmedelsproduktion."}
+{"noun": "livsmedelsproduktion", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny livsmedelsproduktion igår.", "bad": "Hon pratade länge om ett nytt livsmedelsproduktion igår."}
+{"noun": "livsmedelsproduktion", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor livsmedelsproduktion.", "bad": "Där borta står ett stort livsmedelsproduktion."}
+{"noun": "livsnödvändighet", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en livsnödvändighet.", "bad": "Det här är ett livsnödvändighet."}
+{"noun": "livsnödvändighet", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny livsnödvändighet igår.", "bad": "Hon pratade länge om ett nytt livsnödvändighet igår."}
+{"noun": "livsnödvändighet", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor livsnödvändighet.", "bad": "Där borta står ett stort livsnödvändighet."}
+{"noun": "livssyn", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en livssyn.", "bad": "Det här är ett livssyn."}
+{"noun": "livssyn", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny livssyn igår.", "bad": "Hon pratade länge om ett nytt livssyn igår."}
+{"noun": "livssyn", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor livssyn.", "bad": "Där borta står ett stort livssyn."}
+{"noun": "ljus", "gender": "Neut", "freq": 12, "template": "T1", "good": "Det här är ett ljus.", "bad": "Det här är en ljus."}
+{"noun": "ljus", "gender": "Neut", "freq": 12, "template": "T2", "good": "Hon pratade länge om ett nytt ljus igår.", "bad": "Hon pratade länge om en ny ljus igår."}
+{"noun": "ljus", "gender": "Neut", "freq": 12, "template": "T3", "good": "Där borta står ett stort ljus.", "bad": "Där borta står en stor ljus."}
+{"noun": "läge", "gender": "Neut", "freq": 11, "template": "T1", "good": "Det här är ett läge.", "bad": "Det här är en läge."}
+{"noun": "läge", "gender": "Neut", "freq": 11, "template": "T2", "good": "Hon pratade länge om ett nytt läge igår.", "bad": "Hon pratade länge om en ny läge igår."}
+{"noun": "läge", "gender": "Neut", "freq": 11, "template": "T3", "good": "Där borta står ett stort läge.", "bad": "Där borta står en stor läge."}
+{"noun": "läkarkontroll", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en läkarkontroll.", "bad": "Det här är ett läkarkontroll."}
+{"noun": "läkarkontroll", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny läkarkontroll igår.", "bad": "Hon pratade länge om ett nytt läkarkontroll igår."}
+{"noun": "läkarkontroll", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor läkarkontroll.", "bad": "Där borta står ett stort läkarkontroll."}
+{"noun": "lämmeltåg", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett lämmeltåg.", "bad": "Det här är en lämmeltåg."}
+{"noun": "lämmeltåg", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt lämmeltåg igår.", "bad": "Hon pratade länge om en ny lämmeltåg igår."}
+{"noun": "lämmeltåg", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort lämmeltåg.", "bad": "Där borta står en stor lämmeltåg."}
+{"noun": "län", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett län.", "bad": "Det här är en län."}
+{"noun": "län", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt län igår.", "bad": "Hon pratade länge om en ny län igår."}
+{"noun": "län", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort län.", "bad": "Där borta står en stor län."}
+{"noun": "längtan", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en längtan.", "bad": "Det här är ett längtan."}
+{"noun": "längtan", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny längtan igår.", "bad": "Hon pratade länge om ett nytt längtan igår."}
+{"noun": "längtan", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor längtan.", "bad": "Där borta står ett stort längtan."}
+{"noun": "lära", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en lära.", "bad": "Det här är ett lära."}
+{"noun": "lära", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny lära igår.", "bad": "Hon pratade länge om ett nytt lära igår."}
+{"noun": "lära", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor lära.", "bad": "Där borta står ett stort lära."}
+{"noun": "maj", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en maj.", "bad": "Det här är ett maj."}
+{"noun": "maj", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny maj igår.", "bad": "Hon pratade länge om ett nytt maj igår."}
+{"noun": "maj", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor maj.", "bad": "Där borta står ett stort maj."}
+{"noun": "marketenteri", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett marketenteri.", "bad": "Det här är en marketenteri."}
+{"noun": "marketenteri", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt marketenteri igår.", "bad": "Hon pratade länge om en ny marketenteri igår."}
+{"noun": "marketenteri", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort marketenteri.", "bad": "Där borta står en stor marketenteri."}
+{"noun": "massa", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en massa.", "bad": "Det här är ett massa."}
+{"noun": "massa", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny massa igår.", "bad": "Hon pratade länge om ett nytt massa igår."}
+{"noun": "massa", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor massa.", "bad": "Där borta står ett stort massa."}
+{"noun": "materielbyrå", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en materielbyrå.", "bad": "Det här är ett materielbyrå."}
+{"noun": "materielbyrå", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny materielbyrå igår.", "bad": "Hon pratade länge om ett nytt materielbyrå igår."}
+{"noun": "materielbyrå", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor materielbyrå.", "bad": "Där borta står ett stort materielbyrå."}
+{"noun": "matriarkat", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett matriarkat.", "bad": "Det här är en matriarkat."}
+{"noun": "matriarkat", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt matriarkat igår.", "bad": "Hon pratade länge om en ny matriarkat igår."}
+{"noun": "matriarkat", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort matriarkat.", "bad": "Där borta står en stor matriarkat."}
+{"noun": "medel", "gender": "Neut", "freq": 21, "template": "T1", "good": "Det här är ett medel.", "bad": "Det här är en medel."}
+{"noun": "medel", "gender": "Neut", "freq": 21, "template": "T2", "good": "Hon pratade länge om ett nytt medel igår.", "bad": "Hon pratade länge om en ny medel igår."}
+{"noun": "medel", "gender": "Neut", "freq": 21, "template": "T3", "good": "Där borta står ett stort medel.", "bad": "Där borta står en stor medel."}
+{"noun": "medinflytande", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett medinflytande.", "bad": "Det här är en medinflytande."}
+{"noun": "medinflytande", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt medinflytande igår.", "bad": "Hon pratade länge om en ny medinflytande igår."}
+{"noun": "medinflytande", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort medinflytande.", "bad": "Där borta står en stor medinflytande."}
+{"noun": "medlemskap", "gender": "Neut", "freq": 5, "template": "T1", "good": "Det här är ett medlemskap.", "bad": "Det här är en medlemskap."}
+{"noun": "medlemskap", "gender": "Neut", "freq": 5, "template": "T2", "good": "Hon pratade länge om ett nytt medlemskap igår.", "bad": "Hon pratade länge om en ny medlemskap igår."}
+{"noun": "medlemskap", "gender": "Neut", "freq": 5, "template": "T3", "good": "Där borta står ett stort medlemskap.", "bad": "Där borta står en stor medlemskap."}
+{"noun": "metallstav", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en metallstav.", "bad": "Det här är ett metallstav."}
+{"noun": "metallstav", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny metallstav igår.", "bad": "Hon pratade länge om ett nytt metallstav igår."}
+{"noun": "metallstav", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor metallstav.", "bad": "Där borta står ett stort metallstav."}
+{"noun": "militärutbildning", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en militärutbildning.", "bad": "Det här är ett militärutbildning."}
+{"noun": "militärutbildning", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny militärutbildning igår.", "bad": "Hon pratade länge om ett nytt militärutbildning igår."}
+{"noun": "militärutbildning", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor militärutbildning.", "bad": "Där borta står ett stort militärutbildning."}
+{"noun": "miljö", "gender": "Com", "freq": 33, "template": "T1", "good": "Det här är en miljö.", "bad": "Det här är ett miljö."}
+{"noun": "miljö", "gender": "Com", "freq": 33, "template": "T2", "good": "Hon pratade länge om en ny miljö igår.", "bad": "Hon pratade länge om ett nytt miljö igår."}
+{"noun": "miljö", "gender": "Com", "freq": 33, "template": "T3", "good": "Där borta står en stor miljö.", "bad": "Där borta står ett stort miljö."}
+{"noun": "motivering", "gender": "Com", "freq": 9, "template": "T1", "good": "Det här är en motivering.", "bad": "Det här är ett motivering."}
+{"noun": "motivering", "gender": "Com", "freq": 9, "template": "T2", "good": "Hon pratade länge om en ny motivering igår.", "bad": "Hon pratade länge om ett nytt motivering igår."}
+{"noun": "motivering", "gender": "Com", "freq": 9, "template": "T3", "good": "Där borta står en stor motivering.", "bad": "Där borta står ett stort motivering."}
+{"noun": "motsättning", "gender": "Com", "freq": 7, "template": "T1", "good": "Det här är en motsättning.", "bad": "Det här är ett motsättning."}
+{"noun": "motsättning", "gender": "Com", "freq": 7, "template": "T2", "good": "Hon pratade länge om en ny motsättning igår.", "bad": "Hon pratade länge om ett nytt motsättning igår."}
+{"noun": "motsättning", "gender": "Com", "freq": 7, "template": "T3", "good": "Där borta står en stor motsättning.", "bad": "Där borta står ett stort motsättning."}
+{"noun": "mottaglighet", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en mottaglighet.", "bad": "Det här är ett mottaglighet."}
+{"noun": "mottaglighet", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny mottaglighet igår.", "bad": "Hon pratade länge om ett nytt mottaglighet igår."}
+{"noun": "mottaglighet", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor mottaglighet.", "bad": "Där borta står ett stort mottaglighet."}
+{"noun": "musik", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en musik.", "bad": "Det här är ett musik."}
+{"noun": "musik", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny musik igår.", "bad": "Hon pratade länge om ett nytt musik igår."}
+{"noun": "musik", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor musik.", "bad": "Där borta står ett stort musik."}
+{"noun": "mängdlära", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en mängdlära.", "bad": "Det här är ett mängdlära."}
+{"noun": "mängdlära", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny mängdlära igår.", "bad": "Hon pratade länge om ett nytt mängdlära igår."}
+{"noun": "mängdlära", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor mängdlära.", "bad": "Där borta står ett stort mängdlära."}
+{"noun": "människa", "gender": "Com", "freq": 157, "template": "T1", "good": "Det här är en människa.", "bad": "Det här är ett människa."}
+{"noun": "människa", "gender": "Com", "freq": 157, "template": "T2", "good": "Hon pratade länge om en ny människa igår.", "bad": "Hon pratade länge om ett nytt människa igår."}
+{"noun": "människa", "gender": "Com", "freq": 157, "template": "T3", "good": "Där borta står en stor människa.", "bad": "Där borta står ett stort människa."}
+{"noun": "märkning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en märkning.", "bad": "Det här är ett märkning."}
+{"noun": "märkning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny märkning igår.", "bad": "Hon pratade länge om ett nytt märkning igår."}
+{"noun": "märkning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor märkning.", "bad": "Där borta står ett stort märkning."}
+{"noun": "mönster", "gender": "Neut", "freq": 9, "template": "T1", "good": "Det här är ett mönster.", "bad": "Det här är en mönster."}
+{"noun": "mönster", "gender": "Neut", "freq": 9, "template": "T2", "good": "Hon pratade länge om ett nytt mönster igår.", "bad": "Hon pratade länge om en ny mönster igår."}
+{"noun": "mönster", "gender": "Neut", "freq": 9, "template": "T3", "good": "Där borta står ett stort mönster.", "bad": "Där borta står en stor mönster."}
+{"noun": "nattmål", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett nattmål.", "bad": "Det här är en nattmål."}
+{"noun": "nattmål", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt nattmål igår.", "bad": "Hon pratade länge om en ny nattmål igår."}
+{"noun": "nattmål", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort nattmål.", "bad": "Där borta står en stor nattmål."}
+{"noun": "nervcellsklaviatur", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en nervcellsklaviatur.", "bad": "Det här är ett nervcellsklaviatur."}
+{"noun": "nervcellsklaviatur", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny nervcellsklaviatur igår.", "bad": "Hon pratade länge om ett nytt nervcellsklaviatur igår."}
+{"noun": "nervcellsklaviatur", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor nervcellsklaviatur.", "bad": "Där borta står ett stort nervcellsklaviatur."}
+{"noun": "nervositet", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en nervositet.", "bad": "Det här är ett nervositet."}
+{"noun": "nervositet", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny nervositet igår.", "bad": "Hon pratade länge om ett nytt nervositet igår."}
+{"noun": "nervositet", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor nervositet.", "bad": "Där borta står ett stort nervositet."}
+{"noun": "nervsammanbrott", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett nervsammanbrott.", "bad": "Det här är en nervsammanbrott."}
+{"noun": "nervsammanbrott", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt nervsammanbrott igår.", "bad": "Hon pratade länge om en ny nervsammanbrott igår."}
+{"noun": "nervsammanbrott", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort nervsammanbrott.", "bad": "Där borta står en stor nervsammanbrott."}
+{"noun": "neutralitetspolitik", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en neutralitetspolitik.", "bad": "Det här är ett neutralitetspolitik."}
+{"noun": "neutralitetspolitik", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny neutralitetspolitik igår.", "bad": "Hon pratade länge om ett nytt neutralitetspolitik igår."}
+{"noun": "neutralitetspolitik", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor neutralitetspolitik.", "bad": "Där borta står ett stort neutralitetspolitik."}
+{"noun": "njutning", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en njutning.", "bad": "Det här är ett njutning."}
+{"noun": "njutning", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny njutning igår.", "bad": "Hon pratade länge om ett nytt njutning igår."}
+{"noun": "njutning", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor njutning.", "bad": "Där borta står ett stort njutning."}
+{"noun": "nybildning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en nybildning.", "bad": "Det här är ett nybildning."}
+{"noun": "nybildning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny nybildning igår.", "bad": "Hon pratade länge om ett nytt nybildning igår."}
+{"noun": "nybildning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor nybildning.", "bad": "Där borta står ett stort nybildning."}
+{"noun": "närhet", "gender": "Com", "freq": 6, "template": "T1", "good": "Det här är en närhet.", "bad": "Det här är ett närhet."}
+{"noun": "närhet", "gender": "Com", "freq": 6, "template": "T2", "good": "Hon pratade länge om en ny närhet igår.", "bad": "Hon pratade länge om ett nytt närhet igår."}
+{"noun": "närhet", "gender": "Com", "freq": 6, "template": "T3", "good": "Där borta står en stor närhet.", "bad": "Där borta står ett stort närhet."}
+{"noun": "närvaropremiering", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en närvaropremiering.", "bad": "Det här är ett närvaropremiering."}
+{"noun": "närvaropremiering", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny närvaropremiering igår.", "bad": "Hon pratade länge om ett nytt närvaropremiering igår."}
+{"noun": "närvaropremiering", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor närvaropremiering.", "bad": "Där borta står ett stort närvaropremiering."}
+{"noun": "nödvändighet", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en nödvändighet.", "bad": "Det här är ett nödvändighet."}
+{"noun": "nödvändighet", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny nödvändighet igår.", "bad": "Hon pratade länge om ett nytt nödvändighet igår."}
+{"noun": "nödvändighet", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor nödvändighet.", "bad": "Där borta står ett stort nödvändighet."}
+{"noun": "nöje", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett nöje.", "bad": "Det här är en nöje."}
+{"noun": "nöje", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt nöje igår.", "bad": "Hon pratade länge om en ny nöje igår."}
+{"noun": "nöje", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort nöje.", "bad": "Där borta står en stor nöje."}
+{"noun": "omvårdnad", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en omvårdnad.", "bad": "Det här är ett omvårdnad."}
+{"noun": "omvårdnad", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny omvårdnad igår.", "bad": "Hon pratade länge om ett nytt omvårdnad igår."}
+{"noun": "omvårdnad", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor omvårdnad.", "bad": "Där borta står ett stort omvårdnad."}
+{"noun": "omöjlighet", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en omöjlighet.", "bad": "Det här är ett omöjlighet."}
+{"noun": "omöjlighet", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny omöjlighet igår.", "bad": "Hon pratade länge om ett nytt omöjlighet igår."}
+{"noun": "omöjlighet", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor omöjlighet.", "bad": "Där borta står ett stort omöjlighet."}
+{"noun": "ordförande", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en ordförande.", "bad": "Det här är ett ordförande."}
+{"noun": "ordförande", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny ordförande igår.", "bad": "Hon pratade länge om ett nytt ordförande igår."}
+{"noun": "ordförande", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor ordförande.", "bad": "Där borta står ett stort ordförande."}
+{"noun": "part", "gender": "Com", "freq": 19, "template": "T1", "good": "Det här är en part.", "bad": "Det här är ett part."}
+{"noun": "part", "gender": "Com", "freq": 19, "template": "T2", "good": "Hon pratade länge om en ny part igår.", "bad": "Hon pratade länge om ett nytt part igår."}
+{"noun": "part", "gender": "Com", "freq": 19, "template": "T3", "good": "Där borta står en stor part.", "bad": "Där borta står ett stort part."}
+{"noun": "partnerval", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett partnerval.", "bad": "Det här är en partnerval."}
+{"noun": "partnerval", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt partnerval igår.", "bad": "Hon pratade länge om en ny partnerval igår."}
+{"noun": "partnerval", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort partnerval.", "bad": "Där borta står en stor partnerval."}
+{"noun": "pater", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en pater.", "bad": "Det här är ett pater."}
+{"noun": "pater", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny pater igår.", "bad": "Hon pratade länge om ett nytt pater igår."}
+{"noun": "pater", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor pater.", "bad": "Där borta står ett stort pater."}
+{"noun": "pedagogik", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en pedagogik.", "bad": "Det här är ett pedagogik."}
+{"noun": "pedagogik", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny pedagogik igår.", "bad": "Hon pratade länge om ett nytt pedagogik igår."}
+{"noun": "pedagogik", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor pedagogik.", "bad": "Där borta står ett stort pedagogik."}
+{"noun": "pensionstillskott", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett pensionstillskott.", "bad": "Det här är en pensionstillskott."}
+{"noun": "pensionstillskott", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt pensionstillskott igår.", "bad": "Hon pratade länge om en ny pensionstillskott igår."}
+{"noun": "pensionstillskott", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort pensionstillskott.", "bad": "Där borta står en stor pensionstillskott."}
+{"noun": "pensionsålder", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en pensionsålder.", "bad": "Det här är ett pensionsålder."}
+{"noun": "pensionsålder", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny pensionsålder igår.", "bad": "Hon pratade länge om ett nytt pensionsålder igår."}
+{"noun": "pensionsålder", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor pensionsålder.", "bad": "Där borta står ett stort pensionsålder."}
+{"noun": "pensionär", "gender": "Com", "freq": 17, "template": "T1", "good": "Det här är en pensionär.", "bad": "Det här är ett pensionär."}
+{"noun": "pensionär", "gender": "Com", "freq": 17, "template": "T2", "good": "Hon pratade länge om en ny pensionär igår.", "bad": "Hon pratade länge om ett nytt pensionär igår."}
+{"noun": "pensionär", "gender": "Com", "freq": 17, "template": "T3", "good": "Där borta står en stor pensionär.", "bad": "Där borta står ett stort pensionär."}
+{"noun": "plantskola", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en plantskola.", "bad": "Det här är ett plantskola."}
+{"noun": "plantskola", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny plantskola igår.", "bad": "Hon pratade länge om ett nytt plantskola igår."}
+{"noun": "plantskola", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor plantskola.", "bad": "Där borta står ett stort plantskola."}
+{"noun": "politik", "gender": "Com", "freq": 11, "template": "T1", "good": "Det här är en politik.", "bad": "Det här är ett politik."}
+{"noun": "politik", "gender": "Com", "freq": 11, "template": "T2", "good": "Hon pratade länge om en ny politik igår.", "bad": "Hon pratade länge om ett nytt politik igår."}
+{"noun": "politik", "gender": "Com", "freq": 11, "template": "T3", "good": "Där borta står en stor politik.", "bad": "Där borta står ett stort politik."}
+{"noun": "preventivteknik", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en preventivteknik.", "bad": "Det här är ett preventivteknik."}
+{"noun": "preventivteknik", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny preventivteknik igår.", "bad": "Hon pratade länge om ett nytt preventivteknik igår."}
+{"noun": "preventivteknik", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor preventivteknik.", "bad": "Där borta står ett stort preventivteknik."}
+{"noun": "produktionsbortfall", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett produktionsbortfall.", "bad": "Det här är en produktionsbortfall."}
+{"noun": "produktionsbortfall", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt produktionsbortfall igår.", "bad": "Hon pratade länge om en ny produktionsbortfall igår."}
+{"noun": "produktionsbortfall", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort produktionsbortfall.", "bad": "Där borta står en stor produktionsbortfall."}
+{"noun": "produktivitet", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en produktivitet.", "bad": "Det här är ett produktivitet."}
+{"noun": "produktivitet", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny produktivitet igår.", "bad": "Hon pratade länge om ett nytt produktivitet igår."}
+{"noun": "produktivitet", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor produktivitet.", "bad": "Där borta står ett stort produktivitet."}
+{"noun": "prognos", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en prognos.", "bad": "Det här är ett prognos."}
+{"noun": "prognos", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny prognos igår.", "bad": "Hon pratade länge om ett nytt prognos igår."}
+{"noun": "prognos", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor prognos.", "bad": "Där borta står ett stort prognos."}
+{"noun": "provfiske", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett provfiske.", "bad": "Det här är en provfiske."}
+{"noun": "provfiske", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt provfiske igår.", "bad": "Hon pratade länge om en ny provfiske igår."}
+{"noun": "provfiske", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort provfiske.", "bad": "Där borta står en stor provfiske."}
+{"noun": "prövotid", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en prövotid.", "bad": "Det här är ett prövotid."}
+{"noun": "prövotid", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny prövotid igår.", "bad": "Hon pratade länge om ett nytt prövotid igår."}
+{"noun": "prövotid", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor prövotid.", "bad": "Där borta står ett stort prövotid."}
+{"noun": "psykolog", "gender": "Com", "freq": 7, "template": "T1", "good": "Det här är en psykolog.", "bad": "Det här är ett psykolog."}
+{"noun": "psykolog", "gender": "Com", "freq": 7, "template": "T2", "good": "Hon pratade länge om en ny psykolog igår.", "bad": "Hon pratade länge om ett nytt psykolog igår."}
+{"noun": "psykolog", "gender": "Com", "freq": 7, "template": "T3", "good": "Där borta står en stor psykolog.", "bad": "Där borta står ett stort psykolog."}
+{"noun": "påfrestning", "gender": "Com", "freq": 9, "template": "T1", "good": "Det här är en påfrestning.", "bad": "Det här är ett påfrestning."}
+{"noun": "påfrestning", "gender": "Com", "freq": 9, "template": "T2", "good": "Hon pratade länge om en ny påfrestning igår.", "bad": "Hon pratade länge om ett nytt påfrestning igår."}
+{"noun": "påfrestning", "gender": "Com", "freq": 9, "template": "T3", "good": "Där borta står en stor påfrestning.", "bad": "Där borta står ett stort påfrestning."}
+{"noun": "påverkan", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en påverkan.", "bad": "Det här är ett påverkan."}
+{"noun": "påverkan", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny påverkan igår.", "bad": "Hon pratade länge om ett nytt påverkan igår."}
+{"noun": "påverkan", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor påverkan.", "bad": "Där borta står ett stort påverkan."}
+{"noun": "rakborste", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en rakborste.", "bad": "Det här är ett rakborste."}
+{"noun": "rakborste", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny rakborste igår.", "bad": "Hon pratade länge om ett nytt rakborste igår."}
+{"noun": "rakborste", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor rakborste.", "bad": "Där borta står ett stort rakborste."}
+{"noun": "raps", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en raps.", "bad": "Det här är ett raps."}
+{"noun": "raps", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny raps igår.", "bad": "Hon pratade länge om ett nytt raps igår."}
+{"noun": "raps", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor raps.", "bad": "Där borta står ett stort raps."}
+{"noun": "ras", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en ras.", "bad": "Det här är ett ras."}
+{"noun": "ras", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny ras igår.", "bad": "Hon pratade länge om ett nytt ras igår."}
+{"noun": "ras", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor ras.", "bad": "Där borta står ett stort ras."}
+{"noun": "reaktion", "gender": "Com", "freq": 6, "template": "T1", "good": "Det här är en reaktion.", "bad": "Det här är ett reaktion."}
+{"noun": "reaktion", "gender": "Com", "freq": 6, "template": "T2", "good": "Hon pratade länge om en ny reaktion igår.", "bad": "Hon pratade länge om ett nytt reaktion igår."}
+{"noun": "reaktion", "gender": "Com", "freq": 6, "template": "T3", "good": "Där borta står en stor reaktion.", "bad": "Där borta står ett stort reaktion."}
+{"noun": "reflexband", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett reflexband.", "bad": "Det här är en reflexband."}
+{"noun": "reflexband", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt reflexband igår.", "bad": "Hon pratade länge om en ny reflexband igår."}
+{"noun": "reflexband", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort reflexband.", "bad": "Där borta står en stor reflexband."}
+{"noun": "resultat", "gender": "Neut", "freq": 54, "template": "T1", "good": "Det här är ett resultat.", "bad": "Det här är en resultat."}
+{"noun": "resultat", "gender": "Neut", "freq": 54, "template": "T2", "good": "Hon pratade länge om ett nytt resultat igår.", "bad": "Hon pratade länge om en ny resultat igår."}
+{"noun": "resultat", "gender": "Neut", "freq": 54, "template": "T3", "good": "Där borta står ett stort resultat.", "bad": "Där borta står en stor resultat."}
+{"noun": "riskgrupp", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en riskgrupp.", "bad": "Det här är ett riskgrupp."}
+{"noun": "riskgrupp", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny riskgrupp igår.", "bad": "Hon pratade länge om ett nytt riskgrupp igår."}
+{"noun": "riskgrupp", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor riskgrupp.", "bad": "Där borta står ett stort riskgrupp."}
+{"noun": "rubbning", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en rubbning.", "bad": "Det här är ett rubbning."}
+{"noun": "rubbning", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny rubbning igår.", "bad": "Hon pratade länge om ett nytt rubbning igår."}
+{"noun": "rubbning", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor rubbning.", "bad": "Där borta står ett stort rubbning."}
+{"noun": "rättshjälpsanstalt", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en rättshjälpsanstalt.", "bad": "Det här är ett rättshjälpsanstalt."}
+{"noun": "rättshjälpsanstalt", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny rättshjälpsanstalt igår.", "bad": "Hon pratade länge om ett nytt rättshjälpsanstalt igår."}
+{"noun": "rättshjälpsanstalt", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor rättshjälpsanstalt.", "bad": "Där borta står ett stort rättshjälpsanstalt."}
+{"noun": "rättvisa", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en rättvisa.", "bad": "Det här är ett rättvisa."}
+{"noun": "rättvisa", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny rättvisa igår.", "bad": "Hon pratade länge om ett nytt rättvisa igår."}
+{"noun": "rättvisa", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor rättvisa.", "bad": "Där borta står ett stort rättvisa."}
+{"noun": "rågax", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett rågax.", "bad": "Det här är en rågax."}
+{"noun": "rågax", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt rågax igår.", "bad": "Hon pratade länge om en ny rågax igår."}
+{"noun": "rågax", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort rågax.", "bad": "Där borta står en stor rågax."}
+{"noun": "rörelsefrihet", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en rörelsefrihet.", "bad": "Det här är ett rörelsefrihet."}
+{"noun": "rörelsefrihet", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny rörelsefrihet igår.", "bad": "Hon pratade länge om ett nytt rörelsefrihet igår."}
+{"noun": "rörelsefrihet", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor rörelsefrihet.", "bad": "Där borta står ett stort rörelsefrihet."}
+{"noun": "samband", "gender": "Neut", "freq": 19, "template": "T1", "good": "Det här är ett samband.", "bad": "Det här är en samband."}
+{"noun": "samband", "gender": "Neut", "freq": 19, "template": "T2", "good": "Hon pratade länge om ett nytt samband igår.", "bad": "Hon pratade länge om en ny samband igår."}
+{"noun": "samband", "gender": "Neut", "freq": 19, "template": "T3", "good": "Där borta står ett stort samband.", "bad": "Där borta står en stor samband."}
+{"noun": "samhällsform", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en samhällsform.", "bad": "Det här är ett samhällsform."}
+{"noun": "samhällsform", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny samhällsform igår.", "bad": "Hon pratade länge om ett nytt samhällsform igår."}
+{"noun": "samhällsform", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor samhällsform.", "bad": "Där borta står ett stort samhällsform."}
+{"noun": "sammanlevnad", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en sammanlevnad.", "bad": "Det här är ett sammanlevnad."}
+{"noun": "sammanlevnad", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny sammanlevnad igår.", "bad": "Hon pratade länge om ett nytt sammanlevnad igår."}
+{"noun": "sammanlevnad", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor sammanlevnad.", "bad": "Där borta står ett stort sammanlevnad."}
+{"noun": "sammanträde", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett sammanträde.", "bad": "Det här är en sammanträde."}
+{"noun": "sammanträde", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt sammanträde igår.", "bad": "Hon pratade länge om en ny sammanträde igår."}
+{"noun": "sammanträde", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort sammanträde.", "bad": "Där borta står en stor sammanträde."}
+{"noun": "samvaro", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en samvaro.", "bad": "Det här är ett samvaro."}
+{"noun": "samvaro", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny samvaro igår.", "bad": "Hon pratade länge om ett nytt samvaro igår."}
+{"noun": "samvaro", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor samvaro.", "bad": "Där borta står ett stort samvaro."}
+{"noun": "sand", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en sand.", "bad": "Det här är ett sand."}
+{"noun": "sand", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny sand igår.", "bad": "Hon pratade länge om ett nytt sand igår."}
+{"noun": "sand", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor sand.", "bad": "Där borta står ett stort sand."}
+{"noun": "satsning", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en satsning.", "bad": "Det här är ett satsning."}
+{"noun": "satsning", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny satsning igår.", "bad": "Hon pratade länge om ett nytt satsning igår."}
+{"noun": "satsning", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor satsning.", "bad": "Där borta står ett stort satsning."}
+{"noun": "service", "gender": "Com", "freq": 10, "template": "T1", "good": "Det här är en service.", "bad": "Det här är ett service."}
+{"noun": "service", "gender": "Com", "freq": 10, "template": "T2", "good": "Hon pratade länge om en ny service igår.", "bad": "Hon pratade länge om ett nytt service igår."}
+{"noun": "service", "gender": "Com", "freq": 10, "template": "T3", "good": "Där borta står en stor service.", "bad": "Där borta står ett stort service."}
+{"noun": "sex", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett sex.", "bad": "Det här är en sex."}
+{"noun": "sex", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt sex igår.", "bad": "Hon pratade länge om en ny sex igår."}
+{"noun": "sex", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort sex.", "bad": "Där borta står en stor sex."}
+{"noun": "sexualmoral", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en sexualmoral.", "bad": "Det här är ett sexualmoral."}
+{"noun": "sexualmoral", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny sexualmoral igår.", "bad": "Hon pratade länge om ett nytt sexualmoral igår."}
+{"noun": "sexualmoral", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor sexualmoral.", "bad": "Där borta står ett stort sexualmoral."}
+{"noun": "sjukhjälp", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en sjukhjälp.", "bad": "Det här är ett sjukhjälp."}
+{"noun": "sjukhjälp", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny sjukhjälp igår.", "bad": "Hon pratade länge om ett nytt sjukhjälp igår."}
+{"noun": "sjukhjälp", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor sjukhjälp.", "bad": "Där borta står ett stort sjukhjälp."}
+{"noun": "självförsörjning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en självförsörjning.", "bad": "Det här är ett självförsörjning."}
+{"noun": "självförsörjning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny självförsörjning igår.", "bad": "Hon pratade länge om ett nytt självförsörjning igår."}
+{"noun": "självförsörjning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor självförsörjning.", "bad": "Där borta står ett stort självförsörjning."}
+{"noun": "skatt", "gender": "Com", "freq": 11, "template": "T1", "good": "Det här är en skatt.", "bad": "Det här är ett skatt."}
+{"noun": "skatt", "gender": "Com", "freq": 11, "template": "T2", "good": "Hon pratade länge om en ny skatt igår.", "bad": "Hon pratade länge om ett nytt skatt igår."}
+{"noun": "skatt", "gender": "Com", "freq": 11, "template": "T3", "good": "Där borta står en stor skatt.", "bad": "Där borta står ett stort skatt."}
+{"noun": "skattenedsättning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en skattenedsättning.", "bad": "Det här är ett skattenedsättning."}
+{"noun": "skattenedsättning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny skattenedsättning igår.", "bad": "Hon pratade länge om ett nytt skattenedsättning igår."}
+{"noun": "skattenedsättning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor skattenedsättning.", "bad": "Där borta står ett stort skattenedsättning."}
+{"noun": "skattesänkning", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en skattesänkning.", "bad": "Det här är ett skattesänkning."}
+{"noun": "skattesänkning", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny skattesänkning igår.", "bad": "Hon pratade länge om ett nytt skattesänkning igår."}
+{"noun": "skattesänkning", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor skattesänkning.", "bad": "Där borta står ett stort skattesänkning."}
+{"noun": "skolning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en skolning.", "bad": "Det här är ett skolning."}
+{"noun": "skolning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny skolning igår.", "bad": "Hon pratade länge om ett nytt skolning igår."}
+{"noun": "skolning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor skolning.", "bad": "Där borta står ett stort skolning."}
+{"noun": "skolutbildning", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en skolutbildning.", "bad": "Det här är ett skolutbildning."}
+{"noun": "skolutbildning", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny skolutbildning igår.", "bad": "Hon pratade länge om ett nytt skolutbildning igår."}
+{"noun": "skolutbildning", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor skolutbildning.", "bad": "Där borta står ett stort skolutbildning."}
+{"noun": "skoptag", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett skoptag.", "bad": "Det här är en skoptag."}
+{"noun": "skoptag", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt skoptag igår.", "bad": "Hon pratade länge om en ny skoptag igår."}
+{"noun": "skoptag", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort skoptag.", "bad": "Där borta står en stor skoptag."}
+{"noun": "skydd", "gender": "Neut", "freq": 5, "template": "T1", "good": "Det här är ett skydd.", "bad": "Det här är en skydd."}
+{"noun": "skydd", "gender": "Neut", "freq": 5, "template": "T2", "good": "Hon pratade länge om ett nytt skydd igår.", "bad": "Hon pratade länge om en ny skydd igår."}
+{"noun": "skydd", "gender": "Neut", "freq": 5, "template": "T3", "good": "Där borta står ett stort skydd.", "bad": "Där borta står en stor skydd."}
+{"noun": "skåp", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett skåp.", "bad": "Det här är en skåp."}
+{"noun": "skåp", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt skåp igår.", "bad": "Hon pratade länge om en ny skåp igår."}
+{"noun": "skåp", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort skåp.", "bad": "Där borta står en stor skåp."}
+{"noun": "smak", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en smak.", "bad": "Det här är ett smak."}
+{"noun": "smak", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny smak igår.", "bad": "Hon pratade länge om ett nytt smak igår."}
+{"noun": "smak", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor smak.", "bad": "Där borta står ett stort smak."}
+{"noun": "smussel", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett smussel.", "bad": "Det här är en smussel."}
+{"noun": "smussel", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt smussel igår.", "bad": "Hon pratade länge om en ny smussel igår."}
+{"noun": "smussel", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort smussel.", "bad": "Där borta står en stor smussel."}
+{"noun": "smärtupplevelse", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en smärtupplevelse.", "bad": "Det här är ett smärtupplevelse."}
+{"noun": "smärtupplevelse", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny smärtupplevelse igår.", "bad": "Hon pratade länge om ett nytt smärtupplevelse igår."}
+{"noun": "smärtupplevelse", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor smärtupplevelse.", "bad": "Där borta står ett stort smärtupplevelse."}
+{"noun": "snabbköp", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett snabbköp.", "bad": "Det här är en snabbköp."}
+{"noun": "snabbköp", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt snabbköp igår.", "bad": "Hon pratade länge om en ny snabbköp igår."}
+{"noun": "snabbköp", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort snabbköp.", "bad": "Där borta står en stor snabbköp."}
+{"noun": "socialhjälp", "gender": "Com", "freq": 8, "template": "T1", "good": "Det här är en socialhjälp.", "bad": "Det här är ett socialhjälp."}
+{"noun": "socialhjälp", "gender": "Com", "freq": 8, "template": "T2", "good": "Hon pratade länge om en ny socialhjälp igår.", "bad": "Hon pratade länge om ett nytt socialhjälp igår."}
+{"noun": "socialhjälp", "gender": "Com", "freq": 8, "template": "T3", "good": "Där borta står en stor socialhjälp.", "bad": "Där borta står ett stort socialhjälp."}
+{"noun": "specialhem", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett specialhem.", "bad": "Det här är en specialhem."}
+{"noun": "specialhem", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt specialhem igår.", "bad": "Hon pratade länge om en ny specialhem igår."}
+{"noun": "specialhem", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort specialhem.", "bad": "Där borta står en stor specialhem."}
+{"noun": "specialklass", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en specialklass.", "bad": "Det här är ett specialklass."}
+{"noun": "specialklass", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny specialklass igår.", "bad": "Hon pratade länge om ett nytt specialklass igår."}
+{"noun": "specialklass", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor specialklass.", "bad": "Där borta står ett stort specialklass."}
+{"noun": "standardlägenhet", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en standardlägenhet.", "bad": "Det här är ett standardlägenhet."}
+{"noun": "standardlägenhet", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny standardlägenhet igår.", "bad": "Hon pratade länge om ett nytt standardlägenhet igår."}
+{"noun": "standardlägenhet", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor standardlägenhet.", "bad": "Där borta står ett stort standardlägenhet."}
+{"noun": "standardutrustning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en standardutrustning.", "bad": "Det här är ett standardutrustning."}
+{"noun": "standardutrustning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny standardutrustning igår.", "bad": "Hon pratade länge om ett nytt standardutrustning igår."}
+{"noun": "standardutrustning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor standardutrustning.", "bad": "Där borta står ett stort standardutrustning."}
+{"noun": "staty", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en staty.", "bad": "Det här är ett staty."}
+{"noun": "staty", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny staty igår.", "bad": "Hon pratade länge om ett nytt staty igår."}
+{"noun": "staty", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor staty.", "bad": "Där borta står ett stort staty."}
+{"noun": "stenkol", "gender": "Neut", "freq": 10, "template": "T1", "good": "Det här är ett stenkol.", "bad": "Det här är en stenkol."}
+{"noun": "stenkol", "gender": "Neut", "freq": 10, "template": "T2", "good": "Hon pratade länge om ett nytt stenkol igår.", "bad": "Hon pratade länge om en ny stenkol igår."}
+{"noun": "stenkol", "gender": "Neut", "freq": 10, "template": "T3", "good": "Där borta står ett stort stenkol.", "bad": "Där borta står en stor stenkol."}
+{"noun": "stim", "gender": "Neut", "freq": 4, "template": "T1", "good": "Det här är ett stim.", "bad": "Det här är en stim."}
+{"noun": "stim", "gender": "Neut", "freq": 4, "template": "T2", "good": "Hon pratade länge om ett nytt stim igår.", "bad": "Hon pratade länge om en ny stim igår."}
+{"noun": "stim", "gender": "Neut", "freq": 4, "template": "T3", "good": "Där borta står ett stort stim.", "bad": "Där borta står en stor stim."}
+{"noun": "strafflag", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en strafflag.", "bad": "Det här är ett strafflag."}
+{"noun": "strafflag", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny strafflag igår.", "bad": "Hon pratade länge om ett nytt strafflag igår."}
+{"noun": "strafflag", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor strafflag.", "bad": "Där borta står ett stort strafflag."}
+{"noun": "ställning", "gender": "Com", "freq": 27, "template": "T1", "good": "Det här är en ställning.", "bad": "Det här är ett ställning."}
+{"noun": "ställning", "gender": "Com", "freq": 27, "template": "T2", "good": "Hon pratade länge om en ny ställning igår.", "bad": "Hon pratade länge om ett nytt ställning igår."}
+{"noun": "ställning", "gender": "Com", "freq": 27, "template": "T3", "good": "Där borta står en stor ställning.", "bad": "Där borta står ett stort ställning."}
+{"noun": "svartsjuka", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en svartsjuka.", "bad": "Det här är ett svartsjuka."}
+{"noun": "svartsjuka", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny svartsjuka igår.", "bad": "Hon pratade länge om ett nytt svartsjuka igår."}
+{"noun": "svartsjuka", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor svartsjuka.", "bad": "Där borta står ett stort svartsjuka."}
+{"noun": "svängrum", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett svängrum.", "bad": "Det här är en svängrum."}
+{"noun": "svängrum", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt svängrum igår.", "bad": "Hon pratade länge om en ny svängrum igår."}
+{"noun": "svängrum", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort svängrum.", "bad": "Där borta står en stor svängrum."}
+{"noun": "syftning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en syftning.", "bad": "Det här är ett syftning."}
+{"noun": "syftning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny syftning igår.", "bad": "Hon pratade länge om ett nytt syftning igår."}
+{"noun": "syftning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor syftning.", "bad": "Där borta står ett stort syftning."}
+{"noun": "synsätt", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett synsätt.", "bad": "Det här är en synsätt."}
+{"noun": "synsätt", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt synsätt igår.", "bad": "Hon pratade länge om en ny synsätt igår."}
+{"noun": "synsätt", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort synsätt.", "bad": "Där borta står en stor synsätt."}
+{"noun": "syssla", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en syssla.", "bad": "Det här är ett syssla."}
+{"noun": "syssla", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny syssla igår.", "bad": "Hon pratade länge om ett nytt syssla igår."}
+{"noun": "syssla", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor syssla.", "bad": "Där borta står ett stort syssla."}
+{"noun": "sänka", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en sänka.", "bad": "Det här är ett sänka."}
+{"noun": "sänka", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny sänka igår.", "bad": "Hon pratade länge om ett nytt sänka igår."}
+{"noun": "sänka", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor sänka.", "bad": "Där borta står ett stort sänka."}
+{"noun": "tack", "gender": "Neut", "freq": 3, "template": "T1", "good": "Det här är ett tack.", "bad": "Det här är en tack."}
+{"noun": "tack", "gender": "Neut", "freq": 3, "template": "T2", "good": "Hon pratade länge om ett nytt tack igår.", "bad": "Hon pratade länge om en ny tack igår."}
+{"noun": "tack", "gender": "Neut", "freq": 3, "template": "T3", "good": "Där borta står ett stort tack.", "bad": "Där borta står en stor tack."}
+{"noun": "takt", "gender": "Com", "freq": 7, "template": "T1", "good": "Det här är en takt.", "bad": "Det här är ett takt."}
+{"noun": "takt", "gender": "Com", "freq": 7, "template": "T2", "good": "Hon pratade länge om en ny takt igår.", "bad": "Hon pratade länge om ett nytt takt igår."}
+{"noun": "takt", "gender": "Com", "freq": 7, "template": "T3", "good": "Där borta står en stor takt.", "bad": "Där borta står ett stort takt."}
+{"noun": "tankeverksamhet", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en tankeverksamhet.", "bad": "Det här är ett tankeverksamhet."}
+{"noun": "tankeverksamhet", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny tankeverksamhet igår.", "bad": "Hon pratade länge om ett nytt tankeverksamhet igår."}
+{"noun": "tankeverksamhet", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor tankeverksamhet.", "bad": "Där borta står ett stort tankeverksamhet."}
+{"noun": "taxering", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en taxering.", "bad": "Det här är ett taxering."}
+{"noun": "taxering", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny taxering igår.", "bad": "Hon pratade länge om ett nytt taxering igår."}
+{"noun": "taxering", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor taxering.", "bad": "Där borta står ett stort taxering."}
+{"noun": "teoretisering", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en teoretisering.", "bad": "Det här är ett teoretisering."}
+{"noun": "teoretisering", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny teoretisering igår.", "bad": "Hon pratade länge om ett nytt teoretisering igår."}
+{"noun": "teoretisering", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor teoretisering.", "bad": "Där borta står ett stort teoretisering."}
+{"noun": "term", "gender": "Com", "freq": 6, "template": "T1", "good": "Det här är en term.", "bad": "Det här är ett term."}
+{"noun": "term", "gender": "Com", "freq": 6, "template": "T2", "good": "Hon pratade länge om en ny term igår.", "bad": "Hon pratade länge om ett nytt term igår."}
+{"noun": "term", "gender": "Com", "freq": 6, "template": "T3", "good": "Där borta står en stor term.", "bad": "Där borta står ett stort term."}
+{"noun": "textilslöjd", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en textilslöjd.", "bad": "Det här är ett textilslöjd."}
+{"noun": "textilslöjd", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny textilslöjd igår.", "bad": "Hon pratade länge om ett nytt textilslöjd igår."}
+{"noun": "textilslöjd", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor textilslöjd.", "bad": "Där borta står ett stort textilslöjd."}
+{"noun": "tillfällighet", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en tillfällighet.", "bad": "Det här är ett tillfällighet."}
+{"noun": "tillfällighet", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny tillfällighet igår.", "bad": "Hon pratade länge om ett nytt tillfällighet igår."}
+{"noun": "tillfällighet", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor tillfällighet.", "bad": "Där borta står ett stort tillfällighet."}
+{"noun": "tillträdesdatum", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett tillträdesdatum.", "bad": "Det här är en tillträdesdatum."}
+{"noun": "tillträdesdatum", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt tillträdesdatum igår.", "bad": "Hon pratade länge om en ny tillträdesdatum igår."}
+{"noun": "tillträdesdatum", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort tillträdesdatum.", "bad": "Där borta står en stor tillträdesdatum."}
+{"noun": "tillvänjningseffekt", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en tillvänjningseffekt.", "bad": "Det här är ett tillvänjningseffekt."}
+{"noun": "tillvänjningseffekt", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny tillvänjningseffekt igår.", "bad": "Hon pratade länge om ett nytt tillvänjningseffekt igår."}
+{"noun": "tillvänjningseffekt", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor tillvänjningseffekt.", "bad": "Där borta står ett stort tillvänjningseffekt."}
+{"noun": "tiotal", "gender": "Neut", "freq": 6, "template": "T1", "good": "Det här är ett tiotal.", "bad": "Det här är en tiotal."}
+{"noun": "tiotal", "gender": "Neut", "freq": 6, "template": "T2", "good": "Hon pratade länge om ett nytt tiotal igår.", "bad": "Hon pratade länge om en ny tiotal igår."}
+{"noun": "tiotal", "gender": "Neut", "freq": 6, "template": "T3", "good": "Där borta står ett stort tiotal.", "bad": "Där borta står en stor tiotal."}
+{"noun": "tjänstgöring", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en tjänstgöring.", "bad": "Det här är ett tjänstgöring."}
+{"noun": "tjänstgöring", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny tjänstgöring igår.", "bad": "Hon pratade länge om ett nytt tjänstgöring igår."}
+{"noun": "tjänstgöring", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor tjänstgöring.", "bad": "Där borta står ett stort tjänstgöring."}
+{"noun": "trafikolycksskada", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en trafikolycksskada.", "bad": "Det här är ett trafikolycksskada."}
+{"noun": "trafikolycksskada", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny trafikolycksskada igår.", "bad": "Hon pratade länge om ett nytt trafikolycksskada igår."}
+{"noun": "trafikolycksskada", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor trafikolycksskada.", "bad": "Där borta står ett stort trafikolycksskada."}
+{"noun": "trakom", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett trakom.", "bad": "Det här är en trakom."}
+{"noun": "trakom", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt trakom igår.", "bad": "Hon pratade länge om en ny trakom igår."}
+{"noun": "trakom", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort trakom.", "bad": "Där borta står en stor trakom."}
+{"noun": "trots", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett trots.", "bad": "Det här är en trots."}
+{"noun": "trots", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt trots igår.", "bad": "Hon pratade länge om en ny trots igår."}
+{"noun": "trots", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort trots.", "bad": "Där borta står en stor trots."}
+{"noun": "trädgård", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en trädgård.", "bad": "Det här är ett trädgård."}
+{"noun": "trädgård", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny trädgård igår.", "bad": "Hon pratade länge om ett nytt trädgård igår."}
+{"noun": "trädgård", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor trädgård.", "bad": "Där borta står ett stort trädgård."}
+{"noun": "tvättmaskin", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en tvättmaskin.", "bad": "Det här är ett tvättmaskin."}
+{"noun": "tvättmaskin", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny tvättmaskin igår.", "bad": "Hon pratade länge om ett nytt tvättmaskin igår."}
+{"noun": "tvättmaskin", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor tvättmaskin.", "bad": "Där borta står ett stort tvättmaskin."}
+{"noun": "tåg", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett tåg.", "bad": "Det här är en tåg."}
+{"noun": "tåg", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt tåg igår.", "bad": "Hon pratade länge om en ny tåg igår."}
+{"noun": "tåg", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort tåg.", "bad": "Där borta står en stor tåg."}
+{"noun": "undergång", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en undergång.", "bad": "Det här är ett undergång."}
+{"noun": "undergång", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny undergång igår.", "bad": "Hon pratade länge om ett nytt undergång igår."}
+{"noun": "undergång", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor undergång.", "bad": "Där borta står ett stort undergång."}
+{"noun": "ungdomsbrottslighet", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en ungdomsbrottslighet.", "bad": "Det här är ett ungdomsbrottslighet."}
+{"noun": "ungdomsbrottslighet", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny ungdomsbrottslighet igår.", "bad": "Hon pratade länge om ett nytt ungdomsbrottslighet igår."}
+{"noun": "ungdomsbrottslighet", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor ungdomsbrottslighet.", "bad": "Där borta står ett stort ungdomsbrottslighet."}
+{"noun": "ungdomsgård", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en ungdomsgård.", "bad": "Det här är ett ungdomsgård."}
+{"noun": "ungdomsgård", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny ungdomsgård igår.", "bad": "Hon pratade länge om ett nytt ungdomsgård igår."}
+{"noun": "ungdomsgård", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor ungdomsgård.", "bad": "Där borta står ett stort ungdomsgård."}
+{"noun": "uppfattning", "gender": "Com", "freq": 39, "template": "T1", "good": "Det här är en uppfattning.", "bad": "Det här är ett uppfattning."}
+{"noun": "uppfattning", "gender": "Com", "freq": 39, "template": "T2", "good": "Hon pratade länge om en ny uppfattning igår.", "bad": "Hon pratade länge om ett nytt uppfattning igår."}
+{"noun": "uppfattning", "gender": "Com", "freq": 39, "template": "T3", "good": "Där borta står en stor uppfattning.", "bad": "Där borta står ett stort uppfattning."}
+{"noun": "uppgång", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en uppgång.", "bad": "Det här är ett uppgång."}
+{"noun": "uppgång", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny uppgång igår.", "bad": "Hon pratade länge om ett nytt uppgång igår."}
+{"noun": "uppgång", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor uppgång.", "bad": "Där borta står ett stort uppgång."}
+{"noun": "uppläggning", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en uppläggning.", "bad": "Det här är ett uppläggning."}
+{"noun": "uppläggning", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny uppläggning igår.", "bad": "Hon pratade länge om ett nytt uppläggning igår."}
+{"noun": "uppläggning", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor uppläggning.", "bad": "Där borta står ett stort uppläggning."}
+{"noun": "uppsats", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en uppsats.", "bad": "Det här är ett uppsats."}
+{"noun": "uppsats", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny uppsats igår.", "bad": "Hon pratade länge om ett nytt uppsats igår."}
+{"noun": "uppsats", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor uppsats.", "bad": "Där borta står ett stort uppsats."}
+{"noun": "uppsägning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en uppsägning.", "bad": "Det här är ett uppsägning."}
+{"noun": "uppsägning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny uppsägning igår.", "bad": "Hon pratade länge om ett nytt uppsägning igår."}
+{"noun": "uppsägning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor uppsägning.", "bad": "Där borta står ett stort uppsägning."}
+{"noun": "utbildning", "gender": "Com", "freq": 47, "template": "T1", "good": "Det här är en utbildning.", "bad": "Det här är ett utbildning."}
+{"noun": "utbildning", "gender": "Com", "freq": 47, "template": "T2", "good": "Hon pratade länge om en ny utbildning igår.", "bad": "Hon pratade länge om ett nytt utbildning igår."}
+{"noun": "utbildning", "gender": "Com", "freq": 47, "template": "T3", "good": "Där borta står en stor utbildning.", "bad": "Där borta står ett stort utbildning."}
+{"noun": "utmålande", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en utmålande.", "bad": "Det här är ett utmålande."}
+{"noun": "utmålande", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny utmålande igår.", "bad": "Hon pratade länge om ett nytt utmålande igår."}
+{"noun": "utmålande", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor utmålande.", "bad": "Där borta står ett stort utmålande."}
+{"noun": "utredning", "gender": "Com", "freq": 16, "template": "T1", "good": "Det här är en utredning.", "bad": "Det här är ett utredning."}
+{"noun": "utredning", "gender": "Com", "freq": 16, "template": "T2", "good": "Hon pratade länge om en ny utredning igår.", "bad": "Hon pratade länge om ett nytt utredning igår."}
+{"noun": "utredning", "gender": "Com", "freq": 16, "template": "T3", "good": "Där borta står en stor utredning.", "bad": "Där borta står ett stort utredning."}
+{"noun": "utrikespolitik", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en utrikespolitik.", "bad": "Det här är ett utrikespolitik."}
+{"noun": "utrikespolitik", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny utrikespolitik igår.", "bad": "Hon pratade länge om ett nytt utrikespolitik igår."}
+{"noun": "utrikespolitik", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor utrikespolitik.", "bad": "Där borta står ett stort utrikespolitik."}
+{"noun": "uttryck", "gender": "Neut", "freq": 14, "template": "T1", "good": "Det här är ett uttryck.", "bad": "Det här är en uttryck."}
+{"noun": "uttryck", "gender": "Neut", "freq": 14, "template": "T2", "good": "Hon pratade länge om ett nytt uttryck igår.", "bad": "Hon pratade länge om en ny uttryck igår."}
+{"noun": "uttryck", "gender": "Neut", "freq": 14, "template": "T3", "good": "Där borta står ett stort uttryck.", "bad": "Där borta står en stor uttryck."}
+{"noun": "utvecklingsland", "gender": "Neut", "freq": 7, "template": "T1", "good": "Det här är ett utvecklingsland.", "bad": "Det här är en utvecklingsland."}
+{"noun": "utvecklingsland", "gender": "Neut", "freq": 7, "template": "T2", "good": "Hon pratade länge om ett nytt utvecklingsland igår.", "bad": "Hon pratade länge om en ny utvecklingsland igår."}
+{"noun": "utvecklingsland", "gender": "Neut", "freq": 7, "template": "T3", "good": "Där borta står ett stort utvecklingsland.", "bad": "Där borta står en stor utvecklingsland."}
+{"noun": "vakuumsystem", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett vakuumsystem.", "bad": "Det här är en vakuumsystem."}
+{"noun": "vakuumsystem", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt vakuumsystem igår.", "bad": "Hon pratade länge om en ny vakuumsystem igår."}
+{"noun": "vakuumsystem", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort vakuumsystem.", "bad": "Där borta står en stor vakuumsystem."}
+{"noun": "valförrättare", "gender": "Com", "freq": 6, "template": "T1", "good": "Det här är en valförrättare.", "bad": "Det här är ett valförrättare."}
+{"noun": "valförrättare", "gender": "Com", "freq": 6, "template": "T2", "good": "Hon pratade länge om en ny valförrättare igår.", "bad": "Hon pratade länge om ett nytt valförrättare igår."}
+{"noun": "valförrättare", "gender": "Com", "freq": 6, "template": "T3", "good": "Där borta står en stor valförrättare.", "bad": "Där borta står ett stort valförrättare."}
+{"noun": "valsedel", "gender": "Com", "freq": 25, "template": "T1", "good": "Det här är en valsedel.", "bad": "Det här är ett valsedel."}
+{"noun": "valsedel", "gender": "Com", "freq": 25, "template": "T2", "good": "Hon pratade länge om en ny valsedel igår.", "bad": "Hon pratade länge om ett nytt valsedel igår."}
+{"noun": "valsedel", "gender": "Com", "freq": 25, "template": "T3", "good": "Där borta står en stor valsedel.", "bad": "Där borta står ett stort valsedel."}
+{"noun": "vana", "gender": "Com", "freq": 5, "template": "T1", "good": "Det här är en vana.", "bad": "Det här är ett vana."}
+{"noun": "vana", "gender": "Com", "freq": 5, "template": "T2", "good": "Hon pratade länge om en ny vana igår.", "bad": "Hon pratade länge om ett nytt vana igår."}
+{"noun": "vana", "gender": "Com", "freq": 5, "template": "T3", "good": "Där borta står en stor vana.", "bad": "Där borta står ett stort vana."}
+{"noun": "vanebildning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en vanebildning.", "bad": "Det här är ett vanebildning."}
+{"noun": "vanebildning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny vanebildning igår.", "bad": "Hon pratade länge om ett nytt vanebildning igår."}
+{"noun": "vanebildning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor vanebildning.", "bad": "Där borta står ett stort vanebildning."}
+{"noun": "vattenmängd", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en vattenmängd.", "bad": "Det här är ett vattenmängd."}
+{"noun": "vattenmängd", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny vattenmängd igår.", "bad": "Hon pratade länge om ett nytt vattenmängd igår."}
+{"noun": "vattenmängd", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor vattenmängd.", "bad": "Där borta står ett stort vattenmängd."}
+{"noun": "ved", "gender": "Com", "freq": 4, "template": "T1", "good": "Det här är en ved.", "bad": "Det här är ett ved."}
+{"noun": "ved", "gender": "Com", "freq": 4, "template": "T2", "good": "Hon pratade länge om en ny ved igår.", "bad": "Hon pratade länge om ett nytt ved igår."}
+{"noun": "ved", "gender": "Com", "freq": 4, "template": "T3", "good": "Där borta står en stor ved.", "bad": "Där borta står ett stort ved."}
+{"noun": "vete", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett vete.", "bad": "Det här är en vete."}
+{"noun": "vete", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt vete igår.", "bad": "Hon pratade länge om en ny vete igår."}
+{"noun": "vete", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort vete.", "bad": "Där borta står en stor vete."}
+{"noun": "vidareutbildning", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en vidareutbildning.", "bad": "Det här är ett vidareutbildning."}
+{"noun": "vidareutbildning", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny vidareutbildning igår.", "bad": "Hon pratade länge om ett nytt vidareutbildning igår."}
+{"noun": "vidareutbildning", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor vidareutbildning.", "bad": "Där borta står ett stort vidareutbildning."}
+{"noun": "visselpipa", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en visselpipa.", "bad": "Det här är ett visselpipa."}
+{"noun": "visselpipa", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny visselpipa igår.", "bad": "Hon pratade länge om ett nytt visselpipa igår."}
+{"noun": "visselpipa", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor visselpipa.", "bad": "Där borta står ett stort visselpipa."}
+{"noun": "vistelse", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en vistelse.", "bad": "Det här är ett vistelse."}
+{"noun": "vistelse", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny vistelse igår.", "bad": "Hon pratade länge om ett nytt vistelse igår."}
+{"noun": "vistelse", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor vistelse.", "bad": "Där borta står ett stort vistelse."}
+{"noun": "vitamintillförsel", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en vitamintillförsel.", "bad": "Det här är ett vitamintillförsel."}
+{"noun": "vitamintillförsel", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny vitamintillförsel igår.", "bad": "Hon pratade länge om ett nytt vitamintillförsel igår."}
+{"noun": "vitamintillförsel", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor vitamintillförsel.", "bad": "Där borta står ett stort vitamintillförsel."}
+{"noun": "värmealstring", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en värmealstring.", "bad": "Det här är ett värmealstring."}
+{"noun": "värmealstring", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny värmealstring igår.", "bad": "Hon pratade länge om ett nytt värmealstring igår."}
+{"noun": "värmealstring", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor värmealstring.", "bad": "Där borta står ett stort värmealstring."}
+{"noun": "vårdform", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en vårdform.", "bad": "Det här är ett vårdform."}
+{"noun": "vårdform", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny vårdform igår.", "bad": "Hon pratade länge om ett nytt vårdform igår."}
+{"noun": "vårdform", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor vårdform.", "bad": "Där borta står ett stort vårdform."}
+{"noun": "yrkesofficer", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en yrkesofficer.", "bad": "Det här är ett yrkesofficer."}
+{"noun": "yrkesofficer", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny yrkesofficer igår.", "bad": "Hon pratade länge om ett nytt yrkesofficer igår."}
+{"noun": "yrkesofficer", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor yrkesofficer.", "bad": "Där borta står ett stort yrkesofficer."}
+{"noun": "ytterområde", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett ytterområde.", "bad": "Det här är en ytterområde."}
+{"noun": "ytterområde", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt ytterområde igår.", "bad": "Hon pratade länge om en ny ytterområde igår."}
+{"noun": "ytterområde", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort ytterområde.", "bad": "Där borta står en stor ytterområde."}
+{"noun": "ägg", "gender": "Neut", "freq": 4, "template": "T1", "good": "Det här är ett ägg.", "bad": "Det här är en ägg."}
+{"noun": "ägg", "gender": "Neut", "freq": 4, "template": "T2", "good": "Hon pratade länge om ett nytt ägg igår.", "bad": "Hon pratade länge om en ny ägg igår."}
+{"noun": "ägg", "gender": "Neut", "freq": 4, "template": "T3", "good": "Där borta står ett stort ägg.", "bad": "Där borta står en stor ägg."}
+{"noun": "äktenskapssyn", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en äktenskapssyn.", "bad": "Det här är ett äktenskapssyn."}
+{"noun": "äktenskapssyn", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny äktenskapssyn igår.", "bad": "Hon pratade länge om ett nytt äktenskapssyn igår."}
+{"noun": "äktenskapssyn", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor äktenskapssyn.", "bad": "Där borta står ett stort äktenskapssyn."}
+{"noun": "ämne", "gender": "Neut", "freq": 46, "template": "T1", "good": "Det här är ett ämne.", "bad": "Det här är en ämne."}
+{"noun": "ämne", "gender": "Neut", "freq": 46, "template": "T2", "good": "Hon pratade länge om ett nytt ämne igår.", "bad": "Hon pratade länge om en ny ämne igår."}
+{"noun": "ämne", "gender": "Neut", "freq": 46, "template": "T3", "good": "Där borta står ett stort ämne.", "bad": "Där borta står en stor ämne."}
+{"noun": "ämnesinnehåll", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett ämnesinnehåll.", "bad": "Det här är en ämnesinnehåll."}
+{"noun": "ämnesinnehåll", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt ämnesinnehåll igår.", "bad": "Hon pratade länge om en ny ämnesinnehåll igår."}
+{"noun": "ämnesinnehåll", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort ämnesinnehåll.", "bad": "Där borta står en stor ämnesinnehåll."}
+{"noun": "ära", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en ära.", "bad": "Det här är ett ära."}
+{"noun": "ära", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny ära igår.", "bad": "Hon pratade länge om ett nytt ära igår."}
+{"noun": "ära", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor ära.", "bad": "Där borta står ett stort ära."}
+{"noun": "återbäring", "gender": "Com", "freq": 3, "template": "T1", "good": "Det här är en återbäring.", "bad": "Det här är ett återbäring."}
+{"noun": "återbäring", "gender": "Com", "freq": 3, "template": "T2", "good": "Hon pratade länge om en ny återbäring igår.", "bad": "Hon pratade länge om ett nytt återbäring igår."}
+{"noun": "återbäring", "gender": "Com", "freq": 3, "template": "T3", "good": "Där borta står en stor återbäring.", "bad": "Där borta står ett stort återbäring."}
+{"noun": "återfall", "gender": "Neut", "freq": 1, "template": "T1", "good": "Det här är ett återfall.", "bad": "Det här är en återfall."}
+{"noun": "återfall", "gender": "Neut", "freq": 1, "template": "T2", "good": "Hon pratade länge om ett nytt återfall igår.", "bad": "Hon pratade länge om en ny återfall igår."}
+{"noun": "återfall", "gender": "Neut", "freq": 1, "template": "T3", "good": "Där borta står ett stort återfall.", "bad": "Där borta står en stor återfall."}
+{"noun": "öster", "gender": "Com", "freq": 1, "template": "T1", "good": "Det här är en öster.", "bad": "Det här är ett öster."}
+{"noun": "öster", "gender": "Com", "freq": 1, "template": "T2", "good": "Hon pratade länge om en ny öster igår.", "bad": "Hon pratade länge om ett nytt öster igår."}
+{"noun": "öster", "gender": "Com", "freq": 1, "template": "T3", "good": "Där borta står en stor öster.", "bad": "Där borta står ett stort öster."}
+{"noun": "övergrepp", "gender": "Neut", "freq": 2, "template": "T1", "good": "Det här är ett övergrepp.", "bad": "Det här är en övergrepp."}
+{"noun": "övergrepp", "gender": "Neut", "freq": 2, "template": "T2", "good": "Hon pratade länge om ett nytt övergrepp igår.", "bad": "Hon pratade länge om en ny övergrepp igår."}
+{"noun": "övergrepp", "gender": "Neut", "freq": 2, "template": "T3", "good": "Där borta står ett stort övergrepp.", "bad": "Där borta står en stor övergrepp."}
+{"noun": "övernattning", "gender": "Com", "freq": 2, "template": "T1", "good": "Det här är en övernattning.", "bad": "Det här är ett övernattning."}
+{"noun": "övernattning", "gender": "Com", "freq": 2, "template": "T2", "good": "Hon pratade länge om en ny övernattning igår.", "bad": "Hon pratade länge om ett nytt övernattning igår."}
+{"noun": "övernattning", "gender": "Com", "freq": 2, "template": "T3", "good": "Där borta står en stor övernattning.", "bad": "Där borta står ett stort övernattning."}

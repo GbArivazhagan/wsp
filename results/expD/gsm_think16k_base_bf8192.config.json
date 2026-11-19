@@ -1,0 +1,18 @@
+{
+ "model": "qwen3.5-0.8b",
+ "src": "results/expD/gsm_think16k_base.jsonl",
+ "budget": 8192,
+ "answer_tokens": 1024,
+ "gpu_mem": 0.8,
+ "out": "results/expD/gsm_think16k_base_bf8192.jsonl",
+ "n_rows": 400,
+ "n_forced": 303,
+ "gen_seconds": 421.7,
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5,
+  "seed": 0
+ }
+}

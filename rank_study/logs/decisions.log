@@ -1,0 +1,17 @@
+2026-11-18 19:57  Pilot (R16-all-linear, RFT, lr 2e-4, 3 epochs, bs 8): DEV sv 27.5 vs base 22.2 (n=4, 2048 tok) = +5.2 [0.0, +10.5].
+                  Pre-registered gate is >= 3 points -> keep RFT supervision for all conditions. (Caveat: vs the older
+                  n=2 base DEV run (msw_base, 29.0 %) it is -1.5, so the DEV signal is noisy.) Gold pilot runs anyway
+                  on gpu1 as a side check; it does not change the supervision choice.
+                  Shared hyper-parameters fixed: lr 2e-4, 3 epochs, bs 8 (micro 2), max_len 1536, alpha = 2r, no dropout.
+                  Queued: TEST r16all; r1d15 (+DEV) and r1d15x10 (lr 2e-3, DEV only); pos-control; r64d15; r1alldown; r8d15; seed-1 reps.
+2026-11-18 20:10  tr_pc_r1 lost its export at ~20:01 (gpu3 /scratch is NFS4 sec=krb5p; detached job lost write access ~30 min after the launching ssh session ended). Re-queued tr_pc_r1; keeping a background ssh session to gpu3 open to hold a Kerberos ticket.
+2026-11-18 20:22  R1-single lr check (pre-registered): DEV r1d15 (lr 2e-4) +4.2 [-1.2, 9.5]; r1d15x10 (lr 2e-3) +6.8 [1.2, 12.2].
+                  The 10x-lr edit is better on DEV -> it is also run on TEST and is the R1-single used in the decision rule.
+                  Seed-1 replicate of R1-single switched to the selected config (lr 2e-3). Added (not pre-registered)
+                  r64d15x10 = rank 64 on the same matrix at the same 2e-3 lr (DEV+TEST), so that the single-matrix
+                  rank comparison is not confounded by giving only rank 1 the higher lr.
+                  TEST so far: r16all +2.6 [-1.5, 6.8] (CI includes 0).
+                  Pos-control DEV (gsmtr_en:dev, n=2): 99 % Swedish answers on English problems at rank 1.
+2026-11-18 20:31  gpu1 (RTX 3060 12 GB) OOMs on training (fp32 logits); gpu1 runner restarted as eval-only (run_queue_eval.sh, SKIP_TRAIN=1). Failed training jobs reset; they run on gpu3.
+2026-11-18 20:50  Added DEV evals (secondary, for pooled DEV+TEST evidence) and held-out NLL for the remaining conditions.
+2026-11-18 21:26  All queued jobs finished (dev_pc_r1, secondary, OOM on gpu1, not rerun). Runners stopped via qstate/STOP to free both GPUs for the main track.

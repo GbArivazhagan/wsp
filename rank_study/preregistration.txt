@@ -1,0 +1,25 @@
+Edit-rank study: pre-registration (written 2026-11-18 18:58 CET, before any training or TEST evaluation)
+
+H_rank: the Swedish GSM8K gap of Qwen3.5-0.8B is not a low-rank defect. Even the best rank-1 edit of one matrix
+(the paper's edit family: mlp.down_proj, layer 15), found by gradient descent with full supervision, recovers only a
+small part of what a higher-rank edit trained on the same data recovers. A failure-type behaviour (response-language
+routing) is fixable at rank 1.
+
+Decision rule (fixed before TEST). Gain = paired Swedish TEST accuracy difference vs the unedited model
+(results/x2/base_P-sv_R-none.jsonl; 200 problems x 4 samples).
+ - SUPPORTED if gain(R1-single) <= 1/3 * gain(best high-rank condition) AND the positive control (R1-single trained to
+   answer English problems in Swedish) gives >= 90 % Swedish answers on English TEST problems (no instruction).
+ - REFUTED if gain(R1-single) >= 2/3 * gain(best high-rank) with >= 95 % Swedish answers on Swedish problems.
+ - Otherwise inconclusive/partial. If the best high-rank gain's 95 % CI includes 0: inconclusive (signal too weak).
+
+Protocol fixed in advance:
+ - One shared lr / epochs / batch for all ranks, selected on DEV (gsmtr_sv:dev, 100 problems x 4 samples,
+   max 2048 tokens) only. Seed 0.
+ - Rank-1 under-training check: R1-single is also trained with 10x the shared lr. If that is better on DEV, it is
+   also run on TEST and the better-on-DEV rank-1 edit is the one used in the decision rule (the most generous
+   reading for rank 1). Both are reported.
+ - Supervision: RFT (model's own correct Swedish TRAIN solutions, <=2 per problem, 4+8 samples per problem). If the
+   R16-all-linear pilot gains < 3 points on DEV, switch to gold Swedish solutions (translated by Claude from
+   solution_en) for all conditions.
+ - Each final checkpoint is evaluated once on TEST (gsm_sv, gsm_en; n=4; max 4096 tokens; T=0.7, top_p 0.8,
+   top_k 20, presence_penalty 1.5; seed 0).

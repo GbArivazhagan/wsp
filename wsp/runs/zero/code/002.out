@@ -1,0 +1,19 @@
+harness ready: 0 forward passes left (of 0)
+E norms: mean 0.627  median 0.623
+final norm (1+g): mean 4.309 min 0.223 max 6.312
+sv-only types A 1155 en-only types A 1151
+cos(dA,dB) = 0.981
+held-out AUC on dA: 0.855  (n 450 vs 587)
+TOP + (Swedish side): ['*“.', '!”.', '”…', '*”,', ' Leverkus', '».**', '”.*', '*”.', '**”,', 'sstr', ' erotik', ' **:**', ' Prostitu', '-ves', ' Краси', ' neoliber', ' videor', '!».', ' .**', ' **.**', ' –**', ' sodom', ' silen', ' Jún', ' Kontaktd', ' trám', ' Véri', ' eskort', ' Teixe', ' undermin', ' ndr', ' dicks', '…»', ' borsten', ' prostytut', ' modne', ' Sâm', ' tenden', ' prostitut', 'teid', ' cerem', 'USTA', ' Erotische', ' köln', ' Eskort', ' attrak', 'terie', ' Gabrie', 'estens', '冇有', '…),', ' Depor', ' traumatis', '任怨', ' juridi', '".**', 'lipp', ' óp', ' Следова', '隱藏版']
+TOP - (English side): [' ', ' (', ',', '.', '\n', ' and', '/', ' the', ' in', ' "', ':', '-', ' with', '2', '1', ' a', ' of', ' for', ' to', ' that', '\n\n', ' on', ' -', ' is', ' at', ' *', ' from', ' one', ' [', ' A', '(', ' or', '3', " '", '?', ' first', ' C', ' two', ';', '...', ' as', "'", ' I', ' by', ' +', ' B', '0', ' more', ' can', '—', ' when', ' over', '5', '+', ' not', ' P', ' only', ' both', ' S', '4']
+std of projection over vocab 0.0448 vs avg per-dim std 0.0177
+||mean diff|| 0.1319 ; typical token norm 0.6603
+token-level cos with type-level dir: 0.647, ||diff|| 0.2481
+PC0: var 0.0221, corr with lang 0.226, cos with d 0.510
+PC1: var 0.0063, corr with lang -0.621, cos with d -0.750
+PC2: var 0.0039, corr with lang -0.279, cos with d -0.264
+PC3: var 0.0024, corr with lang 0.284, cos with d 0.210
+PC4: var 0.0022, corr with lang 0.123, cos with d 0.088
+PC5: var 0.0020, corr with lang -0.054, cos with d -0.037
+PC6: var 0.0019, corr with lang 0.012, cos with d 0.008
+PC7: var 0.0019, corr with lang 0.011, cos with d 0.007

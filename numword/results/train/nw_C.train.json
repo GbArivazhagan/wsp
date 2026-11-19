@@ -1,0 +1,45 @@
+{
+ "model": "qwen3.5-0.8b",
+ "data": "syn",
+ "pool": "./results/math/pool_sv_train.jsonl",
+ "target": "down15",
+ "r": 1,
+ "lr": 0.0002,
+ "epochs": 3,
+ "bs": 8,
+ "micro": 2,
+ "max_len": 1536,
+ "seed": 0,
+ "out": "nw_C",
+ "max_steps": 0,
+ "no_export": false,
+ "dry": false,
+ "n_examples": 480,
+ "trainable_params": 4608,
+ "steps": 180,
+ "n_lora_modules": 1,
+ "epoch_loss": [
+  1.1050189607520953,
+  0.54527718844499,
+  0.32919500776393745
+ ],
+ "final_loss": 0.2945066940339563,
+ "dW_fro_total": 1.3122481107711792,
+ "bf16_retention": {
+  "eff_fro": 1.3123284578323364,
+  "ratio": 1.0000612285592165,
+  "cos": 1.0001762171456376
+ },
+ "A_move": {
+  "rel_change": 2.0711443424224854,
+  "subspace_overlap": 0.2160359025001526
+ },
+ "dW_rel_mean": 0.07980294327287954,
+ "train_seconds": 71,
+ "dW": {
+  "model.layers.15.mlp.down_proj.weight": {
+   "fro": 1.3122481107711792,
+   "rel": 0.07980294327287954
+  }
+ }
+}

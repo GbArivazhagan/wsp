@@ -1,0 +1,27 @@
+{
+ "model": "qwen3-0.6b",
+ "sets": "sv:dev,en:dev,da:dev,nb:dev",
+ "system": "none",
+ "think": "off",
+ "temperature": 0.7,
+ "top_p": 0.8,
+ "top_k": 20,
+ "presence_penalty": 0.0,
+ "repetition_penalty": 1.0,
+ "max_tokens": 512,
+ "n": 2,
+ "seed": 0,
+ "max_model_len": 4096,
+ "gpu_mem": 0.5,
+ "limit": 0,
+ "out": "results/scan/qwen3-0.6b_sys-none.jsonl",
+ "model_path": "$HF_HOME/hub/models--Qwen--Qwen3-0.6B/snapshots/c1899de289a04d12100db370d81485cdf75e47ca",
+ "registry": [
+  "Qwen/Qwen3-0.6B",
+  "c1899de289"
+ ],
+ "system_text": null,
+ "n_rows": 236,
+ "gen_seconds": 48.9,
+ "example_prompt": "<|im_start|>user\nVad är det bästa sättet att förvara färska örter så att de håller längre?<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n"
+}

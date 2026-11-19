@@ -1,0 +1,29 @@
+{
+ "model": "qwen3.5-0.8b",
+ "sets": "gsm_svdig:NUM",
+ "system": "none",
+ "think": "off",
+ "temperature": 0.7,
+ "top_p": 0.8,
+ "top_k": 20,
+ "presence_penalty": 1.5,
+ "repetition_penalty": 1.0,
+ "max_tokens": 4096,
+ "n": 8,
+ "seed": 0,
+ "max_model_len": 6144,
+ "gpu_mem": 0.4,
+ "limit": 0,
+ "user_suffix": "",
+ "prefill": "Let's solve this step by step in English.\n\n",
+ "out": "numword/results/test/digits_sven_NUM.jsonl.tmp",
+ "model_path": "$HF_HOME/hub/models--Qwen--Qwen3.5-0.8B/snapshots/2fc06364715b967f1860aea9cf38778875588b17",
+ "registry": [
+  "Qwen/Qwen3.5-0.8B",
+  "2fc06364715b967f1860aea9cf38778875588b17"
+ ],
+ "system_text": null,
+ "n_rows": 59,
+ "gen_seconds": 370.4,
+ "example_prompt": "<|im_start|>user\nMarissa vandrar längs en led som är 12 engelska mil lång. Det tog henne 1 timme att gå de första 4 engelska milen och sedan ytterligare en timme att gå de följande 2 engelska milen. Om hon vill att hennes medelhastighet ska bli 4 engelska mil i timmen, vilken hastighet (i engelska mil i timmen) måste hon hålla på den återstående sträckan?\nResonera steg för steg och skriv ditt slutgiltiga svar inom \\boxed{}.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\nLet's solve this step by step in English.\n\n"
+}

@@ -1,0 +1,140 @@
+## TEST (200 GSM8K problems x 4 samples; paired vs unedited model)
+| condition | trainable params | ‖ΔW‖_F | train loss (last ep) | sv acc | sv Δ [95% CI] | sv answers (sv prompts) | en acc | en Δ [95% CI] | sv answers (en prompts) |
+|---|---|---|---|---|---|---|---|---|---|
+| pc_r1 | 4,608 | 0.685 | 0.5385 | nan | +nan [+nan, +nan] | 0.0% | 42.4 | -14.2 [-18.5, -10.0] | 98.0% |
+| r16all | 10,822,656 | 6.166 | 0.1810 | 28.5 | +2.6 [-1.5, +6.8] | 99.8% | 57.6 | +1.0 [-2.9, +4.8] | 0.0% |
+| r16alls1 | 10,822,656 | 6.169 | 0.1819 | 31.4 | +5.5 [+1.6, +9.1] | 99.8% | 57.9 | +1.2 [-2.5, +5.1] | 0.0% |
+| r1alldown | 110,592 | 0.677 | 0.4006 | 29.4 | +3.5 [-0.4, +7.1] | 98.8% | 59.6 | +3.0 [-0.5, +6.5] | 0.0% |
+| r1d15 | 4,608 | 0.478 | 0.4369 | 28.7 | +2.9 [-0.6, +6.5] | 99.8% | 59.0 | +2.4 [-1.1, +5.9] | 0.0% |
+| r1d15x10 | 4,608 | 1.580 | 0.4244 | 30.4 | +4.5 [+0.9, +8.1] | 100.0% | 57.4 | +0.8 [-2.9, +4.2] | 0.0% |
+| r1d15x10s1 | 4,608 | 1.632 | 0.4238 | 27.9 | +2.0 [-1.9, +5.9] | 99.8% | 60.6 | +4.0 [+0.4, +7.8] | 0.0% |
+| r64d15 | 294,912 | 1.172 | 0.4070 | 26.8 | +0.9 [-3.0, +4.8] | 99.8% | 58.2 | +1.6 [-1.9, +4.9] | 0.0% |
+| r64d15x10 | 294,912 | 9.123 | 0.3493 | 22.9 | -3.0 [-6.9, +0.9] | 100.0% | 53.1 | -3.5 [-7.6, +0.8] | 0.0% |
+| r8d15 | 36,864 | 0.662 | 0.4264 | 28.1 | +2.2 [-1.5, +6.0] | 99.6% | 59.6 | +3.0 [-0.8, +6.6] | 0.0% |
+
+| condition | sv cut (length) | sv acc on finished | en cut |
+|---|---|---|---|
+| base | 7.9% | 28.1 | 7.8% |
+| pc_r1 | 0.0% | nan | 3.9% |
+| r16all | 6.1% | 30.4 | 4.0% |
+| r16alls1 | 7.5% | 33.9 | 4.5% |
+| r1alldown | 5.4% | 31.0 | 5.4% |
+| r1d15 | 6.2% | 30.7 | 6.1% |
+| r1d15x10 | 3.8% | 31.6 | 7.0% |
+| r1d15x10s1 | 6.0% | 29.7 | 6.5% |
+| r64d15 | 5.9% | 28.4 | 6.2% |
+| r64d15x10 | 7.4% | 24.7 | 9.2% |
+| r8d15 | 6.5% | 30.1 | 6.6% |
+
+base: sv answers on sv prompts 100.0%, sv answers on en prompts 0.0% (base acc: sv 25.9, en 56.6)
+
+## TEST gains vs the pooled 8-sample base (seed-0 + seed-1 base runs; requested by the main track)
+| condition | sv Δ vs 8-sample base [95% CI] | en Δ vs 8-sample base [95% CI] |
+|---|---|---|
+| base (8-sample pooled) | acc 24.1 | acc 57.1 |
+| (noise floor) base seed 1 − base seed 0, sv | -3.6 [-6.9, -0.4] | |
+| (noise floor) base seed 1 − base seed 0, en | +0.9 [-2.0, +3.6] | |
+| pc_r1 | – | -14.7 [-18.7, -10.8] |
+| r16all | +4.4 [+0.7, +8.2] | +0.6 [-3.0, +4.0] |
+| r16alls1 | +7.3 [+3.8, +10.8] | +0.8 [-2.7, +4.3] |
+| r1alldown | +5.3 [+1.8, +8.7] | +2.6 [-0.8, +5.9] |
+| r1d15 | +4.7 [+1.4, +8.0] | +1.9 [-1.0, +4.9] |
+| r1d15x10 | +6.3 [+2.8, +9.8] | +0.3 [-3.0, +3.6] |
+| r1d15x10s1 | +3.8 [+0.2, +7.5] | +3.6 [+0.3, +6.9] |
+| r64d15 | +2.7 [-0.7, +6.1] | +1.2 [-2.0, +4.3] |
+| r64d15x10 | -1.2 [-4.9, +2.5] | -3.9 [-7.6, -0.2] |
+| r8d15 | +4.1 [+0.2, +7.8] | +2.6 [-0.8, +5.8] |
+
+8-sample base: R1-single +6.3, best high-rank r1alldown +5.3 (CI +1.8, +8.7), ratio 1.19
+
+## Seed-pooled contrast R1-single (lr 2e-3, seeds 0+1) vs R16-all-linear (seeds 0+1)
+[seed-0 base] R1-single (2 seeds) +3.2 [-0.2, +6.7]; R16-all (2 seeds) +4.1 [+0.6, +7.4]; R16 - R1 +0.8 [-1.8, +3.6]; ratio 0.80 [-0.03, 1.87], P(ratio<=1/3)=0.089, P(ratio>=2/3)=0.664
+[8-sample base] R1-single (2 seeds) +5.1 [+1.9, +8.2]; R16-all (2 seeds) +5.9 [+2.8, +8.8]; R16 - R1 +0.8 [-1.8, +3.6]; ratio 0.86 [0.44, 1.42], P(ratio<=1/3)=0.009, P(ratio>=2/3)=0.818
+
+## DEV (100 problems x 4, max 2048 tokens)
+| DEV run | sv acc | Δ vs base [95% CI] | sv answers | cut | train loss (last ep) |
+|---|---|---|---|---|---|
+| base | 22.2 | +0.0 [+0.0, +0.0] | 100% | 9.0% | None |
+| r16all | 27.5 | +5.2 [+0.0, +10.5] | 100% | 5.8% | 0.181 |
+| r16allg | 24.2 | +2.0 [-4.5, +8.5] | 100% | 0.5% | 0.1126 |
+| r16alls1 | 31.8 | +9.5 [+4.2, +14.8] | 100% | 7.8% | 0.1819 |
+| r1alldown | 28.2 | +6.0 [+1.2, +10.8] | 100% | 5.2% | 0.4006 |
+| r1d15 | 26.5 | +4.2 [-1.2, +9.5] | 100% | 6.2% | 0.4369 |
+| r1d15x10 | 29.0 | +6.8 [+1.2, +12.2] | 100% | 5.5% | 0.4244 |
+| r1d15x10s1 | 30.2 | +8.0 [+2.5, +13.5] | 100% | 6.2% | 0.4238 |
+| r64d15 | 29.5 | +7.2 [+2.0, +13.0] | 100% | 4.0% | 0.407 |
+| r64d15x10 | 19.8 | -2.5 [-7.5, +2.5] | 100% | 8.5% | 0.3493 |
+| r8d15 | 27.3 | +5.0 [+0.0, +10.0] | 100% | 6.0% | 0.4264 |
+
+## Pooled DEV+TEST (secondary; DEV was used for selection of r1d15x10)
+| condition | pooled Δ (300 problems) [95% CI] | DEV Δ | TEST Δ |
+|---|---|---|---|
+| r16all | +3.5 [+0.3, +6.8] | +5.2 | +2.6 |
+| r16alls1 | +6.8 [+3.8, +9.9] | +9.5 | +5.5 |
+| r1alldown | +4.3 [+1.4, +7.2] | +6.0 | +3.5 |
+| r1d15 | +3.3 [+0.3, +6.3] | +4.2 | +2.9 |
+| r1d15x10 | +5.2 [+2.2, +8.3] | +6.8 | +4.5 |
+| r1d15x10s1 | +4.0 [+0.8, +7.2] | +8.0 | +2.0 |
+| r64d15 | +3.0 [-0.2, +6.2] | +7.2 | +0.9 |
+| r64d15x10 | -2.8 [-6.0, +0.2] | -2.5 | -3.0 |
+| r8d15 | +3.2 [+0.2, +6.2] | +5.0 | +2.2 |
+
+## Joint bootstrap contrasts (R1-single vs high-rank)
+{"a":"r1d15x10","b":"r16all","gain_a":0.045,"gain_b":0.02625,"diff_b_minus_a":-0.01875,"diff_ci95":[-0.05374999999999999,0.01625],"ratio":1.7142857142857142,"ratio_ci95":[0.5769230769230769,9.75],"p_ratio_le_1/3":0.007212080234392608,"p_ratio_ge_2/3":0.9632634663060626,"boot_gain_b_le_0":0.1126}
+{"a":"r1d15x10","b":"r64d15","gain_a":0.045,"gain_b":0.00875,"diff_b_minus_a":-0.03625,"diff_ci95":[-0.0725,0.0],"ratio":5.142857142857142,"ratio_ci95":[0.92,25.5],"p_ratio_le_1/3":0.0015276504735716467,"p_ratio_ge_2/3":0.9932783379162847,"boot_gain_b_le_0":0.3454}
+{"a":"r1d15x10","b":"r64d15x10","gain_a":0.045,"gain_b":-0.03,"diff_b_minus_a":-0.075,"diff_ci95":[-0.10875000000000001,-0.03875],"ratio":null,"ratio_ci95":[2.2307692307692304,58.99999999999999],"p_ratio_le_1/3":0.0,"p_ratio_ge_2/3":1.0,"boot_gain_b_le_0":0.9292}
+{"a":"r1d15x10","b":"r1alldown","gain_a":0.045,"gain_b":0.035,"diff_b_minus_a":-0.009999999999999995,"diff_ci95":[-0.04625,0.025],"ratio":1.2857142857142856,"ratio_ci95":[0.39999999999999997,6.333333333333334],"p_ratio_le_1/3":0.018102372034956304,"p_ratio_ge_2/3":0.9165626300457761,"boot_gain_b_le_0":0.0388}
+{"a":"r1d15x10","b":"r8d15","gain_a":0.045,"gain_b":0.0225,"diff_b_minus_a":-0.0225,"diff_ci95":[-0.055,0.010000000000000002],"ratio":2.0,"ratio_ci95":[0.6818181818181818,13.666666666666666],"p_ratio_le_1/3":0.005363805970149254,"p_ratio_ge_2/3":0.9783115671641791,"boot_gain_b_le_0":0.1424}
+
+## Decision rule
+R1-single gain +4.5 pts; best high-rank = r1alldown +3.5 pts (CI -0.4, +7.1); ratio = 1.29
+positive control: Swedish answers on English TEST problems = 98.0%
+R1-single Swedish answers on Swedish problems = 100.0%
+verdict (seed 0, as pre-registered): INCONCLUSIVE (best high-rank gain CI includes 0)
+seed-averaged: R1-single +3.2 (2 seeds); best high-rank r16all +4.1 (2 seeds); ratio 0.80
+
+## Held-out NLL of the unedited model's DEV solutions (per token)
+base correct 0.4937 incorrect 0.6381 margin 0.1444
+pc_r1 correct 0.4567 incorrect 0.5997 margin 0.143
+r16all correct 0.4979 incorrect 0.6632 margin 0.1653
+r16alls1 correct 0.5008 incorrect 0.6682 margin 0.1673
+r1alldown correct 0.4204 incorrect 0.5705 margin 0.1501
+r1d15 correct 0.4445 incorrect 0.5892 margin 0.1446
+r1d15x10 correct 0.4395 incorrect 0.584 margin 0.1445
+r1d15x10s1 correct 0.4405 incorrect 0.5853 margin 0.1448
+r64d15 correct 0.43 incorrect 0.5762 margin 0.1462
+r64d15x10 correct 0.4931 incorrect 0.6416 margin 0.1485
+r8d15 correct 0.4384 incorrect 0.5833 margin 0.1449
+
+## Cosines of learned output directions (layer 15)
+| edit | σ1/‖ΔW‖ | |cos(u1, derail)| | |cos(u1, derail@L14)| | |cos(u1, rlang)| | |cos(u1, rlang@L14)| | |cos(u1, inalign)| | |cos(u1, inalign@L14)| | |cos(u1, p50c_loop)| | ‖P_top-k derail‖ | ‖P_top-k rlang‖ | ‖P_top-k inalign‖ | ‖P_top-k p50c_loop‖ |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| pc_r1 | 1.00 | 0.100 | 0.084 | 0.076 | 0.038 | 0.101 | 0.089 | 0.020 | 0.100 | 0.076 | 0.101 | 0.020 |
+| r1d15 | 1.00 | 0.148 | 0.106 | 0.003 | 0.028 | 0.022 | 0.014 | 0.009 | 0.148 | 0.003 | 0.022 | 0.009 |
+| r1d15x10 | 1.00 | 0.184 | 0.158 | 0.015 | 0.015 | 0.031 | 0.023 | 0.019 | 0.184 | 0.015 | 0.031 | 0.019 |
+| r1d15x10s1 | 1.00 | 0.187 | 0.163 | 0.012 | 0.020 | 0.020 | 0.010 | 0.013 | 0.187 | 0.012 | 0.020 | 0.013 |
+| r64d15 | 0.74 | 0.175 | 0.155 | 0.016 | 0.016 | 0.026 | 0.018 | 0.037 | 0.346 | 0.378 | 0.355 | 0.323 |
+| r64d15x10 | 0.37 | 0.100 | 0.114 | 0.021 | 0.002 | 0.032 | 0.031 | 0.051 | 0.311 | 0.297 | 0.288 | 0.306 |
+| r8d15 | 0.96 | 0.165 | 0.138 | 0.020 | 0.015 | 0.027 | 0.019 | 0.014 | 0.221 | 0.212 | 0.163 | 0.094 |
+|cos(u1[pc_r1], u1[r1d15])| = 0.671
+|cos(u1[pc_r1], u1[r1d15x10])| = 0.563
+|cos(u1[pc_r1], u1[r1d15x10s1])| = 0.552
+|cos(u1[pc_r1], u1[r64d15])| = 0.553
+|cos(u1[pc_r1], u1[r64d15x10])| = 0.324
+|cos(u1[pc_r1], u1[r8d15])| = 0.626
+|cos(u1[r1d15], u1[r1d15x10])| = 0.829
+|cos(u1[r1d15], u1[r1d15x10s1])| = 0.813
+|cos(u1[r1d15], u1[r64d15])| = 0.812
+|cos(u1[r1d15], u1[r64d15x10])| = 0.451
+|cos(u1[r1d15], u1[r8d15])| = 0.915
+|cos(u1[r1d15x10], u1[r1d15x10s1])| = 0.977
+|cos(u1[r1d15x10], u1[r64d15])| = 0.954
+|cos(u1[r1d15x10], u1[r64d15x10])| = 0.596
+|cos(u1[r1d15x10], u1[r8d15])| = 0.959
+|cos(u1[r1d15x10s1], u1[r64d15])| = 0.938
+|cos(u1[r1d15x10s1], u1[r64d15x10])| = 0.587
+|cos(u1[r1d15x10s1], u1[r8d15])| = 0.944
+|cos(u1[r64d15], u1[r64d15x10])| = 0.611
+|cos(u1[r64d15], u1[r8d15])| = 0.940
+|cos(u1[r64d15x10], u1[r8d15])| = 0.570
+random-direction reference: mean |cos| = 0.025, 99th pct = 0.085; ‖P_top-k‖ for random unit vector ≈ sqrt(k/1024)

@@ -1,0 +1,12 @@
+{
+ "_note": "Reconstructed on 2026-11-19 from the code in src/self_translate.py (which did not write a config); not written by the run itself.",
+ "script": "src/self_translate.py",
+ "model": "qwen3.5-0.8b",
+ "registry": ["Qwen/Qwen3.5-0.8B", "2fc06364715b967f1860aea9cf38778875588b17"],
+ "sets": "gsm_sv",
+ "step1_translate": {"prompt": "Översätt följande matematikproblem till engelska. Skriv bara översättningen, ingenting annat.", "temperature": 0, "max_tokens": 512},
+ "step2_solve": {"think": "off", "temperature": 0.7, "top_p": 0.8, "top_k": 20, "presence_penalty": 1.5, "max_tokens": 4096, "n": 4, "seed": 0},
+ "llm_seed": 0,
+ "max_model_len": 6144,
+ "out": "results/x2/base_P-sv_selftranslate.jsonl"
+}

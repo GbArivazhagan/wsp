@@ -1,0 +1,8 @@
+p50_sv_s0|true|swthink/run.sh qwen35_paper_p50c p50 sv 0 $GM
+p50_en_s0|true|swthink/run.sh qwen35_paper_p50c p50 en 0 $GM
+base_sv_s0|true|swthink/run.sh qwen3.5-0.8b base sv 0 $GM
+base_en_s0|true|swthink/run.sh qwen3.5-0.8b base en 0 $GM
+p50_sv_s1|true|swthink/run.sh qwen35_paper_p50c p50 sv 1 $GM
+p50_en_s1|true|swthink/run.sh qwen35_paper_p50c p50 en 1 $GM
+base_sv_s1|true|swthink/run.sh qwen3.5-0.8b base sv 1 $GM
+base_en_s1|true|swthink/run.sh qwen3.5-0.8b base en 1 $GM

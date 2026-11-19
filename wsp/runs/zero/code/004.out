@@ -1,0 +1,16 @@
+harness ready: 0 forward passes left (of 0)
+n word-initial sv/en types: 771 1391
+cos(dA,dB) 0.969
+held-out AUC (all bins pooled) 0.767 n=220/470
+cos with d_lang_emb 0.448
+cos with d_sv_en_matched 0.710
+Swedish side: [' de', ' en', ' se', ' vi', ' tr', ' im', ' st', ' le', ' fr', ' te', ' pr', ' ar', ' es', ' re', ' la', ' gr', ' al', ' ur', ' des', ' br', ' su', ' av', ' ter', ' em', ' sa', ' ma', ' du', ' ser', ' par', ' ca', ' ta', ' di', ' sp', ' ut', ' ab', ' dr', ' ad', ' vis', ' un', ' sen', ' dem', ' sin', ' fl', ' pat', ' det', ' ver', ' den', ' mer', ' op', ' am', ' ap', ' ne', ' si', ' ak', ' ber', ' del', ' ang', ' ro', ' el', ' ha', ' str', ' da', ' ag', ' reg', ' pa', ' ch', ' gen', ' om', ' os', ' bu', ' som', ' man', ' tal', ' sk', ' fa', ' in', ' ins', ' et', ' pl', ' ind', ' ob', ' er', ' fe', ' ac', ' bi', ' mar', ' ant', ' pro', ' har', ' tre', ' der', ' tro', ' il', ' int', ' med', ' tu', ' af', ' sil', ' tem', ' ent']
+English side: [' Među', ' întâl', ' Situé', ' ponctu', ' gereki', ' trám', ' détru', ' deputados', ' Oczy', ' chôm', ' desconhe', ' policías', ' naque', ' heridos', ' portavoz', ' dormitorios', ' 모텔', ' jocuri', ' efectiv', ' Potre', ' 호텔을', ' suspeito', ' Zoals', ' potriv', ' preferiti', ' coinci', ' divulgado', ' adhér', ' erotici', ' Peças', ' cantora', ' véh', ' procé', ' Sindaco', ' zove', ' warta', ' rembourse', ' prefeit', ' frumo', ' électr', ' Ponad', ' odlu', ' erotische', ' fãs', ' Prefeito', ' conséqu', ' huéspedes', ' Parkplätze', ' şekl', ' kupon', ' modne', ' fournisse', ' Dodat', ' lavanderia', ' 욕실', ' Dodatk', ' inmue', ' theirs', ' démarr', ' atriz']
+sv     n=26 mean proj +0.1611 (vocab std 0.0456)
+da/no  n=10 mean proj +0.0314 (vocab std 0.0456)
+de     n=13 mean proj +0.1345 (vocab std 0.0456)
+nl     n= 9 mean proj +0.0690 (vocab std 0.0456)
+fi     n= 6 mean proj +0.0929 (vocab std 0.0456)
+es     n= 9 mean proj +0.1867 (vocab std 0.0456)
+en     n=12 mean proj +0.0707 (vocab std 0.0456)
+share of raw mean-diff along d: 0.364

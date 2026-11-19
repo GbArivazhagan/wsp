@@ -1,0 +1,150 @@
+{"id": "en_001", "lang": "en", "category": "vardag", "prompt": "How do I get red wine out of a carpet?"}
+{"id": "en_002", "lang": "en", "category": "halsa", "prompt": "Why is sleep so important for memory?"}
+{"id": "en_003", "lang": "en", "category": "teknik_programmering", "prompt": "What is the difference between a list and a tuple in Python?"}
+{"id": "en_004", "lang": "en", "category": "naturvetenskap", "prompt": "Why is the sky blue?"}
+{"id": "en_005", "lang": "en", "category": "historia_samhalle", "prompt": "What were the main causes of the First World War?"}
+{"id": "en_006", "lang": "en", "category": "kultur", "prompt": "Why is Shakespeare still performed so often today?"}
+{"id": "en_007", "lang": "en", "category": "ekonomi_arbete", "prompt": "How does compound interest work?"}
+{"id": "en_008", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a short poem about autumn rain."}
+{"id": "en_009", "lang": "en", "category": "asikter_resonemang", "prompt": "Should homework be banned in primary schools?"}
+{"id": "en_010", "lang": "en", "category": "vardag", "prompt": "What's the best way to pack a suitcase for a two-week trip without overpacking?"}
+{"id": "en_011", "lang": "en", "category": "halsa", "prompt": "What are some easy high-protein breakfasts that don't involve eggs?"}
+{"id": "en_012", "lang": "en", "category": "teknik_programmering", "prompt": "Explain recursion with a simple code example."}
+{"id": "en_013", "lang": "en", "category": "naturvetenskap", "prompt": "How do black holes form?"}
+{"id": "en_014", "lang": "en", "category": "historia_samhalle", "prompt": "Why did the Western Roman Empire fall?"}
+{"id": "en_015", "lang": "en", "category": "kultur", "prompt": "What makes Jane Austen's novels so enduringly popular?"}
+{"id": "en_016", "lang": "en", "category": "ekonomi_arbete", "prompt": "What should a good cover letter include?"}
+{"id": "en_017", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write the opening paragraph of a mystery novel set in a lighthouse."}
+{"id": "en_018", "lang": "en", "category": "asikter_resonemang", "prompt": "What are the pros and cons of nuclear power?"}
+{"id": "en_019", "lang": "en", "category": "vardag", "prompt": "My houseplants keep dying even though I water them regularly. What might I be doing wrong?"}
+{"id": "en_020", "lang": "en", "category": "halsa", "prompt": "How can I start running if I've never exercised regularly?"}
+{"id": "en_021", "lang": "en", "category": "teknik_programmering", "prompt": "How does garbage collection work in Java?"}
+{"id": "en_022", "lang": "en", "category": "naturvetenskap", "prompt": "Explain photosynthesis in simple terms."}
+{"id": "en_023", "lang": "en", "category": "historia_samhalle", "prompt": "How did the printing press change Europe?"}
+{"id": "en_024", "lang": "en", "category": "kultur", "prompt": "Explain the origins of Thanksgiving."}
+{"id": "en_025", "lang": "en", "category": "ekonomi_arbete", "prompt": "How can I ask my manager for a raise?"}
+{"id": "en_026", "lang": "en", "category": "kreativt_skrivande", "prompt": "Tell a short bedtime story about a dragon who is afraid of the dark."}
+{"id": "en_027", "lang": "en", "category": "asikter_resonemang", "prompt": "Is it better to rent or buy a home?"}
+{"id": "en_028", "lang": "en", "category": "vardag", "prompt": "Give me some tips for keeping a small apartment tidy."}
+{"id": "en_029", "lang": "en", "category": "halsa", "prompt": "Explain the difference between soluble and insoluble fiber."}
+{"id": "en_030", "lang": "en", "category": "teknik_programmering", "prompt": "What's the point of using branches in Git?"}
+{"id": "en_031", "lang": "en", "category": "naturvetenskap", "prompt": "What causes the seasons on Earth?"}
+{"id": "en_032", "lang": "en", "category": "historia_samhalle", "prompt": "Explain what the Magna Carta was and why it still matters."}
+{"id": "en_033", "lang": "en", "category": "kultur", "prompt": "How did the Beatles change popular music?"}
+{"id": "en_034", "lang": "en", "category": "ekonomi_arbete", "prompt": "Explain inflation like I'm twelve."}
+{"id": "en_035", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a sequence of three haiku about a city waking up."}
+{"id": "en_036", "lang": "en", "category": "asikter_resonemang", "prompt": "Discuss the arguments for and against a four-day work week."}
+{"id": "en_037", "lang": "en", "category": "vardag", "prompt": "How should I prepare for moving to a new city where I don't know anyone?"}
+{"id": "en_038", "lang": "en", "category": "halsa", "prompt": "What happens to the body when you suddenly stop drinking coffee?"}
+{"id": "en_039", "lang": "en", "category": "teknik_programmering", "prompt": "Can you explain what a REST API is to someone who has never programmed?"}
+{"id": "en_040", "lang": "en", "category": "naturvetenskap", "prompt": "How does CRISPR gene editing work?"}
+{"id": "en_041", "lang": "en", "category": "historia_samhalle", "prompt": "What was the Industrial Revolution, and how did it change everyday life?"}
+{"id": "en_042", "lang": "en", "category": "kultur", "prompt": "What is Burns Night and how is it celebrated?"}
+{"id": "en_043", "lang": "en", "category": "ekonomi_arbete", "prompt": "What are index funds, and why do so many people recommend them?"}
+{"id": "en_044", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a letter from a soldier in 1916 to his mother back home."}
+{"id": "en_045", "lang": "en", "category": "asikter_resonemang", "prompt": "Does social media do more harm than good for teenagers? Weigh the arguments."}
+{"id": "en_046", "lang": "en", "category": "vardag", "prompt": "What should I check before buying a used car?"}
+{"id": "en_047", "lang": "en", "category": "halsa", "prompt": "Give me a simple vegetarian dinner I can cook in under thirty minutes."}
+{"id": "en_048", "lang": "en", "category": "teknik_programmering", "prompt": "Why is SQL injection dangerous, and how do parameterized queries prevent it?"}
+{"id": "en_049", "lang": "en", "category": "naturvetenskap", "prompt": "Why does ice float on water when most solids sink in their own liquid?"}
+{"id": "en_050", "lang": "en", "category": "historia_samhalle", "prompt": "Describe the significance of the civil rights movement in the United States."}
+{"id": "en_051", "lang": "en", "category": "kultur", "prompt": "Tell me about the history of jazz in New Orleans."}
+{"id": "en_052", "lang": "en", "category": "ekonomi_arbete", "prompt": "I've just become self-employed. What should I keep in mind about taxes and bookkeeping?"}
+{"id": "en_053", "lang": "en", "category": "kreativt_skrivande", "prompt": "Describe a busy train station from the perspective of a pigeon."}
+{"id": "en_054", "lang": "en", "category": "asikter_resonemang", "prompt": "What are the strongest arguments for and against universal basic income?"}
+{"id": "en_055", "lang": "en", "category": "vardag", "prompt": "Explain how to unclog a kitchen sink without calling a plumber."}
+{"id": "en_056", "lang": "en", "category": "halsa", "prompt": "How much water should an adult drink per day, and does coffee count?"}
+{"id": "en_057", "lang": "en", "category": "teknik_programmering", "prompt": "Write a Python function that checks whether a string is a palindrome, and explain how it works."}
+{"id": "en_058", "lang": "en", "category": "naturvetenskap", "prompt": "What is the greenhouse effect, and how does it relate to climate change?"}
+{"id": "en_059", "lang": "en", "category": "historia_samhalle", "prompt": "What led to the collapse of the Soviet Union?"}
+{"id": "en_060", "lang": "en", "category": "kultur", "prompt": "Explain the basic rules of cricket to a complete beginner."}
+{"id": "en_061", "lang": "en", "category": "ekonomi_arbete", "prompt": "How do I build an emergency fund when money is tight?"}
+{"id": "en_062", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a limerick about a forgetful professor, then a second one about his cat."}
+{"id": "en_063", "lang": "en", "category": "asikter_resonemang", "prompt": "Should zoos still exist? Explain your reasoning."}
+{"id": "en_064", "lang": "en", "category": "vardag", "prompt": "I'm always running late in the mornings. How can I make my routine smoother?"}
+{"id": "en_065", "lang": "en", "category": "halsa", "prompt": "What are good ways to unwind after a stressful workday?"}
+{"id": "en_066", "lang": "en", "category": "teknik_programmering", "prompt": "What are the pros and cons of microservices compared to a monolithic architecture?"}
+{"id": "en_067", "lang": "en", "category": "naturvetenskap", "prompt": "How do honeybees communicate with each other?"}
+{"id": "en_068", "lang": "en", "category": "historia_samhalle", "prompt": "How does the electoral college work in US presidential elections?"}
+{"id": "en_069", "lang": "en", "category": "kultur", "prompt": "Why is The Great Gatsby considered one of the great American novels?"}
+{"id": "en_070", "lang": "en", "category": "ekonomi_arbete", "prompt": "What are good questions to ask at the end of a job interview?"}
+{"id": "en_071", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a five-sentence story about a lost key."}
+{"id": "en_072", "lang": "en", "category": "asikter_resonemang", "prompt": "Is it ethical to eat meat? Walk me through the main arguments."}
+{"id": "en_073", "lang": "en", "category": "vardag", "prompt": "Any tips for surviving a long-haul flight?"}
+{"id": "en_074", "lang": "en", "category": "halsa", "prompt": "Why do muscles get sore a day or two after a workout?"}
+{"id": "en_075", "lang": "en", "category": "teknik_programmering", "prompt": "How does HTTPS keep data safe between my browser and a website?"}
+{"id": "en_076", "lang": "en", "category": "naturvetenskap", "prompt": "Explain the theory of plate tectonics."}
+{"id": "en_077", "lang": "en", "category": "historia_samhalle", "prompt": "What was life like for ordinary people in medieval England?"}
+{"id": "en_078", "lang": "en", "category": "kultur", "prompt": "What's the story behind Guy Fawkes Night?"}
+{"id": "en_079", "lang": "en", "category": "ekonomi_arbete", "prompt": "What are the advantages and disadvantages of working from home?"}
+{"id": "en_080", "lang": "en", "category": "kreativt_skrivande", "prompt": "Imagine you're a time traveler arriving in London in 1850. Describe your first hour."}
+{"id": "en_081", "lang": "en", "category": "asikter_resonemang", "prompt": "Weigh the advantages and disadvantages of self-driving cars."}
+{"id": "en_082", "lang": "en", "category": "vardag", "prompt": "What's a sensible way to organize a garage that has turned into a dumping ground?"}
+{"id": "en_083", "lang": "en", "category": "halsa", "prompt": "How can I cut down on sugar without feeling deprived?"}
+{"id": "en_084", "lang": "en", "category": "teknik_programmering", "prompt": "Explain Big O notation using everyday examples."}
+{"id": "en_085", "lang": "en", "category": "naturvetenskap", "prompt": "What exactly is entropy, in plain terms?"}
+{"id": "en_086", "lang": "en", "category": "historia_samhalle", "prompt": "Why was the Cold War called 'cold'?"}
+{"id": "en_087", "lang": "en", "category": "kultur", "prompt": "How did hip hop emerge in the Bronx in the 1970s?"}
+{"id": "en_088", "lang": "en", "category": "ekonomi_arbete", "prompt": "How do central bank interest rate changes affect ordinary households?"}
+{"id": "en_089", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a dialogue between a coffee cup and a teapot arguing about which of them is better."}
+{"id": "en_090", "lang": "en", "category": "asikter_resonemang", "prompt": "Should voting be compulsory?"}
+{"id": "en_091", "lang": "en", "category": "vardag", "prompt": "How do I get my kids to help out more with chores around the house?"}
+{"id": "en_092", "lang": "en", "category": "halsa", "prompt": "What is intermittent fasting, and what does the research say about it?"}
+{"id": "en_093", "lang": "en", "category": "teknik_programmering", "prompt": "What's the difference between `==` and `===` in JavaScript?"}
+{"id": "en_094", "lang": "en", "category": "naturvetenskap", "prompt": "How do scientists know how old the universe is?"}
+{"id": "en_095", "lang": "en", "category": "historia_samhalle", "prompt": "What role did women play on the home front during the Second World War?"}
+{"id": "en_096", "lang": "en", "category": "kultur", "prompt": "Recommend a few classic British crime novels and explain what makes each one worth reading."}
+{"id": "en_097", "lang": "en", "category": "ekonomi_arbete", "prompt": "Tips for negotiating the salary for a new job?"}
+{"id": "en_098", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a short speech for a best friend's wedding. Keep it warm and a little funny."}
+{"id": "en_099", "lang": "en", "category": "asikter_resonemang", "prompt": "Is it better to specialize early or to try many things before settling on a career?"}
+{"id": "en_100", "lang": "en", "category": "vardag", "prompt": "What can I do about noisy upstairs neighbours?"}
+{"id": "en_101", "lang": "en", "category": "halsa", "prompt": "Tips for better posture at a desk job?"}
+{"id": "en_102", "lang": "en", "category": "teknik_programmering", "prompt": "I have a Python script that reads a large CSV file line by line, and it's very slow. What are some ways to speed it up, and when would it make sense to switch to pandas?"}
+{"id": "en_103", "lang": "en", "category": "naturvetenskap", "prompt": "Why do some animals hibernate while others don't?"}
+{"id": "en_104", "lang": "en", "category": "historia_samhalle", "prompt": "Explain how the European Union came to be."}
+{"id": "en_105", "lang": "en", "category": "kultur", "prompt": "What is the cultural significance of the Super Bowl beyond the football itself?"}
+{"id": "en_106", "lang": "en", "category": "ekonomi_arbete", "prompt": "What is the difference between a stock and a bond?"}
+{"id": "en_107", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a fable with a moral about patience."}
+{"id": "en_108", "lang": "en", "category": "asikter_resonemang", "prompt": "What are the risks and benefits of using artificial intelligence in healthcare?"}
+{"id": "en_109", "lang": "en", "category": "vardag", "prompt": "How can I keep my home warmer in winter without driving up the heating bill?"}
+{"id": "en_110", "lang": "en", "category": "halsa", "prompt": "Explain how vaccines train the immune system."}
+{"id": "en_111", "lang": "en", "category": "teknik_programmering", "prompt": "How do hash tables achieve such fast lookups?"}
+{"id": "en_112", "lang": "en", "category": "naturvetenskap", "prompt": "What would happen if the Moon suddenly disappeared?"}
+{"id": "en_113", "lang": "en", "category": "historia_samhalle", "prompt": "What is the difference between a parliamentary and a presidential system?"}
+{"id": "en_114", "lang": "en", "category": "kultur", "prompt": "Describe the tradition of afternoon tea."}
+{"id": "en_115", "lang": "en", "category": "ekonomi_arbete", "prompt": "How do I make a monthly budget that I'll actually stick to?"}
+{"id": "en_116", "lang": "en", "category": "kreativt_skrivande", "prompt": "My grandmother is turning ninety next month and loves gardening. Write a short poem I could read aloud at her party."}
+{"id": "en_117", "lang": "en", "category": "asikter_resonemang", "prompt": "My town is debating whether to turn its main street into a pedestrian zone. Local shop owners are worried about losing customers. What are the strongest arguments on each side?"}
+{"id": "en_118", "lang": "en", "category": "vardag", "prompt": "Suggest a few ideas for a rainy weekend with two bored teenagers."}
+{"id": "en_119", "lang": "en", "category": "halsa", "prompt": "What makes a meal nutritionally balanced?"}
+{"id": "en_120", "lang": "en", "category": "teknik_programmering", "prompt": "What is a race condition, and how can a mutex help prevent one?"}
+{"id": "en_121", "lang": "en", "category": "naturvetenskap", "prompt": "Explain the difference between nuclear fission and nuclear fusion."}
+{"id": "en_122", "lang": "en", "category": "historia_samhalle", "prompt": "How did the Black Death affect European society?"}
+{"id": "en_123", "lang": "en", "category": "kultur", "prompt": "What influence did Tolkien have on modern fantasy?"}
+{"id": "en_124", "lang": "en", "category": "ekonomi_arbete", "prompt": "How should I handle a coworker who keeps taking credit for my work?"}
+{"id": "en_125", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a scene where two strangers get stuck in an elevator."}
+{"id": "en_126", "lang": "en", "category": "asikter_resonemang", "prompt": "Is space exploration worth the cost when there are so many problems on Earth?"}
+{"id": "en_127", "lang": "en", "category": "vardag", "prompt": "What's the right way to sharpen a kitchen knife?"}
+{"id": "en_128", "lang": "en", "category": "halsa", "prompt": "I get a headache almost every afternoon at work. What are some common causes worth looking into?"}
+{"id": "en_129", "lang": "en", "category": "teknik_programmering", "prompt": "Describe what Docker containers are and why developers use them."}
+{"id": "en_130", "lang": "en", "category": "naturvetenskap", "prompt": "How do antibiotics work, and why is antibiotic resistance a growing problem?"}
+{"id": "en_131", "lang": "en", "category": "historia_samhalle", "prompt": "What were the consequences of the partition of India in 1947?"}
+{"id": "en_132", "lang": "en", "category": "kultur", "prompt": "How is St Patrick's Day celebrated in Ireland compared to the United States?"}
+{"id": "en_133", "lang": "en", "category": "ekonomi_arbete", "prompt": "What is a recession, and what usually causes one?"}
+{"id": "en_134", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a playful product description for a magical umbrella that never lets you get wet."}
+{"id": "en_135", "lang": "en", "category": "asikter_resonemang", "prompt": "Compare the benefits of living in a big city with living in the countryside."}
+{"id": "en_136", "lang": "en", "category": "vardag", "prompt": "How do I start composting if I only have a small balcony?"}
+{"id": "en_137", "lang": "en", "category": "halsa", "prompt": "How do I meal prep for a busy week on a tight budget?"}
+{"id": "en_138", "lang": "en", "category": "teknik_programmering", "prompt": "What's the best way to learn programming as an adult with a full-time job?"}
+{"id": "en_139", "lang": "en", "category": "naturvetenskap", "prompt": "How do cats manage to land on their feet?"}
+{"id": "en_140", "lang": "en", "category": "historia_samhalle", "prompt": "Why do some democracies still have a monarch?"}
+{"id": "en_141", "lang": "en", "category": "kultur", "prompt": "What themes run through Toni Morrison's novels?"}
+{"id": "en_142", "lang": "en", "category": "ekonomi_arbete", "prompt": "I've been offered a promotion that comes with a lot more responsibility but only a small pay increase. How should I think about whether to accept it?"}
+{"id": "en_143", "lang": "en", "category": "kreativt_skrivande", "prompt": "Write a diary entry from an astronaut on her first day on Mars."}
+{"id": "en_144", "lang": "en", "category": "asikter_resonemang", "prompt": "Do standardized tests measure anything meaningful?"}
+{"id": "en_145", "lang": "en", "category": "vardag", "prompt": "I'm hosting a dinner party for eight people for the first time. How should I plan the evening so I'm not stuck in the kitchen all night?"}
+{"id": "en_146", "lang": "en", "category": "halsa", "prompt": "Why is it harder to lose weight as you get older?"}
+{"id": "en_147", "lang": "en", "category": "teknik_programmering", "prompt": "Explain the difference between unit tests and integration tests."}
+{"id": "en_148", "lang": "en", "category": "naturvetenskap", "prompt": "Describe how a rainbow forms."}
+{"id": "en_149", "lang": "en", "category": "historia_samhalle", "prompt": "How has the role of trade unions changed over the last century?"}
+{"id": "en_150", "lang": "en", "category": "kultur", "prompt": "Why has Doctor Who remained popular for so many decades?"}

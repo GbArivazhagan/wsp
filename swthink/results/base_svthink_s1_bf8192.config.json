@@ -1,0 +1,18 @@
+{
+ "model": "qwen3.5-0.8b",
+ "src": "swthink/results/base_svthink_s1.jsonl",
+ "budget": 8192,
+ "answer_tokens": 1024,
+ "gpu_mem": 0.7,
+ "out": "swthink/results/base_svthink_s1_bf8192.jsonl",
+ "n_rows": 200,
+ "n_forced": 137,
+ "gen_seconds": 210.2,
+ "sampling": {
+  "temperature": 0.6,
+  "top_p": 0.95,
+  "top_k": 20,
+  "presence_penalty": 1.5,
+  "seed": 0
+ }
+}

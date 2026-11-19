@@ -1,0 +1,16 @@
+harness ready: 0 forward passes left (of 0)
+usable single-token pairs: 77 ['och', 'att', 'det', 'som', 'för', 'är', 'med', 'till', 'av', 'på', 'inte', 'har', 'kan', 'om', 'ett', 'men', 'var', 'vi', 'så', 'från', 'eller', 'hur', 'mycket', 'många', 'varje', 'kvar', 'antal', 'svar', 'hon', 'han', 'de', 'hade', 'får', 'fick', 'mer', 'än', 'efter', 'innan', 'dag', 'år', 'pengar', 'varje', 'alla', 'två', 'tre', 'fem', 'sex', 'tio', 'lika', 'varje', 'mindre', 'större', 'första', 'andra', 'också', 'bara', 'sedan', 'när', 'där', 'här', 'vad', 'måste', 'skulle', 'kommer', 'blir', 'ger', 'tar', 'bok', 'bil', 'hus', 'barn', 'mat', 'stor', 'liten', 'ny', 'procent', 'tillsammans']
+held-out pair-sign accuracy 0.986
+||mean pair diff|| 0.3038, mean ||pair diff|| 0.7572  (coherence 0.401)
+vocab proj std 0.0608; pairs: sv mean -0.0412 en mean -0.3451
+da/no  n=10 mean proj -0.0256
+de     n=13 mean proj -0.1693
+nl     n= 9 mean proj -0.1037
+fi     n= 6 mean proj -0.0723
+es     n= 9 mean proj -0.1943
+fr     n= 9 mean proj -0.2144
+TOP sv side: ['*“.', '*”,', '!”.', '*”.', '”…', '**”,', ' Leverkus', '”.*', ' dicks', ' chatten', ' modne', ' erotik', ' videor', '».**', ' **:**', '!».', ' borsten', ' trám', ' undermin', ' erotisch', ' Краси', ' .**', ' Erotische', ' cerem', ' erotische', ' prostytut', ' Teixe', ' Prostitu', ' sverige', ' Jún', ' lawy', ' pornô', ' vids', ' köln', ' degusta', ' nakna', ' neoliber', '",-', ' geile', ' silen', ' prostitut', ' агрега', ' Warsza', ' **.**', '…),', ' pornos', ' Kontaktd', ' busty', ' tranny', ' hookers', ' Geile', ' Следова', ' erotici', ' lesbische', ' attrak', ' психи', ' sexi', ' Massasje', '-ves', ' datování', 'vistas', ' –**', '-strokes', ' tarinat', ' tenden', ' hoeren', '🙂', ' тошно', ' göteborg', '！",', '…»', ' Встре', ' Gabrie', ' pouc', '."</', ' eskort', '隱藏版', ' kecant', ' возникнове', ' металлич']
+TOP en side: [' ', ' (', ',', '.', '-', '\n', ' in', ' and', '/', ':', '1', ' "', ' a', '2', ' to', ' the', ' for', ' is', ' -', ' A', ' of', ' on', ' with', ' or', '3', ' as', '\n\n', ' [', '(', ' I', ' at', ' C', '...', ' *', '?', ';', '0', " '", ' S', ' B']
+cos with d_lang_emb +0.757
+cos with d_sv_en_matched +0.436
+cos with d_sv_en_wordinit +0.140

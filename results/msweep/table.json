@@ -1,0 +1,254 @@
+[
+ {
+  "cfg": "msw_rlang_L6-18x4_a6",
+  "acc_sv": 0.375,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.135,
+  "acc_en": 0.505,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.145
+ },
+ {
+  "cfg": "msw_inalign_L15-19_a6",
+  "acc_sv": 0.355,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.15,
+  "acc_en": 0.555,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.12
+ },
+ {
+  "cfg": "msw_rlang_L10-14_a6",
+  "acc_sv": 0.345,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.145,
+  "acc_en": 0.57,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.085
+ },
+ {
+  "cfg": "msw_rlang_L6-18x4_a2",
+  "acc_sv": 0.345,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.145,
+  "acc_en": 0.535,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.1
+ },
+ {
+  "cfg": "msw_rlang_L15-19_a6",
+  "acc_sv": 0.34,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.175,
+  "acc_en": 0.545,
+  "lang_ok_en": 0.995,
+  "cut_en": 0.18
+ },
+ {
+  "cfg": "msw_inalign_L10-14_a6",
+  "acc_sv": 0.325,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.105,
+  "acc_en": 0.51,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.095
+ },
+ {
+  "cfg": "msw_inalign_L6-18x4_a2",
+  "acc_sv": 0.325,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.145,
+  "acc_en": 0.595,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.085
+ },
+ {
+  "cfg": "msw_inalign_L6-18x4_a6",
+  "acc_sv": 0.295,
+  "lang_ok_sv": 0.0,
+  "cut_sv": 0.115,
+  "acc_en": 0.545,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.105
+ },
+ {
+  "cfg": "msw_base",
+  "acc_sv": 0.29,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.06,
+  "acc_en": 0.595,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.095
+ },
+ {
+  "cfg": "msw_derail_L15-19_a1",
+  "acc_sv": 0.285,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.06,
+  "acc_en": 0.545,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.105
+ },
+ {
+  "cfg": "msw_rlang_L10-14_a2",
+  "acc_sv": 0.27,
+  "lang_ok_sv": 0.995,
+  "cut_sv": 0.075,
+  "acc_en": 0.565,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.075
+ },
+ {
+  "cfg": "msw_derail_L6-18x4_a2",
+  "acc_sv": 0.26,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.055,
+  "acc_en": 0.54,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.105
+ },
+ {
+  "cfg": "msw_derail_L15-19_a2",
+  "acc_sv": 0.25,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.065,
+  "acc_en": 0.555,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.11
+ },
+ {
+  "cfg": "msw_derail_L10-14_a2",
+  "acc_sv": 0.245,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.08,
+  "acc_en": 0.52,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.13
+ },
+ {
+  "cfg": "msw_derail_L15-19_a6",
+  "acc_sv": 0.245,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.1,
+  "acc_en": 0.59,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.09
+ },
+ {
+  "cfg": "msw_derail_L6-18x4_a1",
+  "acc_sv": 0.245,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.08,
+  "acc_en": 0.52,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.125
+ },
+ {
+  "cfg": "msw_inalign_L6-18x4_a1",
+  "acc_sv": 0.245,
+  "lang_ok_sv": 0.99,
+  "cut_sv": 0.06,
+  "acc_en": 0.56,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.14
+ },
+ {
+  "cfg": "msw_rlang_L10-14_a1",
+  "acc_sv": 0.24,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.085,
+  "acc_en": 0.58,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.115
+ },
+ {
+  "cfg": "msw_rlang_L6-18x4_a1",
+  "acc_sv": 0.24,
+  "lang_ok_sv": 0.99,
+  "cut_sv": 0.08,
+  "acc_en": 0.555,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.155
+ },
+ {
+  "cfg": "msw_inalign_L10-14_a1",
+  "acc_sv": 0.235,
+  "lang_ok_sv": 0.995,
+  "cut_sv": 0.11,
+  "acc_en": 0.615,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.095
+ },
+ {
+  "cfg": "msw_inalign_L10-14_a2",
+  "acc_sv": 0.235,
+  "lang_ok_sv": 0.99,
+  "cut_sv": 0.08,
+  "acc_en": 0.555,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.08
+ },
+ {
+  "cfg": "msw_inalign_L15-19_a1",
+  "acc_sv": 0.225,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.075,
+  "acc_en": 0.515,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.15
+ },
+ {
+  "cfg": "msw_inalign_L15-19_a2",
+  "acc_sv": 0.225,
+  "lang_ok_sv": 0.95,
+  "cut_sv": 0.085,
+  "acc_en": 0.545,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.11
+ },
+ {
+  "cfg": "msw_rlang_L15-19_a1",
+  "acc_sv": 0.22,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.105,
+  "acc_en": 0.55,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.105
+ },
+ {
+  "cfg": "msw_rlang_L15-19_a2",
+  "acc_sv": 0.22,
+  "lang_ok_sv": 0.995,
+  "cut_sv": 0.06,
+  "acc_en": 0.55,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.12
+ },
+ {
+  "cfg": "msw_derail_L10-14_a1",
+  "acc_sv": 0.215,
+  "lang_ok_sv": 1.0,
+  "cut_sv": 0.045,
+  "acc_en": 0.55,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.115
+ },
+ {
+  "cfg": "msw_derail_L10-14_a6",
+  "acc_sv": 0.175,
+  "lang_ok_sv": 0.995,
+  "cut_sv": 0.105,
+  "acc_en": 0.525,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.14
+ },
+ {
+  "cfg": "msw_derail_L6-18x4_a6",
+  "acc_sv": 0.175,
+  "lang_ok_sv": 0.995,
+  "cut_sv": 0.08,
+  "acc_en": 0.495,
+  "lang_ok_en": 1.0,
+  "cut_en": 0.105
+ }
+]

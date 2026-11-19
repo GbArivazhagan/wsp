@@ -1,0 +1,12 @@
+harness ready: 0 forward passes left (of 0)
+cos(dA,dB) 0.975
+held-out within-bin AUC (bin_start, n_sv, n_en, auc): [(np.int64(0), 73, 42, 0.846), (np.int64(2000), 33, 88, 0.916), (np.int64(5000), 40, 100, 0.953), (np.int64(10000), 37, 104, 0.975), (np.int64(20000), 61, 100, 0.988), (np.int64(40000), 48, 66, 0.952), (np.int64(70000), 28, 40, 0.924)]
+cos with unmatched s03 direction 0.855
+TOP Swedish side (word-like): ['ud', 'ur', 'vid', 'ren', 'vi', 'ut', 'mer', 'ag', 'lat', 'ma', 'ra', 'kr', 'te', 'va', 'ta', 'ga', 'rit', 'eng', 'gr', 'ans', 'ast', 'ser', 'ad', 'pa', 'ja', 'ok', 'br', 'je', 'vis', 'aj', 'ba', 'da', 'pe', 'akt', 'str', 'ger', 'av', 'uf', 'la', 'ap', 'ken', 'uk', 'lo', 'fr', 'de', 'pr', 'par', 'ver', 'rt', 'le', 'kar', 'sta', 'vel', 'pat', 'ug', 'ul', 'em', 'ca', 'se', 'me', 'du', 'alt', 'mi', 'jen', 'az', 'ret', 'nan', 'tra', 'na', 'ont', 'ter', 'kal', 'ende', 'pl', 'inn', 'vas', 'att', 'kt', 'od', 'ak']
+TOP English side (word-like): [' both', ' three', ' each', ' first', ' either', ' again', ' that', ' two', ' which', ' after', ' other', ' many', ' itself', ' one', ' when', ' same', ' there', ' having', ' those', ' work', ' the', ' with', ' required', ' though', ' some', ' exactly', ' whole', ' very', ' above', ' they', ' then', ' right', ' going', ' further', ' only', ' twice', ' small', ' now', ' own', ' number', ' because', ' between', ' actually', ' fully', ' values', ' almost', ' such', ' nearly', ' weight', ' groups', ' where', ' works', ' enough', ' early', ' remaining', ' beyond', ' their', ' multiple', ' every', ' initially', ' rather', ' known', ' next', ' steps', ' what', ' time', ' space', ' already', ' also', ' themselves', ' lines', ' being', ' left', ' outside', ' needed', ' how', ' together', ' year', ' starting', ' quite']
+sv n=27 mean proj 0.0413
+no/da n=10 mean proj -0.0117
+de n=13 mean proj 0.0070
+nl n=9 mean proj -0.0109
+en n=12 mean proj -0.1219
+vocab proj std 0.0286

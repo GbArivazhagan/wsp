@@ -1,0 +1,100 @@
+{"id": "da_001", "lang": "da", "category": "vardag", "prompt": "Hvordan får jeg kalk væk fra bruseren uden at bruge stærke kemikalier?"}
+{"id": "da_002", "lang": "da", "category": "halsa", "prompt": "Hvorfor er det så vigtigt at få nok søvn?"}
+{"id": "da_003", "lang": "da", "category": "teknik_programmering", "prompt": "Hvad er forskellen på en liste og en dictionary i Python?"}
+{"id": "da_004", "lang": "da", "category": "naturvetenskap", "prompt": "Hvorfor er himlen blå?"}
+{"id": "da_005", "lang": "da", "category": "historia_samhalle", "prompt": "Hvem var vikingerne, og hvorfor drog de på togter?"}
+{"id": "da_006", "lang": "da", "category": "kultur", "prompt": "Hvad betyder ordet hygge egentlig, og hvorfor er det blevet så populært i udlandet?"}
+{"id": "da_007", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvordan laver man et realistisk budget for en familie med to indkomster?"}
+{"id": "da_008", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv et kort digt om en grå novemberdag."}
+{"id": "da_009", "lang": "da", "category": "asikter_resonemang", "prompt": "Hvad er fordele og ulemper ved at gøre skoledagen kortere?"}
+{"id": "da_010", "lang": "da", "category": "vardag", "prompt": "Hvad skal jeg huske at tjekke, før jeg flytter ind i en ny lejlighed?"}
+{"id": "da_011", "lang": "da", "category": "halsa", "prompt": "Kan du foreslå en sund madpakke, som børn faktisk gider spise?"}
+{"id": "da_012", "lang": "da", "category": "teknik_programmering", "prompt": "Forklar, hvad rekursion er, og giv et simpelt eksempel i kode."}
+{"id": "da_013", "lang": "da", "category": "naturvetenskap", "prompt": "Hvordan opstår nordlys, og hvorfor ser man det så sjældent i Danmark?"}
+{"id": "da_014", "lang": "da", "category": "historia_samhalle", "prompt": "Hvordan var hverdagen i Danmark under besættelsen fra 1940 til 1945?"}
+{"id": "da_015", "lang": "da", "category": "kultur", "prompt": "Fortæl om H.C. Andersens liv og hans mest kendte eventyr."}
+{"id": "da_016", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvad er forskellen på aktier og obligationer?"}
+{"id": "da_017", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv begyndelsen på en krimi, der foregår på en øde ø i Kattegat."}
+{"id": "da_018", "lang": "da", "category": "asikter_resonemang", "prompt": "Hvad taler for og imod at indføre roadpricing i de store danske byer?"}
+{"id": "da_019", "lang": "da", "category": "vardag", "prompt": "Har du nogle gode råd til at få en travl hverdag med to små børn til at hænge sammen?"}
+{"id": "da_020", "lang": "da", "category": "halsa", "prompt": "Hvad er forskellen på mættet og umættet fedt?"}
+{"id": "da_021", "lang": "da", "category": "teknik_programmering", "prompt": "Hvordan virker versionsstyring med Git, og hvorfor bruger man det?"}
+{"id": "da_022", "lang": "da", "category": "naturvetenskap", "prompt": "Forklar fotosyntesen på en enkel måde."}
+{"id": "da_023", "lang": "da", "category": "historia_samhalle", "prompt": "Hvorfor fik Danmark en grundlov i 1849, og hvad betød det for almindelige mennesker?"}
+{"id": "da_024", "lang": "da", "category": "kultur", "prompt": "Hvad var Dogme 95, og hvorfor fik bevægelsen så stor betydning for dansk film?"}
+{"id": "da_025", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvordan forbereder jeg mig bedst til en jobsamtale?"}
+{"id": "da_026", "lang": "da", "category": "kreativt_skrivande", "prompt": "Fortæl en godnathistorie om et pindsvin, der ikke kan falde i søvn."}
+{"id": "da_027", "lang": "da", "category": "asikter_resonemang", "prompt": "Bør Danmark genoverveje sit nej til atomkraft? Gennemgå argumenterne."}
+{"id": "da_028", "lang": "da", "category": "vardag", "prompt": "Hvordan cykler man mest sikkert i byen om vinteren, når det er mørkt og glat?"}
+{"id": "da_029", "lang": "da", "category": "halsa", "prompt": "Hvordan kommer jeg i gang med at løbe, hvis jeg aldrig har dyrket motion før?"}
+{"id": "da_030", "lang": "da", "category": "teknik_programmering", "prompt": "Hvad er et API, og hvordan bruger man det i praksis?"}
+{"id": "da_031", "lang": "da", "category": "naturvetenskap", "prompt": "Hvad er grunden til, at vi har årstider?"}
+{"id": "da_032", "lang": "da", "category": "historia_samhalle", "prompt": "Forklar, hvordan et folketingsvalg foregår."}
+{"id": "da_033", "lang": "da", "category": "kultur", "prompt": "Hvordan fejrer man sankthansaften i Danmark?"}
+{"id": "da_034", "lang": "da", "category": "ekonomi_arbete", "prompt": "Forklar, hvordan den danske model på arbejdsmarkedet fungerer."}
+{"id": "da_035", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv et brev fra en vikingekvinde til hendes søn, som er draget ud på togt mod England."}
+{"id": "da_036", "lang": "da", "category": "asikter_resonemang", "prompt": "Sammenlign fordelene ved at bo i en lejlighed i byen med at bo i et hus på landet."}
+{"id": "da_037", "lang": "da", "category": "vardag", "prompt": "Mit køleskab lugter mærkeligt, selvom jeg har gjort det rent. Hvad kan jeg gøre?"}
+{"id": "da_038", "lang": "da", "category": "halsa", "prompt": "Hvilke grøntsager er i sæson i Danmark om efteråret, og hvad kan man lave med dem?"}
+{"id": "da_039", "lang": "da", "category": "teknik_programmering", "prompt": "Skriv en funktion i JavaScript, der vender en tekststreng om, og forklar koden linje for linje."}
+{"id": "da_040", "lang": "da", "category": "naturvetenskap", "prompt": "Hvordan fungerer en vindmølle, og hvorfor er der så mange af dem i Danmark?"}
+{"id": "da_041", "lang": "da", "category": "historia_samhalle", "prompt": "Hvad var reformationen, og hvordan ændrede den Danmark?"}
+{"id": "da_042", "lang": "da", "category": "kultur", "prompt": "Hvem var Søren Kierkegaard, og hvad handlede hans filosofi om?"}
+{"id": "da_043", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvad er inflation, og hvorfor stiger priserne i supermarkedet?"}
+{"id": "da_044", "lang": "da", "category": "kreativt_skrivande", "prompt": "Beskriv en travl morgen på Nørreport Station set fra en dues perspektiv."}
+{"id": "da_045", "lang": "da", "category": "asikter_resonemang", "prompt": "Hvilke argumenter er der for og imod en firedages arbejdsuge?"}
+{"id": "da_046", "lang": "da", "category": "vardag", "prompt": "Hvordan pakker man smartest til en uge i sommerhus med hele familien?"}
+{"id": "da_047", "lang": "da", "category": "halsa", "prompt": "Hvad sker der i kroppen, når man er stresset i lang tid?"}
+{"id": "da_048", "lang": "da", "category": "teknik_programmering", "prompt": "Hvorfor er det en dårlig idé at gemme adgangskoder i klartekst i en database?"}
+{"id": "da_049", "lang": "da", "category": "naturvetenskap", "prompt": "Hvad er et sort hul?"}
+{"id": "da_050", "lang": "da", "category": "historia_samhalle", "prompt": "Fortæl om redningen af de danske jøder i oktober 1943."}
+{"id": "da_051", "lang": "da", "category": "kultur", "prompt": "Hvad kendetegner dansk møbeldesign fra midten af 1900-tallet?"}
+{"id": "da_052", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvordan beder man sin chef om lønforhøjelse?"}
+{"id": "da_053", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv en kort dialog mellem en kaffekop og en tekande, der skændes om, hvem af dem der er bedst."}
+{"id": "da_054", "lang": "da", "category": "asikter_resonemang", "prompt": "Bør mobiltelefoner forbydes i folkeskolen? Begrund dit svar."}
+{"id": "da_055", "lang": "da", "category": "vardag", "prompt": "Giv mig nogle idéer til en hyggelig søndag, når det regner."}
+{"id": "da_056", "lang": "da", "category": "halsa", "prompt": "Giv mig en opskrift på en nem og mættende linsesuppe."}
+{"id": "da_057", "lang": "da", "category": "teknik_programmering", "prompt": "Hvad betyder det, at et program kører asynkront?"}
+{"id": "da_058", "lang": "da", "category": "naturvetenskap", "prompt": "Hvorfor stiger havniveauet, og hvad betyder det for et lavtliggende land som Danmark?"}
+{"id": "da_059", "lang": "da", "category": "historia_samhalle", "prompt": "Hvordan opstod den danske velfærdsstat?"}
+{"id": "da_060", "lang": "da", "category": "kultur", "prompt": "Fortæl lidt om, hvorfor Roskilde Festival har så stor betydning for dansk musikliv."}
+{"id": "da_061", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvad skal man overveje, før man starter sin egen virksomhed?"}
+{"id": "da_062", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv en fabel med en morale om tålmodighed."}
+{"id": "da_063", "lang": "da", "category": "asikter_resonemang", "prompt": "Hvad er de største fordele og risici ved at bruge kunstig intelligens i sundhedsvæsenet?"}
+{"id": "da_064", "lang": "da", "category": "vardag", "prompt": "Hvordan får man vasketøjet til at dufte friskt uden skyllemiddel?"}
+{"id": "da_065", "lang": "da", "category": "halsa", "prompt": "Hvorfor får man ondt i musklerne dagen efter træning?"}
+{"id": "da_066", "lang": "da", "category": "teknik_programmering", "prompt": "Min computer er blevet meget langsom. Hvad kan jeg selv gøre for at gøre den hurtigere?"}
+{"id": "da_067", "lang": "da", "category": "naturvetenskap", "prompt": "Hvordan ved forskerne, hvor gammel Jorden er?"}
+{"id": "da_068", "lang": "da", "category": "historia_samhalle", "prompt": "Hvad betød nederlaget i 1864 for Danmarks selvforståelse?"}
+{"id": "da_069", "lang": "da", "category": "kultur", "prompt": "Beskriv traditionerne omkring en klassisk dansk julefrokost."}
+{"id": "da_070", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvordan vælger man mellem fast og variabel rente på et boliglån?"}
+{"id": "da_071", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv en kort tale til en god vens 50-års fødselsdag. Den skal være rørende, men også lidt sjov."}
+{"id": "da_072", "lang": "da", "category": "asikter_resonemang", "prompt": "Er det etisk forsvarligt at spise kød? Gennemgå de vigtigste argumenter."}
+{"id": "da_073", "lang": "da", "category": "vardag", "prompt": "Hvordan forbereder man sig bedst på en lang køretur med små børn på bagsædet?"}
+{"id": "da_074", "lang": "da", "category": "halsa", "prompt": "Hvad kan jeg gøre for at få mere energi om eftermiddagen uden at drikke mere kaffe?"}
+{"id": "da_075", "lang": "da", "category": "teknik_programmering", "prompt": "Hvad er fordelene ved objektorienteret programmering?"}
+{"id": "da_076", "lang": "da", "category": "naturvetenskap", "prompt": "Hvad er forskellen på vejr og klima?"}
+{"id": "da_077", "lang": "da", "category": "historia_samhalle", "prompt": "Hvorfor er Grønland og Færøerne en del af rigsfællesskabet, og hvad indebærer det?"}
+{"id": "da_078", "lang": "da", "category": "kultur", "prompt": "Hvad var guldalderen i dansk kunst og litteratur?"}
+{"id": "da_079", "lang": "da", "category": "ekonomi_arbete", "prompt": "Har du nogle råd til, hvordan jeg kan spare op, når jeg lever af SU?"}
+{"id": "da_080", "lang": "da", "category": "kreativt_skrivande", "prompt": "Forestil dig, at du vågner op i København i år 1700. Beskriv dine første timer."}
+{"id": "da_081", "lang": "da", "category": "asikter_resonemang", "prompt": "Hvorfor stemmer nogle unge ikke ved valg, og hvad kunne man gøre ved det?"}
+{"id": "da_082", "lang": "da", "category": "vardag", "prompt": "Hvordan kommer jeg i gang med at sortere mit affald ordentligt?"}
+{"id": "da_083", "lang": "da", "category": "halsa", "prompt": "Hvordan bekæmper immunforsvaret en almindelig forkølelse?"}
+{"id": "da_084", "lang": "da", "category": "teknik_programmering", "prompt": "Forklar forskellen på en compiler og en fortolker."}
+{"id": "da_085", "lang": "da", "category": "naturvetenskap", "prompt": "Hvordan kan trækfugle finde vej over tusindvis af kilometer?"}
+{"id": "da_086", "lang": "da", "category": "historia_samhalle", "prompt": "Hvad er de vigtigste opgaver for en kommune i Danmark?"}
+{"id": "da_087", "lang": "da", "category": "kultur", "prompt": "Hvorfor betyder højskolerne så meget for mange danskere?"}
+{"id": "da_088", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvordan håndterer man en kollega, der hele tiden afbryder en på møder?"}
+{"id": "da_089", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv en lille historie om en gammel cykel, der drømmer om at se verden."}
+{"id": "da_090", "lang": "da", "category": "asikter_resonemang", "prompt": "Hvad er fordelene og ulemperne ved at arbejde hjemmefra?"}
+{"id": "da_091", "lang": "da", "category": "vardag", "prompt": "Vi skal holde fødselsdag for en seksårig med tolv gæster. Hvordan planlægger vi dagen, så det ikke ender i kaos?"}
+{"id": "da_092", "lang": "da", "category": "halsa", "prompt": "Jeg sidder foran en skærm otte timer om dagen, og mine øjne bliver trætte. Hvad kan jeg gøre for at aflaste dem?"}
+{"id": "da_093", "lang": "da", "category": "teknik_programmering", "prompt": "Hvordan beskytter jeg mig bedst mod phishing-mails?"}
+{"id": "da_094", "lang": "da", "category": "naturvetenskap", "prompt": "Forklar, hvad DNA er, og hvordan egenskaber nedarves fra forældre til børn."}
+{"id": "da_095", "lang": "da", "category": "historia_samhalle", "prompt": "Hvilken rolle spillede andelsbevægelsen for dansk landbrug i 1800-tallet?"}
+{"id": "da_096", "lang": "da", "category": "kultur", "prompt": "Anbefal nogle danske film, som man bør se, og forklar hvorfor."}
+{"id": "da_097", "lang": "da", "category": "ekonomi_arbete", "prompt": "Hvorfor er arbejdsløsheden lav i nogle perioder og høj i andre?"}
+{"id": "da_098", "lang": "da", "category": "kreativt_skrivande", "prompt": "Skriv et digt om havet ved Skagen en stormfuld aften."}
+{"id": "da_099", "lang": "da", "category": "asikter_resonemang", "prompt": "Bør værnepligten gælde for både mænd og kvinder? Diskutér fordele og ulemper."}
+{"id": "da_100", "lang": "da", "category": "vardag", "prompt": "Hvordan skifter jeg en cykelslange?"}

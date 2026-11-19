@@ -1,0 +1,32 @@
+# name|prerequisite (shell test)|command (run from project root)
+selB|test -f numword/results/dev/nw_B_a4_devNUM.jsonl|venvs/hf/bin/python numword/src/select_B.py
+eval_B|test -f numword/results/edits/B_selected.json|numword/scripts/run_eval.sh nw_B_sel B gsm_sv $GM
+eval_Btwin|test -f numword/results/edits/B_selected.json && grep -q "twins rebuilt" numword/logs/step2_twins.log|numword/scripts/run_eval.sh nw_Btwin_sel Btwin gsm_sv $GM
+eval_C|test -f models/nw_C/EDIT_INFO.json|numword/scripts/run_eval.sh nw_C C gsm_sv $GM
+eval_Ctwin|test -f models/nw_Ctwin/EDIT_INFO.json|numword/scripts/run_eval.sh nw_Ctwin Ctwin gsm_sv $GM
+eval_D|test -f models/nw_D/EDIT_INFO.json|numword/scripts/run_eval.sh nw_D D gsm_sv $GM
+syn_B|test -f numword/results/edits/B_selected.json|numword/scripts/run_syn.sh nw_B_sel B $GM
+syn_Btwin|test -f numword/results/edits/B_selected.json && grep -q "twins rebuilt" numword/logs/step2_twins.log|numword/scripts/run_syn.sh nw_Btwin_sel Btwin $GM
+syn_C|test -f models/nw_C/EDIT_INFO.json|numword/scripts/run_syn.sh nw_C C $GM
+syn_Ctwin|test -f models/nw_Ctwin/EDIT_INFO.json|numword/scripts/run_syn.sh nw_Ctwin Ctwin $GM
+syn_D|test -f models/nw_D/EDIT_INFO.json|numword/scripts/run_syn.sh nw_D D $GM
+lp_B|test -f numword/results/edits/B_selected.json|venvs/hf/bin/python src/eval_logprob.py --model nw_B_sel --tasks belebele_sv,gender_test,ppl_sv --out numword/results/logprob/B.json
+lp_Btwin|test -f numword/results/edits/B_selected.json && grep -q "twins rebuilt" numword/logs/step2_twins.log|venvs/hf/bin/python src/eval_logprob.py --model nw_Btwin_sel --tasks belebele_sv,gender_test,ppl_sv --out numword/results/logprob/Btwin.json
+lp_C|test -f models/nw_C/EDIT_INFO.json|venvs/hf/bin/python src/eval_logprob.py --model nw_C --tasks belebele_sv,gender_test,ppl_sv --out numword/results/logprob/C.json
+lp_Ctwin|test -f models/nw_Ctwin/EDIT_INFO.json|venvs/hf/bin/python src/eval_logprob.py --model nw_Ctwin --tasks belebele_sv,gender_test,ppl_sv --out numword/results/logprob/Ctwin.json
+lp_D|test -f models/nw_D/EDIT_INFO.json|venvs/hf/bin/python src/eval_logprob.py --model nw_D --tasks belebele_sv,gender_test,ppl_sv --out numword/results/logprob/D.json
+en_base|true|source scripts/env_vllm.sh >/dev/null; $PY src/gen_vllm.py --model qwen3.5-0.8b --sets gsm_en --limit 50 --think off --temperature 0.7 --top_p 0.8 --top_k 20 --presence_penalty 1.5 --max_tokens 4096 --max_model_len 6144 --n 4 --seed 0 --gpu_mem $GM --out numword/results/en/base.jsonl
+en_B|test -f numword/results/edits/B_selected.json|source scripts/env_vllm.sh >/dev/null; $PY src/gen_vllm.py --model nw_B_sel --sets gsm_en --limit 50 --think off --temperature 0.7 --top_p 0.8 --top_k 20 --presence_penalty 1.5 --max_tokens 4096 --max_model_len 6144 --n 4 --seed 0 --gpu_mem $GM --out numword/results/en/B.jsonl
+en_C|test -f models/nw_C/EDIT_INFO.json|source scripts/env_vllm.sh >/dev/null; $PY src/gen_vllm.py --model nw_C --sets gsm_en --limit 50 --think off --temperature 0.7 --top_p 0.8 --top_k 20 --presence_penalty 1.5 --max_tokens 4096 --max_model_len 6144 --n 4 --seed 0 --gpu_mem $GM --out numword/results/en/C.jsonl
+en_D|test -f models/nw_D/EDIT_INFO.json|source scripts/env_vllm.sh >/dev/null; $PY src/gen_vllm.py --model nw_D --sets gsm_en --limit 50 --think off --temperature 0.7 --top_p 0.8 --top_k 20 --presence_penalty 1.5 --max_tokens 4096 --max_model_len 6144 --n 4 --seed 0 --gpu_mem $GM --out numword/results/en/D.jsonl
+selfsol|true|source scripts/env_vllm.sh >/dev/null; $PY src/gen_vllm.py --model qwen3.5-0.8b --sets syn_train:digit --think off --temperature 0.7 --top_p 0.8 --top_k 20 --presence_penalty 1.5 --max_tokens 2048 --max_model_len 4096 --n 2 --seed 0 --gpu_mem $GM --out numword/results/syn/selfsol_train_digit.jsonl && venvs/hf/bin/python numword/src/build_selfdistill.py
+train_C2|test -e numword/queue/done/selfsol|venvs/hf/bin/python -u numword/src/lora_syn.py --data synsd --target down15 --r 1 --out nw_C2
+train_D2|test -e numword/queue/done/selfsol|venvs/hf/bin/python -u numword/src/lora_syn.py --data synsd --target alllinear --r 16 --out nw_D2
+eval_C2|test -f models/nw_C2/EDIT_INFO.json|numword/scripts/run_eval.sh nw_C2 C2 gsm_sv $GM
+eval_D2|test -f models/nw_D2/EDIT_INFO.json|numword/scripts/run_eval.sh nw_D2 D2 gsm_sv $GM
+syn_C2|test -f models/nw_C2/EDIT_INFO.json|numword/scripts/run_syn.sh nw_C2 C2 $GM
+syn_D2|test -f models/nw_D2/EDIT_INFO.json|numword/scripts/run_syn.sh nw_D2 D2 $GM
+eval_Btwin_retry|test -f numword/results/edits/B_selected.json|numword/scripts/run_eval.sh nw_Btwin_sel Btwin gsm_sv $GM
+lp_C2|test -f models/nw_C2/EDIT_INFO.json|venvs/hf/bin/python src/eval_logprob.py --model nw_C2 --tasks belebele_sv,gender_test,ppl_sv --out numword/results/logprob/C2.json
+lp_D2|test -f models/nw_D2/EDIT_INFO.json|venvs/hf/bin/python src/eval_logprob.py --model nw_D2 --tasks belebele_sv,gender_test,ppl_sv --out numword/results/logprob/D2.json
+en_D2|test -f models/nw_D2/EDIT_INFO.json|source scripts/env_vllm.sh >/dev/null; $PY src/gen_vllm.py --model nw_D2 --sets gsm_en --limit 50 --think off --temperature 0.7 --top_p 0.8 --top_k 20 --presence_penalty 1.5 --max_tokens 4096 --max_model_len 6144 --n 4 --seed 0 --gpu_mem $GM --out numword/results/en/D2.jsonl

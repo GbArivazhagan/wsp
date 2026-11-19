@@ -1,0 +1,29 @@
+{
+ "model": "qwen3.5-0.8b",
+ "sets": "gsm_en",
+ "system": "Du är en hjälpsam assistent. Svara alltid på svenska.",
+ "think": "off",
+ "temperature": 0.7,
+ "top_p": 0.8,
+ "top_k": 20,
+ "presence_penalty": 1.5,
+ "repetition_penalty": 1.0,
+ "max_tokens": 4096,
+ "n": 4,
+ "seed": 0,
+ "max_model_len": 4096,
+ "gpu_mem": 0.45,
+ "limit": 0,
+ "user_suffix": "",
+ "prefill": "",
+ "out": "results/x2/base_P-en_R-sv.jsonl",
+ "model_path": "$HF_HOME/hub/models--Qwen--Qwen3.5-0.8B/snapshots/2fc06364715b967f1860aea9cf38778875588b17",
+ "registry": [
+  "Qwen/Qwen3.5-0.8B",
+  "2fc06364715b967f1860aea9cf38778875588b17"
+ ],
+ "system_text": "Du är en hjälpsam assistent. Svara alltid på svenska.",
+ "n_rows": 200,
+ "gen_seconds": 325.6,
+ "example_prompt": "<|im_start|>system\nDu är en hjälpsam assistent. Svara alltid på svenska.<|im_end|>\n<|im_start|>user\nJames decides to run 3 sprints 3 times a week.  He runs 60 meters each sprint.  How many total meters does he run a week?\nPlease reason step by step, and put your final answer within \\boxed{}.<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n\n"
+}

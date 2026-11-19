@@ -1,0 +1,100 @@
+{"id": "nb_001", "lang": "nb", "category": "vardag", "prompt": "Hvordan fjerner jeg kalk fra dusjen uten å bruke sterke kjemikalier?"}
+{"id": "nb_002", "lang": "nb", "category": "halsa", "prompt": "Hvorfor er søvn så viktig for hukommelsen?"}
+{"id": "nb_003", "lang": "nb", "category": "teknik_programmering", "prompt": "Hva er forskjellen på en liste og en tuple i Python?"}
+{"id": "nb_004", "lang": "nb", "category": "naturvetenskap", "prompt": "Hvordan oppstår egentlig nordlyset?"}
+{"id": "nb_005", "lang": "nb", "category": "historia_samhalle", "prompt": "Hva skjedde på Eidsvoll i 1814, og hvorfor er det så viktig for Norge?"}
+{"id": "nb_006", "lang": "nb", "category": "kultur", "prompt": "Hvorfor er 17. mai så viktig for nordmenn?"}
+{"id": "nb_007", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hvordan setter man opp et realistisk budsjett for en familie?"}
+{"id": "nb_008", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv et kort dikt om mørketiden i nord."}
+{"id": "nb_009", "lang": "nb", "category": "asikter_resonemang", "prompt": "Hva er fordeler og ulemper ved å lete etter olje i nordområdene?"}
+{"id": "nb_010", "lang": "nb", "category": "vardag", "prompt": "Hva bør jeg sjekke før jeg skriver under på en leiekontrakt?"}
+{"id": "nb_011", "lang": "nb", "category": "halsa", "prompt": "Hvorfor anbefales det å ta tran eller D-vitamin om vinteren i Norge?"}
+{"id": "nb_012", "lang": "nb", "category": "teknik_programmering", "prompt": "Forklar hva en løkke er i programmering, og gi et eksempel."}
+{"id": "nb_013", "lang": "nb", "category": "naturvetenskap", "prompt": "Hvorfor er det midnattssol i Nord-Norge om sommeren?"}
+{"id": "nb_014", "lang": "nb", "category": "historia_samhalle", "prompt": "Fortell om hvordan hverdagen var i Norge under den tyske okkupasjonen."}
+{"id": "nb_015", "lang": "nb", "category": "kultur", "prompt": "Fortell om Henrik Ibsen og hva som gjør stykkene hans aktuelle i dag."}
+{"id": "nb_016", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hva er forskjellen på å investere i aksjer og i fond?"}
+{"id": "nb_017", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv åpningen på en krimroman som foregår på en hytte i påskefjellet."}
+{"id": "nb_018", "lang": "nb", "category": "asikter_resonemang", "prompt": "Hva taler for og imot bompenger i norske byer?"}
+{"id": "nb_019", "lang": "nb", "category": "vardag", "prompt": "Hvordan gjør man hytta klar for vinteren?"}
+{"id": "nb_020", "lang": "nb", "category": "halsa", "prompt": "Hva er forskjellen på mettet og umettet fett?"}
+{"id": "nb_021", "lang": "nb", "category": "teknik_programmering", "prompt": "Hvordan fungerer HTTPS, og hvorfor er det tryggere enn vanlig HTTP?"}
+{"id": "nb_022", "lang": "nb", "category": "naturvetenskap", "prompt": "Hvordan ble de norske fjordene dannet?"}
+{"id": "nb_023", "lang": "nb", "category": "historia_samhalle", "prompt": "Hvorfor ble unionen oppløst i 1905, og hvordan foregikk det?"}
+{"id": "nb_024", "lang": "nb", "category": "kultur", "prompt": "Hva er friluftsliv, og hvorfor står det så sterkt i Norge?"}
+{"id": "nb_025", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hvordan forbereder jeg meg best til et jobbintervju?"}
+{"id": "nb_026", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Fortell en godnatthistorie om et lite troll som er redd for mørket."}
+{"id": "nb_027", "lang": "nb", "category": "asikter_resonemang", "prompt": "Drøft fordeler og ulemper ved elsparkesykler i byene."}
+{"id": "nb_028", "lang": "nb", "category": "vardag", "prompt": "Hva bør jeg ha med i sekken på en dagstur i fjellet?"}
+{"id": "nb_029", "lang": "nb", "category": "halsa", "prompt": "Hvordan kommer jeg i gang med å jogge hvis jeg aldri har trent før?"}
+{"id": "nb_030", "lang": "nb", "category": "teknik_programmering", "prompt": "Hva er en relasjonsdatabase, og hvorfor bruker man SQL til å hente ut data?"}
+{"id": "nb_031", "lang": "nb", "category": "naturvetenskap", "prompt": "Hva er forskjellen på vær og klima?"}
+{"id": "nb_032", "lang": "nb", "category": "historia_samhalle", "prompt": "Hvordan har oljefunnet i Nordsjøen forandret det norske samfunnet?"}
+{"id": "nb_033", "lang": "nb", "category": "kultur", "prompt": "Hva handler Edvard Munchs «Skrik» om, og hvorfor er maleriet så berømt?"}
+{"id": "nb_034", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hva er trepartssamarbeidet i norsk arbeidsliv, og hvorfor er det viktig?"}
+{"id": "nb_035", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv et brev fra en norsk utvandrer i Minnesota til familien hjemme, datert 1880."}
+{"id": "nb_036", "lang": "nb", "category": "asikter_resonemang", "prompt": "Bør mobiltelefoner forbys i skolen? Begrunn svaret ditt."}
+{"id": "nb_037", "lang": "nb", "category": "vardag", "prompt": "Gi meg noen forslag til hva vi kan finne på en regnværsdag med to barn på åtte og ti år."}
+{"id": "nb_038", "lang": "nb", "category": "halsa", "prompt": "Gi meg en oppskrift på en enkel og mettende fiskesuppe."}
+{"id": "nb_039", "lang": "nb", "category": "teknik_programmering", "prompt": "Skriv en Python-funksjon som teller hvor mange ganger hvert ord forekommer i en tekst, og forklar koden."}
+{"id": "nb_040", "lang": "nb", "category": "naturvetenskap", "prompt": "Forklar hvordan et vannkraftverk lager strøm."}
+{"id": "nb_041", "lang": "nb", "category": "historia_samhalle", "prompt": "Hvem var vikingene, og hvorfor dro de på tokt?"}
+{"id": "nb_042", "lang": "nb", "category": "kultur", "prompt": "Hva er påskekrim, og hvordan oppsto tradisjonen?"}
+{"id": "nb_043", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hvorfor setter Norges Bank opp renten, og hvordan påvirker det folk med boliglån?"}
+{"id": "nb_044", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Beskriv en travel morgen på Oslo S sett fra en måkes perspektiv."}
+{"id": "nb_045", "lang": "nb", "category": "asikter_resonemang", "prompt": "Hvilke argumenter finnes for og imot en firedagers arbeidsuke?"}
+{"id": "nb_046", "lang": "nb", "category": "vardag", "prompt": "Hvordan skifter jeg til vinterdekk selv, og hva må jeg passe på?"}
+{"id": "nb_047", "lang": "nb", "category": "halsa", "prompt": "Hvorfor blir man støl dagen etter en hard treningsøkt?"}
+{"id": "nb_048", "lang": "nb", "category": "teknik_programmering", "prompt": "Hva er forskjellen på frontend og backend i webutvikling?"}
+{"id": "nb_049", "lang": "nb", "category": "naturvetenskap", "prompt": "Hvorfor er havet salt, mens vannet i innsjøer er ferskt?"}
+{"id": "nb_050", "lang": "nb", "category": "historia_samhalle", "prompt": "Forklar hvordan Stortinget fungerer og hvordan en lov blir vedtatt."}
+{"id": "nb_051", "lang": "nb", "category": "kultur", "prompt": "Fortell om Asbjørnsen og Moe og de norske folkeeventyrene."}
+{"id": "nb_052", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hvordan ber man sjefen om lønnsøkning?"}
+{"id": "nb_053", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv en kort dialog mellom en brunostskive og en vaffel som krangler om hvem som er best."}
+{"id": "nb_054", "lang": "nb", "category": "asikter_resonemang", "prompt": "Bør mer av Oljefondet brukes til å løse problemer i dag, eller bør pengene spares til fremtidige generasjoner? Drøft begge sider."}
+{"id": "nb_055", "lang": "nb", "category": "vardag", "prompt": "Hvordan kan jeg holde leiligheten varm om vinteren uten at strømregningen blir skyhøy?"}
+{"id": "nb_056", "lang": "nb", "category": "halsa", "prompt": "Hvordan kan jeg spise sunnere uten at matbudsjettet sprekker?"}
+{"id": "nb_057", "lang": "nb", "category": "teknik_programmering", "prompt": "Hvorfor bør man bruke tofaktorautentisering på viktige kontoer?"}
+{"id": "nb_058", "lang": "nb", "category": "naturvetenskap", "prompt": "Hvordan klarer laksen å finne tilbake til elva der den ble født?"}
+{"id": "nb_059", "lang": "nb", "category": "historia_samhalle", "prompt": "Hvordan rammet Svartedauden Norge på 1300-tallet?"}
+{"id": "nb_060", "lang": "nb", "category": "kultur", "prompt": "Hvorfor fikk Jon Fosse Nobelprisen i litteratur, og hva kjennetegner skrivestilen hans?"}
+{"id": "nb_061", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hva bør man tenke på før man starter et enkeltpersonforetak?"}
+{"id": "nb_062", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv en fabel med en moral om tålmodighet."}
+{"id": "nb_063", "lang": "nb", "category": "asikter_resonemang", "prompt": "Hva er de største fordelene og risikoene ved kunstig intelligens i helsevesenet?"}
+{"id": "nb_064", "lang": "nb", "category": "vardag", "prompt": "Det lukter mugg i kjelleren vår. Hva kan årsaken være, og hva bør vi gjøre?"}
+{"id": "nb_065", "lang": "nb", "category": "halsa", "prompt": "Hva skjer i kroppen når man har høyt blodtrykk over lang tid?"}
+{"id": "nb_066", "lang": "nb", "category": "teknik_programmering", "prompt": "Hva er egentlig «skyen», og hvordan fungerer skytjenester i praksis?"}
+{"id": "nb_067", "lang": "nb", "category": "naturvetenskap", "prompt": "Hva skjer hvis noe faller inn i et svart hull?"}
+{"id": "nb_068", "lang": "nb", "category": "historia_samhalle", "prompt": "Hvorfor har det norske folk sagt nei til EU-medlemskap to ganger?"}
+{"id": "nb_069", "lang": "nb", "category": "kultur", "prompt": "Hva er en bunad, og når bruker folk den?"}
+{"id": "nb_070", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hva er BSU, og hvorfor anbefales det for unge som vil kjøpe bolig?"}
+{"id": "nb_071", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv en kort tale til en god venns 50-årsdag. Den skal være rørende, men også litt morsom."}
+{"id": "nb_072", "lang": "nb", "category": "asikter_resonemang", "prompt": "Bør ulven ha en plass i norsk natur? Drøft ulike synspunkter."}
+{"id": "nb_073", "lang": "nb", "category": "vardag", "prompt": "Hvordan smører man langrennsski riktig?"}
+{"id": "nb_074", "lang": "nb", "category": "halsa", "prompt": "Jeg sover dårlig i de lyse sommernettene. Hva kan jeg gjøre for å sove bedre?"}
+{"id": "nb_075", "lang": "nb", "category": "teknik_programmering", "prompt": "Hva er en klasse i objektorientert programmering, og hvordan skiller den seg fra et objekt?"}
+{"id": "nb_076", "lang": "nb", "category": "naturvetenskap", "prompt": "Hvorfor smelter isbreene, og hva betyr det for havnivået?"}
+{"id": "nb_077", "lang": "nb", "category": "historia_samhalle", "prompt": "Hva er Oljefondet, og hvordan brukes pengene?"}
+{"id": "nb_078", "lang": "nb", "category": "kultur", "prompt": "Hvorfor ble TV-serien «Skam» så populær, også utenfor Norge?"}
+{"id": "nb_079", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hvordan kan jeg få pengene til å strekke til når jeg er student og lever på studielån?"}
+{"id": "nb_080", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Tenk deg at du våkner opp i Bergen i år 1350. Beskriv de første timene."}
+{"id": "nb_081", "lang": "nb", "category": "asikter_resonemang", "prompt": "Er det bedre å bo i byen eller på bygda? Drøft fordeler og ulemper."}
+{"id": "nb_082", "lang": "nb", "category": "vardag", "prompt": "Noen tips for å få morgenrutinen til å gå smidigere?"}
+{"id": "nb_083", "lang": "nb", "category": "halsa", "prompt": "Hva er gode alternativer til kjøtt hvis jeg vil få i meg nok protein?"}
+{"id": "nb_084", "lang": "nb", "category": "teknik_programmering", "prompt": "Programmet mitt krasjer, og jeg får bare en lang feilmelding jeg ikke forstår. Hvordan bør jeg gå frem for å finne feilen?"}
+{"id": "nb_085", "lang": "nb", "category": "naturvetenskap", "prompt": "Forklar hvordan vaksiner lærer immunforsvaret å kjenne igjen sykdommer."}
+{"id": "nb_086", "lang": "nb", "category": "historia_samhalle", "prompt": "Fortell om utvandringen fra Norge til Amerika på 1800-tallet."}
+{"id": "nb_087", "lang": "nb", "category": "kultur", "prompt": "Hva kjennetegner joik, og hvilken plass har den i samisk kultur?"}
+{"id": "nb_088", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Jeg har en kollega som stadig tar æren for arbeidet mitt. Hvordan bør jeg håndtere det?"}
+{"id": "nb_089", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv en liten historie om en gammel fiskebåt som drømmer om å se verden."}
+{"id": "nb_090", "lang": "nb", "category": "asikter_resonemang", "prompt": "Hvorfor stemmer noen unge ikke ved valg, og hva kunne man gjort med det?"}
+{"id": "nb_091", "lang": "nb", "category": "vardag", "prompt": "Vi skal ha bursdagsfeiring for en seksåring med tolv gjester. Hvordan planlegger vi dagen så det ikke ender i kaos?"}
+{"id": "nb_092", "lang": "nb", "category": "halsa", "prompt": "Hvordan påvirker fysisk aktivitet den psykiske helsen?"}
+{"id": "nb_093", "lang": "nb", "category": "teknik_programmering", "prompt": "Hva er maskinlæring, forklart enkelt?"}
+{"id": "nb_094", "lang": "nb", "category": "naturvetenskap", "prompt": "Hvordan fungerer batteriet i en elbil, og hvorfor får bilen kortere rekkevidde når det er kaldt?"}
+{"id": "nb_095", "lang": "nb", "category": "historia_samhalle", "prompt": "Hvordan har samenes rettigheter utviklet seg i Norge de siste hundre årene?"}
+{"id": "nb_096", "lang": "nb", "category": "kultur", "prompt": "Anbefal noen norske romaner som er verdt å lese, og forklar hvorfor."}
+{"id": "nb_097", "lang": "nb", "category": "ekonomi_arbete", "prompt": "Hva betyr det at kronekursen svekkes, og hvem merker det mest?"}
+{"id": "nb_098", "lang": "nb", "category": "kreativt_skrivande", "prompt": "Skriv et dikt om fjorden en stille sommerkveld."}
+{"id": "nb_099", "lang": "nb", "category": "asikter_resonemang", "prompt": "Hva taler for og imot vindkraft på land?"}
+{"id": "nb_100", "lang": "nb", "category": "vardag", "prompt": "Hvordan får jeg rødvinsflekker ut av en lys sofa?"}

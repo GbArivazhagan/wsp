@@ -1,0 +1,26 @@
+harness ready: 0 forward passes left (of 0)
+layer type | read gains (inputs) | write gains along d, along dout (outputs)
+L00 lin  |  in_proj_qkv 1.42 in_proj_z 1.17 gate_proj 0.85 up_proj 0.89 | out_proj 1.29/1.27 down_proj 1.10/1.08
+L01 lin  |  in_proj_qkv 0.93 in_proj_z 0.90 gate_proj 0.94 up_proj 0.95 | out_proj 1.03/1.02 down_proj 1.01/1.01
+L02 lin  |  in_proj_qkv 0.94 in_proj_z 0.93 gate_proj 0.94 up_proj 0.95 | out_proj 1.03/1.01 down_proj 0.98/0.98
+L03 full |  q_proj 1.00 k_proj 0.96 v_proj 0.95 gate_proj 0.94 up_proj 0.96 | o_proj 1.03/1.02 down_proj 0.98/0.98
+L04 lin  |  in_proj_qkv 1.00 in_proj_z 0.95 gate_proj 0.96 up_proj 0.97 | out_proj 1.05/1.03 down_proj 0.98/0.99
+L05 lin  |  in_proj_qkv 0.99 in_proj_z 0.97 gate_proj 0.95 up_proj 0.97 | out_proj 0.98/0.98 down_proj 0.98/0.98
+L06 lin  |  in_proj_qkv 0.97 in_proj_z 0.97 gate_proj 0.93 up_proj 0.99 | out_proj 0.98/0.97 down_proj 0.94/0.94
+L07 full |  q_proj 1.00 k_proj 0.90 v_proj 0.89 gate_proj 0.95 up_proj 0.97 | o_proj 0.97/1.00 down_proj 0.97/0.96
+L08 lin  |  in_proj_qkv 1.02 in_proj_z 1.05 gate_proj 1.01 up_proj 1.02 | out_proj 0.99/0.99 down_proj 0.98/0.98
+L09 lin  |  in_proj_qkv 1.04 in_proj_z 1.09 gate_proj 1.01 up_proj 1.02 | out_proj 1.00/0.99 down_proj 1.00/0.99
+L10 lin  |  in_proj_qkv 1.08 in_proj_z 1.10 gate_proj 0.98 up_proj 0.99 | out_proj 0.94/0.95 down_proj 1.01/1.00
+L11 full |  q_proj 1.01 k_proj 1.01 v_proj 0.93 gate_proj 1.00 up_proj 0.99 | o_proj 1.04/1.05 down_proj 1.04/1.04
+L12 lin  |  in_proj_qkv 1.02 in_proj_z 1.05 gate_proj 1.03 up_proj 1.01 | out_proj 1.07/1.08 down_proj 1.07/1.06
+L13 lin  |  in_proj_qkv 1.15 in_proj_z 1.07 gate_proj 1.11 up_proj 0.99 | out_proj 1.03/1.03 down_proj 1.03/1.03
+L14 lin  |  in_proj_qkv 1.12 in_proj_z 1.25 gate_proj 1.11 up_proj 1.01 | out_proj 0.97/0.97 down_proj 1.01/1.02
+L15 full |  q_proj 1.07 k_proj 1.02 v_proj 0.98 gate_proj 1.15 up_proj 1.02 | o_proj 0.95/0.97 down_proj 1.00/1.00
+L16 lin  |  in_proj_qkv 1.18 in_proj_z 1.23 gate_proj 1.11 up_proj 0.99 | out_proj 0.99/1.00 down_proj 0.93/0.93
+L17 lin  |  in_proj_qkv 1.25 in_proj_z 1.23 gate_proj 1.07 up_proj 0.98 | out_proj 0.99/0.99 down_proj 0.94/0.96
+L18 lin  |  in_proj_qkv 1.21 in_proj_z 1.25 gate_proj 1.16 up_proj 0.98 | out_proj 0.97/0.97 down_proj 0.93/0.94
+L19 full |  q_proj 1.30 k_proj 1.05 v_proj 1.03 gate_proj 1.28 up_proj 1.08 | o_proj 0.88/0.90 down_proj 0.99/0.99
+L20 lin  |  in_proj_qkv 1.37 in_proj_z 1.31 gate_proj 1.22 up_proj 1.05 | out_proj 1.03/1.03 down_proj 0.90/0.92
+L21 lin  |  in_proj_qkv 1.28 in_proj_z 1.23 gate_proj 1.26 up_proj 1.12 | out_proj 0.94/0.96 down_proj 0.95/0.96
+L22 lin  |  in_proj_qkv 1.28 in_proj_z 1.24 gate_proj 1.23 up_proj 1.24 | out_proj 1.05/1.04 down_proj 0.97/0.96
+L23 full |  q_proj 1.32 k_proj 1.13 v_proj 1.37 gate_proj 1.56 up_proj 1.44 | o_proj 1.29/1.21 down_proj 0.94/0.93

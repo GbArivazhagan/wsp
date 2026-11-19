@@ -1,0 +1,27 @@
+{
+ "model": "qwen2.5-1.5b-it",
+ "sets": "sv:dev,en:dev,da:dev,nb:dev",
+ "system": "none",
+ "think": "off",
+ "temperature": 0.7,
+ "top_p": 0.8,
+ "top_k": 20,
+ "presence_penalty": 0.0,
+ "repetition_penalty": 1.0,
+ "max_tokens": 512,
+ "n": 2,
+ "seed": 0,
+ "max_model_len": 4096,
+ "gpu_mem": 0.5,
+ "limit": 0,
+ "out": "results/scan/qwen2.5-1.5b-it_sys-none.jsonl",
+ "model_path": "$HF_HOME/hub/models--Qwen--Qwen2.5-1.5B-Instruct/snapshots/989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+ "registry": [
+  "Qwen/Qwen2.5-1.5B-Instruct",
+  "989aa7980e"
+ ],
+ "system_text": null,
+ "n_rows": 236,
+ "gen_seconds": 60.3,
+ "example_prompt": "<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nVad är det bästa sättet att förvara färska örter så att de håller längre?<|im_end|>\n<|im_start|>assistant\n"
+}

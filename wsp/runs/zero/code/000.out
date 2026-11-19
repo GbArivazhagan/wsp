@@ -1,0 +1,54 @@
+harness ready: 0 forward passes left (of 0)
+model.language_model.embed_tokens.weight (248320, 1024)
+model.language_model.layers.0.input_layernorm.weight (1024,)
+model.language_model.layers.0.linear_attn.A_log (16,)
+model.language_model.layers.0.linear_attn.conv1d.weight (6144, 1, 4)
+model.language_model.layers.0.linear_attn.dt_bias (16,)
+model.language_model.layers.0.linear_attn.in_proj_a.weight (16, 1024)
+model.language_model.layers.0.linear_attn.in_proj_b.weight (16, 1024)
+model.language_model.layers.0.linear_attn.in_proj_qkv.weight (6144, 1024)
+model.language_model.layers.0.linear_attn.in_proj_z.weight (2048, 1024)
+model.language_model.layers.0.linear_attn.norm.weight (128,)
+model.language_model.layers.0.linear_attn.out_proj.weight (1024, 2048)
+model.language_model.layers.0.mlp.down_proj.weight (1024, 3584)
+model.language_model.layers.0.mlp.gate_proj.weight (3584, 1024)
+model.language_model.layers.0.mlp.up_proj.weight (3584, 1024)
+model.language_model.layers.0.post_attention_layernorm.weight (1024,)
+model.language_model.layers.3.input_layernorm.weight (1024,)
+model.language_model.layers.3.mlp.down_proj.weight (1024, 3584)
+model.language_model.layers.3.mlp.gate_proj.weight (3584, 1024)
+model.language_model.layers.3.mlp.up_proj.weight (3584, 1024)
+model.language_model.layers.3.post_attention_layernorm.weight (1024,)
+model.language_model.layers.3.self_attn.k_norm.weight (256,)
+model.language_model.layers.3.self_attn.k_proj.weight (512, 1024)
+model.language_model.layers.3.self_attn.o_proj.weight (1024, 2048)
+model.language_model.layers.3.self_attn.q_norm.weight (256,)
+model.language_model.layers.3.self_attn.q_proj.weight (4096, 1024)
+model.language_model.layers.3.self_attn.v_proj.weight (512, 1024)
+model.language_model.norm.weight (1024,)
+n tensors 320
+other keys: ['mtp.fc.weight', 'mtp.layers.0.input_layernorm.weight', 'mtp.layers.0.mlp.down_proj.weight', 'mtp.layers.0.mlp.gate_proj.weight', 'mtp.layers.0.mlp.up_proj.weight', 'mtp.layers.0.post_attention_layernorm.weight', 'mtp.layers.0.self_attn.k_norm.weight', 'mtp.layers.0.self_attn.k_proj.weight', 'mtp.layers.0.self_attn.o_proj.weight', 'mtp.layers.0.self_attn.q_norm.weight', 'mtp.layers.0.self_attn.q_proj.weight', 'mtp.layers.0.self_attn.v_proj.weight', 'mtp.norm.weight', 'mtp.pre_fc_norm_embedding.weight', 'mtp.pre_fc_norm_hidden.weight']
+n train 200 keys ['id', 'gsm8k_train_index', 'question_en', 'question_sv', 'answer', 'solution_en']
+tokens sv/en 72.625 58.37 words 41.7 44.24 fertility 1.7416067146282974 1.319394213381555
+'bananer' [6636, 206422] ['ban', 'aner']
+' bananer' [8673, 206422] [' ban', 'aner']
+' bananter' [8673, 77272] [' ban', 'anter']
+' klasar' [155821, 277] [' klas', 'ar']
+' klassar' [36702, 277] [' klass', 'ar']
+' högar' [41344, 11816] [' hö', 'gar']
+' högare' [190176, 532] [' hög', 'are']
+' apor' [1391, 269] [' ap', 'or']
+' apa' [58551] [' apa']
+' bananas' [65069] [' bananas']
+' monkeys' [58674] [' monkeys']
+' tyg' [13187, 70] [' ty', 'g']
+' kvadratfot' [15702, 245807, 69, 349] [' kv', 'adrat', 'f', 'ot']
+' återstående' [198674, 231361] [' åter', 'stående']
+' varje' [206311] [' varje']
+' each' [1754] [' each']
+' Resonera' [1737, 263, 2337] [' Res', 'on', 'era']
+' steg' [352, 766] [' st', 'eg']
+' för' [16151] [' för']
+' slutgiltiga' [37123, 70, 2868, 16063] [' slut', 'g', 'ilt', 'iga']
+' svar' [180940] [' svar']
+' inom' [186769] [' inom']

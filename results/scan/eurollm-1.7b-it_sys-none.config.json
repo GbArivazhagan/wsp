@@ -1,0 +1,27 @@
+{
+ "model": "eurollm-1.7b-it",
+ "sets": "sv:dev,en:dev,da:dev,nb:dev",
+ "system": "none",
+ "think": "off",
+ "temperature": 0.7,
+ "top_p": 0.8,
+ "top_k": 20,
+ "presence_penalty": 0.0,
+ "repetition_penalty": 1.0,
+ "max_tokens": 512,
+ "n": 2,
+ "seed": 0,
+ "max_model_len": 4096,
+ "gpu_mem": 0.5,
+ "limit": 0,
+ "out": "results/scan/eurollm-1.7b-it_sys-none.jsonl",
+ "model_path": "$HF_HOME/hub/models--utter-project--EuroLLM-1.7B-Instruct/snapshots/a25c7fa65fc2a644e6270b8940dbe295b51da681",
+ "registry": [
+  "utter-project/EuroLLM-1.7B-Instruct",
+  "a25c7fa65f"
+ ],
+ "system_text": null,
+ "n_rows": 236,
+ "gen_seconds": 59.3,
+ "example_prompt": "<|im_start|>system\n<|im_end|>\n<|im_start|>user\nVad är det bästa sättet att förvara färska örter så att de håller längre?<|im_end|>\n<|im_start|>assistant\n"
+}
